@@ -1,4 +1,4 @@
-| Mod	                   |
+| Mods	                   |
 |--------------------------|
 | [JourneyMap (by techbrew)](https://minecraft.curseforge.com/mc-mods/32274)
 | [Chameleon (by jaquadro)](https://minecraft.curseforge.com/mc-mods/230497)
