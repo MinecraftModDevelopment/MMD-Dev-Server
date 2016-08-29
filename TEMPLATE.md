@@ -6,4 +6,4 @@
 
 **Link To Download**:
 
-**Required Mods**:
+**Dependant Mods**:
