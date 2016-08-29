@@ -18,69 +18,39 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-08-29T00:07:23.2524612Z",
+  "lastPlayed": "0001-01-01T00:00:00",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
   "projectID": 0,
   "fileID": 0,
-  "customAuthor": "knoxhack",
+  "customAuthor": "Knoxhack & TheCodedOne",
   "modpackOverrides": null,
   "isMemoryOverride": false,
-  "allocatedMemory": 4096,
-  "guid": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
+  "allocatedMemory": 5376,
+  "guid": "d2614f44-8499-424b-8d50-af09138bb662",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
-  "name": "MMD-Dev-Server",
+  "installPath": "C:\\Users\\Adam\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
+  "name": "MMD Dev Server",
   "cachedScans": [
-    {
-      "folderName": "CustomMainMenu-MC1.10.2-2.0.2.jar",
-      "fingerprint": 589736899,
-      "fileDateHash": 1176839448,
-      "sectionID": 6,
-      "individualFingerprints": [
-        589736899
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T00:17:50.6915314Z",
-      "lastWriteTimeUtc": "2016-08-29T00:17:48.3063947Z",
-      "queryTimestamp": "2016-08-29T00:17:50.7755362Z",
-      "fileCount": 1,
-      "fileSize": 170279
-    },
     {
       "folderName": "journeymap-1.10.2-5.2.4-unlimited.jar",
       "fingerprint": 2310141037,
-      "fileDateHash": 2294240886,
+      "fileDateHash": 609031200,
       "sectionID": 6,
       "individualFingerprints": [
         2310141037
       ],
       "status": 1,
-      "timestamp": "2016-08-29T00:11:53.0226897Z",
-      "lastWriteTimeUtc": "2016-08-29T00:07:48.6629744Z",
-      "queryTimestamp": "2016-08-29T00:11:53.2307985Z",
+      "timestamp": "2016-08-29T09:03:54.01407Z",
+      "lastWriteTimeUtc": "2016-08-28T16:21:40Z",
+      "queryTimestamp": "2016-08-29T09:03:54.1570804Z",
       "fileCount": 1,
       "fileSize": 1797006
-    },
-    {
-      "folderName": "ResourceLoader-MC1.9.4-1.5.1.jar",
-      "fingerprint": 2750958649,
-      "fileDateHash": 2377369920,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2750958649
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T00:17:50.6945312Z",
-      "lastWriteTimeUtc": "2016-08-29T00:17:48.3643994Z",
-      "queryTimestamp": "2016-08-29T00:17:50.7755362Z",
-      "fileCount": 1,
-      "fileSize": 12088
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-08-29T00:07:16.6560283Z",
+  "lastPreviousMatchUpdate": "2016-08-29T09:03:54.4529551Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -101,11 +71,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-08-29T00:17:48.3033949Z",
+  "installDate": "2016-08-29T09:03:29.6541456Z",
   "installedAddons": [
     {
       "addonID": 32274,
-      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
       "installedFile": {
         "Id": 2311898,
         "FileName": "journeymap-1.10.2-5.2.4",
@@ -170,9 +140,58 @@
           "1.10.2"
         ]
       },
-      "dateInstalled": "2016-08-29T00:07:48.6659747Z",
-      "dateUpdated": "2016-08-29T00:07:48.6730289Z",
-      "dateLastUpdateAttempted": "2016-08-29T00:07:48.6730289Z",
+      "dateInstalled": "2016-08-29T09:03:54.4469504Z",
+      "dateUpdated": "2015-08-29T09:03:54.4469504Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 230497,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
+      "installedFile": {
+        "Id": 2323186,
+        "FileName": "Chameleon-1.10-2.1.7.jar",
+        "FileNameOnDisk": "Chameleon-1.10-2.1.7.jar",
+        "FileDate": "2016-08-15T04:15:19",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2323/186/Chameleon-1.10-2.1.7.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "com",
+            "Fingerprint": 56551857
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2474172263
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 2716046286,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:04:14.3869339Z",
+      "dateUpdated": "2016-08-29T09:04:14.4663321Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:14.4663321Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -184,16 +203,121 @@
       "manifestName": null
     },
     {
-      "addonID": 226406,
-      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
+      "addonID": 223852,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
       "installedFile": {
-        "Id": 2326056,
-        "FileName": "CustomMainMenu-MC1.10.2-2.0.2.jar",
-        "FileNameOnDisk": "CustomMainMenu-MC1.10.2-2.0.2.jar",
-        "FileDate": "2016-08-24T21:32:25",
+        "Id": 2325151,
+        "FileName": "StorageDrawers-1.10.2-3.2.6.jar",
+        "FileNameOnDisk": "StorageDrawers-1.10.2-3.2.6.jar",
+        "FileDate": "2016-08-20T04:36:02",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/56/CustomMainMenu-MC1.10.2-2.0.2.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2325/151/StorageDrawers-1.10.2-3.2.6.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 230497,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 534278295
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 1114251067
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3663630594
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 3445985842,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:04:15.3969222Z",
+      "dateUpdated": "2016-08-29T09:04:15.4254638Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:15.4254638Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 69118,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
+      "installedFile": {
+        "Id": 2320593,
+        "FileName": "Morpheus-1.10.2-3.1.7.jar",
+        "FileNameOnDisk": "Morpheus-1.10.2-3.1.7.jar",
+        "FileDate": "2016-08-03T09:38:07",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2320/593/Morpheus-1.10.2-3.1.7.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4131946939
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1340170249
+          }
+        ],
+        "PackageFingerprint": 1706967642,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:04:21.9704001Z",
+      "dateUpdated": "2016-08-29T09:04:21.9844152Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:21.9844152Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
+      "installedFile": {
+        "Id": 2325537,
+        "FileName": "jei_1.10.2-3.9.0.246.jar",
+        "FileNameOnDisk": "jei_1.10.2-3.9.0.246.jar",
+        "FileDate": "2016-08-22T05:54:55",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2325/537/jei_1.10.2-3.9.0.246.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -201,33 +325,29 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2348093900
-          },
-          {
-            "Foldername": "lumien",
-            "Fingerprint": 3259243358
+            "Fingerprint": 3537727331
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 461911385
+            "Fingerprint": 224947992
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 4216042901
+            "Fingerprint": 3699777108
           },
           {
-            "Foldername": "net",
-            "Fingerprint": 2564848441
+            "Foldername": "mezz",
+            "Fingerprint": 2568502585
           }
         ],
-        "PackageFingerprint": 589736899,
+        "PackageFingerprint": 778816626,
         "GameVersion": [
           "1.10.2"
         ]
       },
-      "dateInstalled": "2016-08-29T00:17:21.3662409Z",
-      "dateUpdated": "2016-08-29T00:17:21.3682429Z",
-      "dateLastUpdateAttempted": "2016-08-29T00:17:21.3682429Z",
+      "dateInstalled": "2016-08-29T09:04:42.4228773Z",
+      "dateUpdated": "2016-08-29T09:04:42.4433915Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:42.4433915Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -239,45 +359,59 @@
       "manifestName": null
     },
     {
-      "addonID": 226447,
-      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
+      "addonID": 241160,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
       "installedFile": {
-        "Id": 2307834,
-        "FileName": "ResourceLoader-MC1.9.4-1.5.1.jar",
-        "FileNameOnDisk": "ResourceLoader-MC1.9.4-1.5.1.jar",
-        "FileDate": "2016-06-15T20:02:26",
+        "Id": 2301216,
+        "FileName": "NetherPortalFix v4.0.1",
+        "FileNameOnDisk": "netherportalfix-mc1.9.4-4.0.1.jar",
+        "FileDate": "2016-05-19T17:04:33",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2307/834/ResourceLoader-MC1.9.4-1.5.1.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2301/216/netherportalfix-mc1.9.4-4.0.1.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
         "IsAvailable": true,
         "Modules": [
           {
-            "Foldername": "lumien",
-            "Fingerprint": 1529192133
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3640198440
-          },
-          {
             "Foldername": "META-INF",
-            "Fingerprint": 980839826
+            "Fingerprint": 2970249589
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1065557811
           }
         ],
-        "PackageFingerprint": 2750958649,
+        "PackageFingerprint": 1543604915,
         "GameVersion": [
           "1.10.2",
+          "1.10.1",
           "1.10",
           "1.9.4"
         ]
       },
-      "dateInstalled": "2016-08-29T00:17:50.8905429Z",
-      "dateUpdated": "2015-08-29T00:17:50.8905429Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateInstalled": "2016-08-29T09:07:17.2651955Z",
+      "dateUpdated": "2016-08-29T09:07:17.307726Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:07:17.307726Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 238551,
+      "gameInstanceID": "d2614f44-8499-424b-8d50-af09138bb662",
+      "installedFile": null,
+      "dateInstalled": "2016-08-29T09:08:13.7045484Z",
+      "dateUpdated": "2016-08-29T09:08:13.7410418Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:08:13.7410418Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
