@@ -28,10 +28,10 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 4096,
-  "guid": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+  "guid": "45af3822-0830-4192-b64b-2431a1fdbc8b",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
-  "name": "MMD-Dev-Server",
+  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\2016\\",
+  "name": "2016",
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2016-08-29T00:07:16.6560283Z",
@@ -55,7 +55,7 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-08-29T00:07:09.5095596Z",
+  "installDate": "2016-08-29T00:10:09.0966991Z",
   "installedAddons": [],
   "isMigrated": false
 }
