@@ -28,11 +28,26 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 4096,
-  "guid": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+  "guid": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
   "gameTypeID": 432,
   "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
   "name": "MMD-Dev-Server",
   "cachedScans": [
+    {
+      "folderName": "CustomMainMenu-MC1.10.2-2.0.2.jar",
+      "fingerprint": 589736899,
+      "fileDateHash": 1176839448,
+      "sectionID": 6,
+      "individualFingerprints": [
+        589736899
+      ],
+      "status": 1,
+      "timestamp": "2016-08-29T00:17:50.6915314Z",
+      "lastWriteTimeUtc": "2016-08-29T00:17:48.3063947Z",
+      "queryTimestamp": "2016-08-29T00:17:50.7755362Z",
+      "fileCount": 1,
+      "fileSize": 170279
+    },
     {
       "folderName": "journeymap-1.10.2-5.2.4-unlimited.jar",
       "fingerprint": 2310141037,
@@ -47,6 +62,21 @@
       "queryTimestamp": "2016-08-29T00:11:53.2307985Z",
       "fileCount": 1,
       "fileSize": 1797006
+    },
+    {
+      "folderName": "ResourceLoader-MC1.9.4-1.5.1.jar",
+      "fingerprint": 2750958649,
+      "fileDateHash": 2377369920,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2750958649
+      ],
+      "status": 1,
+      "timestamp": "2016-08-29T00:17:50.6945312Z",
+      "lastWriteTimeUtc": "2016-08-29T00:17:48.3643994Z",
+      "queryTimestamp": "2016-08-29T00:17:50.7755362Z",
+      "fileCount": 1,
+      "fileSize": 12088
     }
   ],
   "isValid": true,
@@ -71,11 +101,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-08-29T00:07:09.5095596Z",
+  "installDate": "2016-08-29T00:17:48.3033949Z",
   "installedAddons": [
     {
       "addonID": 32274,
-      "gameInstanceID": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
       "installedFile": {
         "Id": 2311898,
         "FileName": "journeymap-1.10.2-5.2.4",
@@ -155,7 +185,7 @@
     },
     {
       "addonID": 226406,
-      "gameInstanceID": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
       "installedFile": {
         "Id": 2326056,
         "FileName": "CustomMainMenu-MC1.10.2-2.0.2.jar",
@@ -199,6 +229,55 @@
       "dateUpdated": "2016-08-29T00:17:21.3682429Z",
       "dateLastUpdateAttempted": "2016-08-29T00:17:21.3682429Z",
       "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 226447,
+      "gameInstanceID": "4b5bc70c-dd15-4c78-9ad7-6151ad287b29",
+      "installedFile": {
+        "Id": 2307834,
+        "FileName": "ResourceLoader-MC1.9.4-1.5.1.jar",
+        "FileNameOnDisk": "ResourceLoader-MC1.9.4-1.5.1.jar",
+        "FileDate": "2016-06-15T20:02:26",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2307/834/ResourceLoader-MC1.9.4-1.5.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "lumien",
+            "Fingerprint": 1529192133
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3640198440
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 980839826
+          }
+        ],
+        "PackageFingerprint": 2750958649,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T00:17:50.8905429Z",
+      "dateUpdated": "2015-08-29T00:17:50.8905429Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
