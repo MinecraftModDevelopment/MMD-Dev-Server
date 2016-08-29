@@ -28,11 +28,27 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 4096,
-  "guid": "45af3822-0830-4192-b64b-2431a1fdbc8b",
+  "guid": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\2016\\",
-  "name": "2016",
-  "cachedScans": [],
+  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
+  "name": "MMD-Dev-Server",
+  "cachedScans": [
+    {
+      "folderName": "journeymap-1.10.2-5.2.4-unlimited.jar",
+      "fingerprint": 2310141037,
+      "fileDateHash": 2294240886,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2310141037
+      ],
+      "status": 1,
+      "timestamp": "2016-08-29T00:11:53.0226897Z",
+      "lastWriteTimeUtc": "2016-08-29T00:07:48.6629744Z",
+      "queryTimestamp": "2016-08-29T00:11:53.2307985Z",
+      "fileCount": 1,
+      "fileSize": 1797006
+    }
+  ],
   "isValid": true,
   "lastPreviousMatchUpdate": "2016-08-29T00:07:16.6560283Z",
   "isEnabled": true,
@@ -55,7 +71,143 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-08-29T00:10:09.0966991Z",
-  "installedAddons": [],
+  "installDate": "2016-08-29T00:07:09.5095596Z",
+  "installedAddons": [
+    {
+      "addonID": 32274,
+      "gameInstanceID": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+      "installedFile": {
+        "Id": 2311898,
+        "FileName": "journeymap-1.10.2-5.2.4",
+        "FileNameOnDisk": "journeymap-1.10.2-5.2.4-unlimited.jar",
+        "FileDate": "2016-06-30T07:10:21",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2311/898/journeymap-1.10.2-5.2.4-unlimited.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 226005,
+            "Type": 2
+          },
+          {
+            "AddOnId": 242519,
+            "Type": 3
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "ar",
+            "Fingerprint": 1901751935
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1326296658
+          },
+          {
+            "Foldername": "journeymap",
+            "Fingerprint": 2041999994
+          },
+          {
+            "Foldername": "license.txt",
+            "Fingerprint": 43971535
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3714591240
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3640992121
+          },
+          {
+            "Foldername": "modinfo",
+            "Fingerprint": 859090345
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 522947940
+          },
+          {
+            "Foldername": "se",
+            "Fingerprint": 90287982
+          }
+        ],
+        "PackageFingerprint": 2310141037,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T00:07:48.6659747Z",
+      "dateUpdated": "2016-08-29T00:07:48.6730289Z",
+      "dateLastUpdateAttempted": "2016-08-29T00:07:48.6730289Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 226406,
+      "gameInstanceID": "c41a37ca-6765-47d4-8866-bafed45cc8c0",
+      "installedFile": {
+        "Id": 2326056,
+        "FileName": "CustomMainMenu-MC1.10.2-2.0.2.jar",
+        "FileNameOnDisk": "CustomMainMenu-MC1.10.2-2.0.2.jar",
+        "FileDate": "2016-08-24T21:32:25",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2326/56/CustomMainMenu-MC1.10.2-2.0.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2348093900
+          },
+          {
+            "Foldername": "lumien",
+            "Fingerprint": 3259243358
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 461911385
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 4216042901
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 2564848441
+          }
+        ],
+        "PackageFingerprint": 589736899,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T00:17:21.3662409Z",
+      "dateUpdated": "2016-08-29T00:17:21.3682429Z",
+      "dateLastUpdateAttempted": "2016-08-29T00:17:21.3682429Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    }
+  ],
   "isMigrated": false
 }
