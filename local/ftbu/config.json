@@ -1,0 +1,45 @@
+{
+  "world": {
+    "auto_restart": true,
+    "chunk_claiming": true,
+    "chunk_loading": true,
+    "restart_timer": 0.0,
+    "safe_spawn": false,
+    "blocked_entities": [],
+    "ranks_enabled": false,
+    "spawn_area_in_sp": false,
+    "server_info_difficulty": true,
+    "server_info_mode": true
+  },
+  "backups": {
+    "enabled": true,
+    "backups_to_keep": 12,
+    "backup_timer": 2.0,
+    "compression_level": 1,
+    "folder": "",
+    "display_file_size": true,
+    "use_separate_thread": true,
+    "need_online_players": true
+  },
+  "general": {
+    "restart_timer": 0.0,
+    "safe_spawn": false,
+    "blocked_entities": [],
+    "ranks_enabled": false,
+    "spawn_area_in_sp": false,
+    "server_info_difficulty": true,
+    "server_info_mode": true
+  },
+  "login": {
+    "enable_motd": true,
+    "enable_starting_items": true,
+    "motd": [],
+    "starting_items": []
+  },
+  "webapi": {
+    "enabled": false,
+    "port": 4509,
+    "autostart": true,
+    "output_map": false
+  }
+}

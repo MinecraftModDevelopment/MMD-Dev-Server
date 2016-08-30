@@ -1,0 +1,17 @@
+{
+  "default_rank": "Player",
+  "ranks": {
+    "Player": {
+      "parent": "",
+      "color": "white",
+      "prefix": "",
+      "badge": ""
+    },
+    "Admin": {
+      "parent": "Player",
+      "color": "dark_green",
+      "prefix": "",
+      "badge": ""
+    }
+  }
+}

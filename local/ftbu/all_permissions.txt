@@ -1,0 +1,21 @@
+Modifying this file won't do anything, it just shows all available permission IDs. See ranks_example.json
+
+-- Permissions --
+
+-- Config --
+
+ftbu.chunkloader.max_chunks
+
+ftbu.chunkloader.offline_timer
+
+ftbu.chunkloader.type
+
+ftbu.claims.break_whitelist
+
+ftbu.claims.dimension_blacklist
+
+ftbu.claims.forced_explosions
+
+ftbu.claims.max_chunks
+
+ftbu.homes.max

@@ -1,0 +1,44 @@
+{
+  "default_rank": "Player",
+  "ranks": {
+    "Player": {
+      "parent": "",
+      "color": "white",
+      "prefix": "",
+      "badge": "",
+      "config": {
+        "ftbu.chunkloader.max_chunks": 50,
+        "ftbu.chunkloader.offline_timer": 24.0,
+        "ftbu.chunkloader.type": "offline",
+        "ftbu.claims.break_whitelist": [
+          "OpenBlocks:grave"
+        ],
+        "ftbu.claims.dimension_blacklist": [
+          1
+        ],
+        "ftbu.claims.forced_explosions": "-",
+        "ftbu.claims.max_chunks": 100,
+        "ftbu.homes.max": 1
+      }
+    },
+    "Admin": {
+      "parent": "",
+      "color": "dark_green",
+      "prefix": "",
+      "badge": "",
+      "permissions": [
+        "+*"
+      ],
+      "config": {
+        "ftbu.chunkloader.max_chunks": 5000,
+        "ftbu.chunkloader.offline_timer": -1.0,
+        "ftbu.claims.break_whitelist": [
+          "*"
+        ],
+        "ftbu.claims.dimension_blacklist": [],
+        "ftbu.claims.max_chunks": 1000,
+        "ftbu.homes.max": 100
+      }
+    }
+  }
+}

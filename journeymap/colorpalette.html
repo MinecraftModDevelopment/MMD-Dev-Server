@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<!--
+  ~ JourneyMap mod for Minecraft
+  ~
+  ~ Copyright (C) 2011-2016 Mark Woodman.  All Rights Reserved.
+  ~ This file may not be altered, file-hosted, re-packaged, or distributed in part or in whole
+  ~ without express written permission by Mark Woodman <mwoodman@techbrew.net>.
+  -->
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>JourneyMap Color Palette</title>
+    <meta name="author" content="journeymap.info">
+    <style>
+        html, body { height: 100% }
+        body{font-family: Helvetica,Arial,sans-serif; font-size:11px}
+        .entry{width:300px;margin-bottom:4px;display:inline-block;text-align:middle}
+        .rgb{display:inline;float:left;height:40px;width:40px;margin-right:5px}
+        .blockName{font-weight:bold;}
+        .blockInfo{font-size:10px;}
+
+        #header {text-align: center; border: 1px solid green; background-color: #efefef; padding-bottom: 10px;}
+        #description {margin:10px; font-family: monospace; white-space: pre;}
+        #generated {font-style: italic;}
+    </style>
+</head>
+<body>
+
+<div id="header">
+
+    <h1 id="title">JourneyMap Color Palette</h1>
+
+    <div id="overview">
+        <div id="generated"></div>
+    </div>
+
+</div>
+
+<div id="description">Put this file in the same directory as colorpalette.json to view the color palette.</div>
+
+<div id="contents">
+
+    <h2>Mods:</h2>
+
+    <div id="modNames"></div>
+
+    <h2>Resource Packs:</h2>
+
+    <div id="resourcePacks"></div>
+
+    <hr/>
+
+    <h2><span id="colorCount"></span> Basic Colors:</h2>
+
+    <div id="blockColors"></div>
+</div>
+
+<script src="colorpalette.json"></script>
+
+<script language="JavaScript">
+
+function createColorSpans(div, list) {
+
+    var count = 0;
+    for(i = 0; i<list.length; i++) {
+        var blockColor = list[i];
+        div.appendChild(createColorSpan(blockColor));
+        count++;
+
+        var variants = blockColor.variants;
+        if(variants && variants.length) {
+            for(j = 0;j<blockColor.variants.length; j++) {
+                var variant = blockColor.variants[j];
+                if(!variant.uid) {
+                    variant.uid = blockColor.uid;
+                }
+                if(!variant.name) {
+                    variant.name = blockColor.name;
+                }
+                if(!variant.color) {
+                    variant.color = blockColor.color;
+                }
+                if(!variant.alpha) {
+                    variant.alpha = blockColor.alpha;
+                }
+
+                div.appendChild(createColorSpan(variant));
+                count++;
+            }
+        }
+    }
+
+    document.getElementById("colorCount").innerHTML = count;
+}
+
+function createColorSpan(blockColor) {
+
+    if(!blockColor.color) {
+        console.log(blockColor);
+    }
+
+    var strippedColor = blockColor.color.split("#")[1];
+    var span = document.createElement("span");
+    span.className='entry';
+    var alphaInfo = (blockColor.alpha && blockColor.alpha<1) ? ("Alpha: " + blockColor.alpha) : "&nbsp;";
+    var html = "<a target='_rgb' href='http://www.colorcodehex.com/" + strippedColor + "/'>" +
+                     "<span class='rgb' style='background-color:" + blockColor.color +"' title='" + blockColor.color +"'></span></a>" +
+                     "<span class='blockName'>" + blockColor.name + "</span><br/>" +
+                     "<span class='blockInfo'>" + blockColor.uid + " " + blockColor.meta +"</span><br/>" +
+                     "<span class='blockInfo'>" + alphaInfo + "</span>";
+    span.innerHTML = html;
+
+    return span;
+}
+
+function readData() {
+    if(typeof(blockColors)=='undefined') {
+        document.getElementById("overview").innerHTML = "";
+        document.getElementById("contents").innerHTML = "";
+    } else {
+        document.getElementById("description").innerHTML = colorpalette.description.join("<br/>");
+        document.getElementById("resourcePacks").innerHTML = colorpalette.resourcePacks;
+        document.getElementById("modNames").innerHTML = colorpalette.modNames;
+        document.getElementById("generated").innerHTML = colorpalette.generated;
+
+        var basicColorsDiv = document.getElementById("blockColors");
+        createColorSpans(basicColorsDiv, colorpalette.blockColors);
+
+    }
+}
+
+readData();
+
+
+</script>
+
+</body>
+
+</html>
+
