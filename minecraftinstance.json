@@ -18,785 +18,129 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-08-30T03:22:27.2388662Z",
+  "lastPlayed": "0001-01-01T00:00:00",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
   "projectID": 0,
   "fileID": 0,
-  "customAuthor": "knoxhack",
+  "customAuthor": "Knoxhack & TheCodedOne",
   "modpackOverrides": null,
-  "isMemoryOverride": true,
-  "allocatedMemory": 6144,
-  "guid": "bcf17e03-5647-488b-966b-dace7a18083f",
+  "isMemoryOverride": false,
+  "allocatedMemory": 5376,
+  "guid": "de305782-40b7-46f1-af76-d1536910d88f",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\knoxhack\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
+  "installPath": "C:\\Users\\Adam\\Documents\\Curse\\Minecraft\\Instances\\MMD-Dev-Server\\",
   "name": "MMD-Dev-Server",
   "cachedScans": [
     {
-      "folderName": "FTBUtilities-1.9.4-2.1.0-pre3.jar",
-      "fingerprint": 3869369672,
-      "fileDateHash": 2357570657,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3869369672
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1823906Z",
-      "lastWriteTimeUtc": "2016-08-30T02:32:37.6247445Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6564418Z",
-      "fileCount": 1,
-      "fileSize": 242472
-    },
-    {
-      "folderName": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
-      "fingerprint": 2396360055,
-      "fileDateHash": 836386867,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2396360055
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4068455Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0412349Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7468678Z",
-      "fileCount": 1,
-      "fileSize": 7241
-    },
-    {
-      "folderName": "Bagginses-1.10.2-3.0.4b.jar",
-      "fingerprint": 2596856339,
-      "fileDateHash": 722715726,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2596856339
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.2868409Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:38.9022277Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 176744
-    },
-    {
-      "folderName": "InventoryTweaks-1.61-58.jar",
-      "fingerprint": 1932858315,
-      "fileDateHash": 4240104206,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1932858315
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4078458Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0472365Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 230808
-    },
-    {
-      "folderName": "ModernMetals-0.11.0.jar",
-      "fingerprint": 878187694,
-      "fileDateHash": 3803186488,
-      "sectionID": 6,
-      "individualFingerprints": [
-        878187694
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1823906Z",
-      "lastWriteTimeUtc": "2016-08-30T02:21:29.1052808Z",
-      "queryTimestamp": "2016-08-30T02:49:13.64044Z",
-      "fileCount": 1,
-      "fileSize": 1279267
-    },
-    {
-      "folderName": "ironchest-1.10.2-7.0.9.796.jar",
-      "fingerprint": 3904181707,
-      "fileDateHash": 1014891906,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3904181707
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4108466Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4492597Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 148237
-    },
-    {
-      "folderName": "MekanismGenerators-1.10.2-9.1.1.290.jar",
-      "fingerprint": 2535289682,
-      "fileDateHash": 323264196,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2535289682
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6259161Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.2162449Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 340743
-    },
-    {
-      "folderName": "Mantle-1.10.2-0.10.4.jar",
-      "fingerprint": 4182609833,
-      "fileDateHash": 3598571000,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4182609833
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4738971Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0812387Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 3202531
-    },
-    {
-      "folderName": "netherportalfix-mc1.9.4-4.0.1.jar",
-      "fingerprint": 1543604915,
-      "fileDateHash": 4222804974,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1543604915
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6369113Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.507262Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 6136
-    },
-    {
-      "folderName": "Modularity-[1.10.2]-0.1.0 (1).jar",
-      "fingerprint": 3958518159,
-      "fileDateHash": 1493455249,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3958518159
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T03:22:17.6213172Z",
-      "lastWriteTimeUtc": "2016-08-30T00:42:11.3355194Z",
-      "queryTimestamp": "2016-08-30T03:22:17.8693305Z",
-      "fileCount": 1,
-      "fileSize": 997243
-    },
-    {
-      "folderName": "chiselsandbits-12.1.jar",
-      "fingerprint": 347556293,
-      "fileDateHash": 4143529267,
-      "sectionID": 6,
-      "individualFingerprints": [
-        347556293
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4008454Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4452586Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 631602
-    },
-    {
-      "folderName": "AdditionalBanners-1.10.2-1.3.0.20.jar",
-      "fingerprint": 3858170724,
-      "fileDateHash": 225747482,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3858170724
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.2848408Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:38.8992273Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 202884
-    },
-    {
-      "folderName": "hempfarmer-1.9.4-1.10.2-1.7.1.jar",
-      "fingerprint": 2305851852,
-      "fileDateHash": 4156631340,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2305851852
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1823906Z",
-      "lastWriteTimeUtc": "2016-08-30T02:18:43.4450281Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6554411Z",
-      "fileCount": 1,
-      "fileSize": 243055
-    },
-    {
-      "folderName": "Morpheus-1.10.2-3.1.7.jar",
-      "fingerprint": 1706967642,
-      "fileDateHash": 526308549,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1706967642
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6369113Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.2712484Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 19601
-    },
-    {
-      "folderName": "Bookshelf-1.10.2-1.3.0.282.jar",
-      "fingerprint": 1327662069,
-      "fileDateHash": 2833530784,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1327662069
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.3398418Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:38.9532305Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 161158
-    },
-    {
-      "folderName": "NetherMetals_1.9-1.1.2.jar",
-      "fingerprint": 2060786479,
-      "fileDateHash": 1033425734,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2060786479
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.2016006Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:03.8249061Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6504412Z",
-      "fileCount": 1,
-      "fileSize": 93264
-    },
-    {
       "folderName": "GraveStone Mod 1.5.5.jar",
       "fingerprint": 2913936940,
-      "fileDateHash": 541538706,
+      "fileDateHash": 3452505957,
       "sectionID": 6,
       "individualFingerprints": [
         2913936940
       ],
       "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4078458Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0432364Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7468678Z",
+      "timestamp": "2016-08-29T09:27:06.8621811Z",
+      "lastWriteTimeUtc": "2016-08-29T09:08:16.5977445Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3101859Z",
       "fileCount": 1,
       "fileSize": 59698
     },
     {
-      "folderName": "journeymap-1.10.2-5.2.4-unlimited.jar",
-      "fingerprint": 2310141037,
-      "fileDateHash": 2393210607,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2310141037
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4158464Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4752608Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7478651Z",
-      "fileCount": 1,
-      "fileSize": 1797006
-    },
-    {
-      "folderName": "PowerAdvantage_1.10.2-2.3.0.jar",
-      "fingerprint": 2918081951,
-      "fileDateHash": 490677545,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2918081951
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.2016006Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:35.5903239Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6394402Z",
-      "fileCount": 1,
-      "fileSize": 528364
-    },
-    {
-      "folderName": "New World",
-      "fingerprint": 2888476875,
-      "fileDateHash": 3711350107,
-      "sectionID": 17,
-      "individualFingerprints": [
-        279876540,
-        657855401,
-        758054953,
-        758054953,
-        758054953,
-        798992646,
-        870117850,
-        1107788840,
-        1139895055,
-        1139895055,
-        1139895055,
-        1407940324,
-        1641007294,
-        2022927266,
-        2113262260,
-        2500484996,
-        2508662983,
-        2680724479,
-        3176504695,
-        3177519027,
-        3667690187,
-        3692446764,
-        3907861018,
-        4213863462,
-        4213863462,
-        4213863462,
-        4270281024
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.2509485Z",
-      "lastWriteTimeUtc": "2016-08-30T02:39:43.3083557Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6524407Z",
-      "fileCount": 11,
-      "fileSize": 0
-    },
-    {
-      "folderName": "llibrary-1.5.1-1.10.2.jar",
-      "fingerprint": 70512018,
-      "fileDateHash": 721806744,
-      "sectionID": 6,
-      "individualFingerprints": [
-        70512018
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4598494Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4962634Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 1028570
-    },
-    {
-      "folderName": "MekanismTools-1.10.2-9.1.1.290.jar",
-      "fingerprint": 3630627359,
-      "fileDateHash": 465191816,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3630627359
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6289116Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.2192467Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 140120
-    },
-    {
-      "folderName": "BetterBuildersWands-0.6.5-1.10r138+8595fc7.jar",
-      "fingerprint": 3265806792,
-      "fileDateHash": 2247477867,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3265806792
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1667711Z",
-      "lastWriteTimeUtc": "2016-08-30T02:22:29.2940472Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6394402Z",
-      "fileCount": 1,
-      "fileSize": 62047
-    },
-    {
-      "folderName": "refinedstorage-0.9.4.jar",
-      "fingerprint": 2591648691,
-      "fileDateHash": 558418546,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2591648691
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T03:16:57.702582Z",
-      "lastWriteTimeUtc": "2016-08-30T03:16:43.5527771Z",
-      "queryTimestamp": "2016-08-30T03:16:57.9294523Z",
-      "fileCount": 1,
-      "fileSize": 718697
-    },
-    {
-      "folderName": "BaseMetals_1.10.2-2.4.0.11.jar",
-      "fingerprint": 1798763745,
-      "fileDateHash": 1382085476,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1798763745
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1547586Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:35.2720132Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6484416Z",
-      "fileCount": 1,
-      "fileSize": 1477835
-    },
-    {
-      "folderName": "jei_1.10.2-3.9.0.246.jar",
-      "fingerprint": 778816626,
-      "fileDateHash": 3008020387,
-      "sectionID": 6,
-      "individualFingerprints": [
-        778816626
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4128466Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4542591Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7468678Z",
-      "fileCount": 1,
-      "fileSize": 336153
-    },
-    {
-      "folderName": "Chameleon-1.10-2.1.7.jar",
-      "fingerprint": 2716046286,
-      "fileDateHash": 843331988,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2716046286
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.3418423Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:38.9552306Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 77584
-    },
-    {
-      "folderName": "Mekanism-1.10.2-9.1.1.290.jar",
-      "fingerprint": 2387414387,
-      "fileDateHash": 3240371141,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2387414387
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.5028511Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.2062452Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 15527551
-    },
-    {
-      "folderName": "SteamAdvantage_1.10.2-2.2.0.jar",
-      "fingerprint": 4291068815,
-      "fileDateHash": 2228935630,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4291068815
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.2016006Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:47.7443174Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6414398Z",
-      "fileCount": 1,
-      "fileSize": 759965
-    },
-    {
-      "folderName": "TeslaArsenal-1.4.jar",
-      "fingerprint": 820568798,
-      "fileDateHash": 84014454,
-      "sectionID": 6,
-      "individualFingerprints": [
-        820568798
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6678604Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.3802555Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7478651Z",
-      "fileCount": 1,
-      "fileSize": 60515
-    },
-    {
-      "folderName": "CyanosWonderfulWands_1.10.2-2.2.0.jar",
-      "fingerprint": 45071010,
-      "fileDateHash": 2626721915,
-      "sectionID": 6,
-      "individualFingerprints": [
-        45071010
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1667711Z",
-      "lastWriteTimeUtc": "2016-08-30T02:21:11.7018799Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6454408Z",
-      "fileCount": 1,
-      "fileSize": 371908
-    },
-    {
-      "folderName": "Wawla-1.10.2-2.3.0.203.jar",
-      "fingerprint": 1456509302,
-      "fileDateHash": 1470613206,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1456509302
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6728612Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4362582Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7468678Z",
-      "fileCount": 1,
-      "fileSize": 75054
-    },
-    {
-      "folderName": "EndMetals_1.9-1.0.4.jar",
-      "fingerprint": 2017720971,
-      "fileDateHash": 3916750630,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2017720971
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1823906Z",
-      "lastWriteTimeUtc": "2016-08-30T02:19:58.0969546Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6514429Z",
-      "fileCount": 1,
-      "fileSize": 87647
-    },
-    {
-      "folderName": "AdditionalLootTables_1.10.2-1.06.jar",
-      "fingerprint": 2821253102,
-      "fileDateHash": 948622743,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2821253102
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1537618Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:20.1903396Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6384404Z",
-      "fileCount": 1,
-      "fileSize": 42369
-    },
-    {
-      "folderName": "BetterAgriculture_(MC-1.10)-0.16.jar",
-      "fingerprint": 409984563,
-      "fileDateHash": 1684185681,
-      "sectionID": 6,
-      "individualFingerprints": [
-        409984563
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1647061Z",
-      "lastWriteTimeUtc": "2016-08-30T02:22:33.3783227Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6574475Z",
-      "fileCount": 1,
-      "fileSize": 532930
-    },
-    {
-      "folderName": "lawnmower-1.0.1.jar",
-      "fingerprint": 3927492205,
-      "fileDateHash": 703838475,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3927492205
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4328471Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.4872615Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 1617026
-    },
-    {
       "folderName": "StorageDrawers-1.10.2-3.2.6.jar",
       "fingerprint": 3445985842,
-      "fileDateHash": 3581638414,
+      "fileDateHash": 259102580,
       "sectionID": 6,
       "individualFingerprints": [
         3445985842
       ],
       "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6419131Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.3092512Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
+      "timestamp": "2016-08-29T09:27:07.1452942Z",
+      "lastWriteTimeUtc": "2016-08-29T09:04:15.3969222Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
       "fileSize": 531885
     },
     {
-      "folderName": "DarkUtilities-1.10.2-1.1.3.71.jar",
-      "fingerprint": 817791887,
-      "fileDateHash": 656602745,
+      "folderName": "Morpheus-1.10.2-3.1.7.jar",
+      "fingerprint": 1706967642,
+      "fileDateHash": 4193994522,
       "sectionID": 6,
       "individualFingerprints": [
-        817791887
+        1706967642
       ],
       "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1667711Z",
-      "lastWriteTimeUtc": "2016-08-30T02:28:23.8775605Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6414398Z",
+      "timestamp": "2016-08-29T09:27:07.0982604Z",
+      "lastWriteTimeUtc": "2016-08-29T09:04:21.9704001Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
-      "fileSize": 744583
+      "fileSize": 19601
     },
     {
-      "folderName": "Tesla-1.10.2-1.2.1.48.jar",
-      "fingerprint": 2306659873,
-      "fileDateHash": 844488268,
+      "folderName": "Chameleon-1.10-2.1.7.jar",
+      "fingerprint": 2716046286,
+      "fileDateHash": 2949133655,
       "sectionID": 6,
       "individualFingerprints": [
-        2306659873
+        2716046286
       ],
       "status": 1,
-      "timestamp": "2016-08-30T02:49:13.2172235Z",
-      "lastWriteTimeUtc": "2016-08-30T02:33:28.910511Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6504412Z",
+      "timestamp": "2016-08-29T09:27:06.8331614Z",
+      "lastWriteTimeUtc": "2016-08-29T09:04:14.3834284Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
-      "fileSize": 27491
+      "fileSize": 77584
     },
     {
-      "folderName": "Waila-1.7.0-B3_1.9.4.jar",
-      "fingerprint": 2838848828,
-      "fileDateHash": 85068088,
+      "folderName": "journeymap-1.10.2-5.2.4-unlimited.jar",
+      "fingerprint": 2310141037,
+      "fileDateHash": 609031200,
       "sectionID": 6,
       "individualFingerprints": [
-        2838848828
+        2310141037
       ],
       "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6678604Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.3882556Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
+      "timestamp": "2016-08-29T09:27:07.0522222Z",
+      "lastWriteTimeUtc": "2016-08-28T16:21:40Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
-      "fileSize": 544490
+      "fileSize": 1797006
     },
     {
-      "folderName": "FTBLib-1.9.4-2.1.0-pre3.jar",
-      "fingerprint": 2260738999,
-      "fileDateHash": 4037015363,
+      "folderName": "netherportalfix-mc1.9.4-4.0.1.jar",
+      "fingerprint": 1543604915,
+      "fileDateHash": 4168528074,
       "sectionID": 6,
       "individualFingerprints": [
-        2260738999
+        1543604915
       ],
       "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1823906Z",
-      "lastWriteTimeUtc": "2016-08-30T02:32:37.4457911Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6564418Z",
+      "timestamp": "2016-08-29T09:27:07.1162741Z",
+      "lastWriteTimeUtc": "2016-08-29T09:07:17.2651955Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
-      "fileSize": 816578
+      "fileSize": 6136
     },
     {
-      "folderName": "orespawn-2.0.0.4-1.10.2.jar",
-      "fingerprint": 2490328503,
-      "fileDateHash": 3861582660,
+      "folderName": "jei_1.10.2-3.9.0.246.jar",
+      "fingerprint": 778816626,
+      "fileDateHash": 2253626250,
       "sectionID": 6,
       "individualFingerprints": [
-        2490328503
+        778816626
       ],
       "status": 1,
-      "timestamp": "2016-08-30T03:16:57.6805663Z",
-      "lastWriteTimeUtc": "2016-08-30T03:16:34.6752929Z",
-      "queryTimestamp": "2016-08-30T03:16:57.9394535Z",
+      "timestamp": "2016-08-29T09:27:06.880202Z",
+      "lastWriteTimeUtc": "2016-08-29T09:04:42.4223783Z",
+      "queryTimestamp": "2016-08-29T09:27:07.3106863Z",
       "fileCount": 1,
-      "fileSize": 31182
-    },
-    {
-      "folderName": "BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
-      "fingerprint": 1708191034,
-      "fileDateHash": 3507055207,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1708191034
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.2888385Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:38.9482302Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 6149992
-    },
-    {
-      "folderName": "TConstruct-1.10.2-2.4.0.jar",
-      "fingerprint": 1971048440,
-      "fileDateHash": 1913409895,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1971048440
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6469159Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.3372523Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 2678600
-    },
-    {
-      "folderName": "ElectricAdvantage_1.10.2-2.2.0.jar",
-      "fingerprint": 4060938364,
-      "fileDateHash": 1659111327,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4060938364
-      ],
-      "status": 1,
-      "timestamp": "2016-08-30T02:49:13.1667711Z",
-      "lastWriteTimeUtc": "2016-08-30T02:20:49.1344912Z",
-      "queryTimestamp": "2016-08-30T02:49:13.6494404Z",
-      "fileCount": 1,
-      "fileSize": 614165
-    },
-    {
-      "folderName": "EnchantmentDescriptions-1.10.2-1.0.0.0.jar",
-      "fingerprint": 201488755,
-      "fileDateHash": 4046717370,
-      "sectionID": 6,
-      "individualFingerprints": [
-        201488755
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.4068455Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0292342Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7478651Z",
-      "fileCount": 1,
-      "fileSize": 9688
-    },
-    {
-      "folderName": "p455w0rdsThings-1.9.4-0.0.16a.jar",
-      "fingerprint": 114327262,
-      "fileDateHash": 41338090,
-      "sectionID": 6,
-      "individualFingerprints": [
-        114327262
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6369113Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.5142638Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 639114
-    },
-    {
-      "folderName": "Chisel-MC1.9.4-0.0.6.33.jar",
-      "fingerprint": 3069113692,
-      "fileDateHash": 1074940678,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3069113692
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.3418423Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.0162336Z",
-      "queryTimestamp": "2016-08-29T22:46:54.7448658Z",
-      "fileCount": 1,
-      "fileSize": 6835568
-    },
-    {
-      "folderName": "SolarVillage-1.10.2-1.1.0.19.jar",
-      "fingerprint": 1528752714,
-      "fileDateHash": 948887668,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1528752714
-      ],
-      "status": 1,
-      "timestamp": "2016-08-29T22:46:54.6419131Z",
-      "lastWriteTimeUtc": "2016-08-29T22:46:39.3022503Z",
-      "queryTimestamp": "2016-08-29T22:46:54.745912Z",
-      "fileCount": 1,
-      "fileSize": 28778
+      "fileSize": 336153
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-08-30T03:19:40.1275241Z",
+  "lastPreviousMatchUpdate": "2016-08-29T09:03:54.4529551Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -817,1494 +161,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2016-08-29T22:45:46.3519713Z",
+  "installDate": "2016-08-29T09:27:05.4026472Z",
   "installedAddons": [
     {
-      "addonID": 230137,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2317811,
-        "FileName": "AdditionalBanners-1.10.2-1.3.0.20.jar",
-        "FileNameOnDisk": "AdditionalBanners-1.10.2-1.3.0.20.jar",
-        "FileDate": "2016-07-22T06:54:23",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2317/811/AdditionalBanners-1.10.2-1.3.0.20.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1736574368
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1674856634
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1842792631
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 238559552
-          }
-        ],
-        "PackageFingerprint": 3858170724,
-        "GameVersion": [
-          "1.10.2",
-          "1.10.1",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9108763Z",
-      "dateUpdated": "2015-08-29T22:46:54.9108763Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 241160,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2301216,
-        "FileName": "NetherPortalFix v4.0.1",
-        "FileNameOnDisk": "netherportalfix-mc1.9.4-4.0.1.jar",
-        "FileDate": "2016-05-19T17:04:33",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2301/216/netherportalfix-mc1.9.4-4.0.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2970249589
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1065557811
-          }
-        ],
-        "PackageFingerprint": 1543604915,
-        "GameVersion": [
-          "1.10.2",
-          "1.10.1",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9118956Z",
-      "dateUpdated": "2015-08-29T22:46:54.9118956Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 74072,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323524,
-        "FileName": "TConstruct-1.10.2-2.4.0.jar",
-        "FileNameOnDisk": "TConstruct-1.10.2-2.4.0.jar",
-        "FileDate": "2016-08-16T20:24:52",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/524/TConstruct-1.10.2-2.4.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 74924,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3379964569
-          },
-          {
-            "Foldername": "logo.png",
-            "Fingerprint": 3056415901
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 121878420
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 987865041
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 219889385
-          },
-          {
-            "Foldername": "slimeknights",
-            "Fingerprint": 2520120860
-          },
-          {
-            "Foldername": "TinkersConstruct.png",
-            "Fingerprint": 3056415901
-          }
-        ],
-        "PackageFingerprint": 1971048440,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9118956Z",
-      "dateUpdated": "2015-08-29T22:46:54.9118956Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 243298,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2319780,
-        "FileName": "LLibrary 1.5.1",
-        "FileNameOnDisk": "llibrary-1.5.1-1.10.2.jar",
-        "FileDate": "2016-07-30T13:56:01",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2319/780/llibrary-1.5.1-1.10.2.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3402795725
-          },
-          {
-            "Foldername": "llibrary.mappings",
-            "Fingerprint": 4006236092
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2489306321
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1180193948
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 881502254
-          }
-        ],
-        "PackageFingerprint": 70512018,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9128935Z",
-      "dateUpdated": "2015-08-29T22:46:54.9128935Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 69118,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2320593,
-        "FileName": "Morpheus-1.10.2-3.1.7.jar",
-        "FileNameOnDisk": "Morpheus-1.10.2-3.1.7.jar",
-        "FileDate": "2016-08-03T09:38:07",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2320/593/Morpheus-1.10.2-3.1.7.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4131946939
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1340170249
-          }
-        ],
-        "PackageFingerprint": 1706967642,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9128935Z",
-      "dateUpdated": "2015-08-29T22:46:54.9128935Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 223005,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326821,
-        "FileName": "Bagginses 3.0.4b - 1.10.2",
-        "FileNameOnDisk": "Bagginses-1.10.2-3.0.4b.jar",
-        "FileDate": "2016-08-28T20:02:16",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/821/Bagginses-1.10.2-3.0.4b.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2415290262
-          },
-          {
-            "Foldername": "descriptions.json",
-            "Fingerprint": 1966616549
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 297907378
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "nl",
-            "Fingerprint": 1624248682
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1282529483
-          }
-        ],
-        "PackageFingerprint": 2596856339,
-        "GameVersion": [
-          "1.10.2",
-          "1.10.1",
-          "1.10"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9138869Z",
-      "dateUpdated": "2015-08-29T22:46:54.9138869Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 246435,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323522,
-        "FileName": "1.0.1",
-        "FileNameOnDisk": "lawnmower-1.0.1.jar",
-        "FileDate": "2016-08-16T20:22:14",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/522/lawnmower-1.0.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 243298,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1101483848
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 614510016
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2622076969
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 365818121
-          }
-        ],
-        "PackageFingerprint": 3927492205,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9138869Z",
-      "dateUpdated": "2015-08-29T22:46:54.9138869Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 235279,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2315165,
-        "FileName": "Chisel - MC1.9.4-0.0.6.33",
-        "FileNameOnDisk": "Chisel-MC1.9.4-0.0.6.33.jar",
-        "FileDate": "2016-07-11T10:20:35",
-        "ReleaseType": 3,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2315/165/Chisel-MC1.9.4-0.0.6.33.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1269171613
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2498907585
-          },
-          {
-            "Foldername": "team",
-            "Fingerprint": 4275935205
-          }
-        ],
-        "PackageFingerprint": 3069113692,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9149292Z",
-      "dateUpdated": "2015-08-29T22:46:54.9149292Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228525,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2317798,
-        "FileName": "Bookshelf-1.10.2-1.3.0.282.jar",
-        "FileNameOnDisk": "Bookshelf-1.10.2-1.3.0.282.jar",
-        "FileDate": "2016-07-22T06:34:13",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2317/798/Bookshelf-1.10.2-1.3.0.282.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 957293564
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 845912871
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 3940171617
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1808666136
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2428936894
-          }
-        ],
-        "PackageFingerprint": 1327662069,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9149292Z",
-      "dateUpdated": "2015-08-29T22:46:54.9149292Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 246444,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2318671,
-        "FileName": "p455w0rdsThings-1.9.4-0.0.16a.jar",
-        "FileNameOnDisk": "p455w0rdsThings-1.9.4-0.0.16a.jar",
-        "FileDate": "2016-07-25T14:48:25",
-        "ReleaseType": 3,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2318/671/p455w0rdsThings-1.9.4-0.0.16a.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 835312976
-          },
-          {
-            "Foldername": "cofh",
-            "Fingerprint": 285800160
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1078801074
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1537091617
-          },
-          {
-            "Foldername": "p455w0rd",
-            "Fingerprint": 1318300226
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 409567786
-          }
-        ],
-        "PackageFingerprint": 114327262,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9158786Z",
-      "dateUpdated": "2015-08-29T22:46:54.9158786Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 223852,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2325151,
-        "FileName": "StorageDrawers-1.10.2-3.2.6.jar",
-        "FileNameOnDisk": "StorageDrawers-1.10.2-3.2.6.jar",
-        "FileDate": "2016-08-20T04:36:02",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2325/151/StorageDrawers-1.10.2-3.2.6.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 230497,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 534278295
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 1114251067
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3663630594
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 3445985842,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9168916Z",
-      "dateUpdated": "2015-08-29T22:46:54.9168916Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 74924,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2319362,
-        "FileName": "Mantle-1.10.2-0.10.4.jar",
-        "FileNameOnDisk": "Mantle-1.10.2-0.10.4.jar",
-        "FileDate": "2016-07-28T18:02:38",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2319/362/Mantle-1.10.2-0.10.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 4066090275
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 1298318705
-          },
-          {
-            "Foldername": "Mantle.png",
-            "Fingerprint": 3296224890
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3520799305
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1544962130
-          },
-          {
-            "Foldername": "ninja",
-            "Fingerprint": 3265728300
-          },
-          {
-            "Foldername": "slimeknights",
-            "Fingerprint": 3269809685
-          }
-        ],
-        "PackageFingerprint": 4182609833,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9168916Z",
-      "dateUpdated": "2015-08-29T22:46:54.9168916Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 245322,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2318690,
-        "FileName": "SolarVillage-1.10.2-1.1.0.19.jar",
-        "FileNameOnDisk": "SolarVillage-1.10.2-1.1.0.19.jar",
-        "FileDate": "2016-07-25T16:37:43",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2318/690/SolarVillage-1.10.2-1.1.0.19.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 244651,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 892805151
-          },
-          {
-            "Foldername": "logo_solar_village.png",
-            "Fingerprint": 2073203192
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1344546305
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 2427534572
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2563852088
-          }
-        ],
-        "PackageFingerprint": 1528752714,
-        "GameVersion": [
-          "1.10.2",
-          "1.10.1",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9178875Z",
-      "dateUpdated": "2015-08-29T22:46:54.9178875Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 220318,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326687,
-        "FileName": "BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
-        "FileNameOnDisk": "BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
-        "FileDate": "2016-08-28T04:24:11",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/687/BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 654279265
-          },
-          {
-            "Foldername": "biomesoplenty",
-            "Fingerprint": 3877892197
-          },
-          {
-            "Foldername": "LICENSE.txt",
-            "Fingerprint": 2878218662
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4218044594
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2108986136
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 72953735
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 128068739
-          }
-        ],
-        "PackageFingerprint": 1708191034,
-        "GameVersion": [
-          "1.10.2",
-          "1.10"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.918922Z",
-      "dateUpdated": "2015-08-29T22:46:54.918922Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 230497,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323186,
-        "FileName": "Chameleon-1.10-2.1.7.jar",
-        "FileNameOnDisk": "Chameleon-1.10-2.1.7.jar",
-        "FileDate": "2016-08-15T04:15:19",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/186/Chameleon-1.10-2.1.7.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "com",
-            "Fingerprint": 56551857
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2474172263
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 2716046286,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.918922Z",
-      "dateUpdated": "2015-08-29T22:46:54.918922Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 73488,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2301859,
-        "FileName": "Waila-1.7.0-B3_1.9.4.jar",
-        "FileNameOnDisk": "Waila-1.7.0-B3_1.9.4.jar",
-        "FileDate": "2016-05-21T20:18:07",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2301/859/Waila-1.7.0-B3_1.9.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3432016962
-          },
-          {
-            "Foldername": "au",
-            "Fingerprint": 3484826492
-          },
-          {
-            "Foldername": "LICENSE.txt",
-            "Fingerprint": 2985416683
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2678557655
-          },
-          {
-            "Foldername": "mcp",
-            "Fingerprint": 3226109164
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 2838848828,
-        "GameVersion": [
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9199315Z",
-      "dateUpdated": "2015-08-29T22:46:54.9199315Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228756,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2321288,
-        "FileName": "ironchest-1.10.2-7.0.9.796.jar",
-        "FileNameOnDisk": "ironchest-1.10.2-7.0.9.796.jar",
-        "FileDate": "2016-08-06T19:47:57",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2321/288/ironchest-1.10.2-7.0.9.796.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3670766803
-          },
-          {
-            "Foldername": "cpw",
-            "Fingerprint": 1116188118
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4185318710
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 2603180869
-          }
-        ],
-        "PackageFingerprint": 3904181707,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9199315Z",
-      "dateUpdated": "2015-08-29T22:46:54.9199315Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 223094,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2315240,
-        "FileName": "Inventory Tweaks 1.61",
-        "FileNameOnDisk": "InventoryTweaks-1.61-58.jar",
-        "FileDate": "2016-07-11T16:47:48",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2315/240/InventoryTweaks-1.61-58.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1913930105
-          },
-          {
-            "Foldername": "invtweaks",
-            "Fingerprint": 751032293
-          },
-          {
-            "Foldername": "invtweaks.png",
-            "Fingerprint": 1558494413
-          },
-          {
-            "Foldername": "invtweaks_at.cfg",
-            "Fingerprint": 642920526
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 375860339
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1910357026
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 934435428
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 1960312417
-          }
-        ],
-        "PackageFingerprint": 1932858315,
-        "GameVersion": [
-          "1.10.2",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9208956Z",
-      "dateUpdated": "2015-08-29T22:46:54.9208956Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 231095,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2325908,
-        "FileName": "chiselsandbits-12.1.jar",
-        "FileNameOnDisk": "chiselsandbits-12.1.jar",
-        "FileDate": "2016-08-23T23:41:27",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2325/908/chiselsandbits-12.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 238222,
-            "Type": 2
-          },
-          {
-            "AddOnId": 239431,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 4225515151
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4272348954
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1952955272
-          },
-          {
-            "Foldername": "mod",
-            "Fingerprint": 670074461
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2325622583
-          }
-        ],
-        "PackageFingerprint": 347556293,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.921889Z",
-      "dateUpdated": "2015-08-29T22:46:54.921889Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 224712,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326949,
-        "FileName": "Wawla-1.10.2-2.3.0.203.jar",
-        "FileNameOnDisk": "Wawla-1.10.2-2.3.0.203.jar",
-        "FileDate": "2016-08-29T05:47:28",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/949/Wawla-1.10.2-2.3.0.203.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 73488,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3301797173
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3382360549
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1655036106
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 3480335198
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2896009138
-          }
-        ],
-        "PackageFingerprint": 1456509302,
-        "GameVersion": [
-          "1.10.2",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9228756Z",
-      "dateUpdated": "2015-08-29T22:46:54.9228756Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2325537,
-        "FileName": "jei_1.10.2-3.9.0.246.jar",
-        "FileNameOnDisk": "jei_1.10.2-3.9.0.246.jar",
-        "FileDate": "2016-08-22T05:54:55",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2325/537/jei_1.10.2-3.9.0.246.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3537727331
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 224947992
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 3699777108
-          },
-          {
-            "Foldername": "mezz",
-            "Fingerprint": 2568502585
-          }
-        ],
-        "PackageFingerprint": 778816626,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9238764Z",
-      "dateUpdated": "2015-08-29T22:46:54.9238764Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238551,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2320057,
-        "FileName": "[1.10.2] Gravestone Mod 1.5.5",
-        "FileNameOnDisk": "GraveStone Mod 1.5.5.jar",
-        "FileDate": "2016-07-31T18:04:37",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2320/57/GraveStone Mod 1.5.5.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1610926712
-          },
-          {
-            "Foldername": "de",
-            "Fingerprint": 2790037452
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4212249628
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 2913936940,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9238764Z",
-      "dateUpdated": "2015-08-29T22:46:54.9238764Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 225839,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2301239,
-        "FileName": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
-        "FileNameOnDisk": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
-        "FileDate": "2016-05-19T17:52:01",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2301/239/FastLeaveDecay-MC1.9.4-1.2.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "lumien",
-            "Fingerprint": 4051742211
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2046656335
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 2396360055,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9248884Z",
-      "dateUpdated": "2015-08-29T22:46:54.9248884Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 250419,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326965,
-        "FileName": "EnchantmentDescriptions-1.10.2-1.0.0.0.jar",
-        "FileNameOnDisk": "EnchantmentDescriptions-1.10.2-1.0.0.0.jar",
-        "FileDate": "2016-08-29T06:08:22",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/965/EnchantmentDescriptions-1.10.2-1.0.0.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2584623219
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2607254313
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1993448181
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1065860479
-          }
-        ],
-        "PackageFingerprint": 201488755,
-        "GameVersion": [
-          "1.10.2",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9268772Z",
-      "dateUpdated": "2015-08-29T22:46:54.9268772Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 244651,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326925,
-        "FileName": "Tesla-1.10.2-1.2.1.48.jar",
-        "FileNameOnDisk": "Tesla-1.10.2-1.2.1.48.jar",
-        "FileDate": "2016-08-29T03:52:57",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/925/Tesla-1.10.2-1.2.1.48.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1748589256
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4237668941
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 1332524579
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3098370195
-          }
-        ],
-        "PackageFingerprint": 2306659873,
-        "GameVersion": [
-          "1.10.2",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9268772Z",
-      "dateUpdated": "2016-08-30T02:33:28.9125116Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:33:28.9125116Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 247634,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323942,
-        "FileName": "TeslaArsenal-1.4",
-        "FileNameOnDisk": "TeslaArsenal-1.4.jar",
-        "FileDate": "2016-08-19T00:27:18",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/942/TeslaArsenal-1.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 244651,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 560347571
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 3524612742
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 316019431
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 820568798,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-29T22:46:54.9278955Z",
-      "dateUpdated": "2015-08-29T22:46:54.9278955Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 32274,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
       "installedFile": {
         "Id": 2311898,
         "FileName": "journeymap-1.10.2-5.2.4",
@@ -2369,8 +230,8 @@
           "1.10.2"
         ]
       },
-      "dateInstalled": "2016-08-29T22:46:54.9278955Z",
-      "dateUpdated": "2015-08-29T22:46:54.9278955Z",
+      "dateInstalled": "2016-08-29T09:03:54.4469504Z",
+      "dateUpdated": "2015-08-29T09:03:54.4469504Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -2383,272 +244,16 @@
       "manifestName": null
     },
     {
-      "addonID": 245575,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "addonID": 230497,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
       "installedFile": {
-        "Id": 2326694,
-        "FileName": "hempfarmer-1.9.4-1.10.2-1.7.1.jar",
-        "FileNameOnDisk": "hempfarmer-1.9.4-1.10.2-1.7.1.jar",
-        "FileDate": "2016-08-28T05:32:04",
+        "Id": 2323186,
+        "FileName": "Chameleon-1.10-2.1.7.jar",
+        "FileNameOnDisk": "Chameleon-1.10-2.1.7.jar",
+        "FileDate": "2016-08-15T04:15:19",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/694/hempfarmer-1.9.4-1.10.2-1.7.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1921981489
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 3381424700
-          },
-          {
-            "Foldername": "icon.png",
-            "Fingerprint": 3637451881
-          },
-          {
-            "Foldername": "LICENSE.txt",
-            "Fingerprint": 3804980824
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1697423532
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1999644730
-          }
-        ],
-        "PackageFingerprint": 2305851852,
-        "GameVersion": [
-          "1.10.2",
-          "1.10.1",
-          "1.10",
-          "1.10-Snapshot",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:18:43.4460283Z",
-      "dateUpdated": "2016-08-30T02:18:43.5900374Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:18:43.5900374Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 245586,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2327090,
-        "FileName": "OreSpawn 2.0.0.4",
-        "FileNameOnDisk": "orespawn-2.0.0.4-1.10.2.jar",
-        "FileDate": "2016-08-29T19:16:18",
-        "ReleaseType": 3,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2327/90/orespawn-2.0.0.4-1.10.2.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3672457158
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "mmd",
-            "Fingerprint": 446828203
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1590064819
-          }
-        ],
-        "PackageFingerprint": 2490328503,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:19:38.7146417Z",
-      "dateUpdated": "2016-08-30T03:16:34.6772935Z",
-      "dateLastUpdateAttempted": "2016-08-30T03:16:34.6772935Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 245445,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2306067,
-        "FileName": "EndMetals_1.9.x-1.0.4",
-        "FileNameOnDisk": "EndMetals_1.9-1.0.4.jar",
-        "FileDate": "2016-06-08T03:26:29",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2306/67/EndMetals_1.9-1.0.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 240967,
-            "Type": 2
-          },
-          {
-            "AddOnId": 244357,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1040051836
-          },
-          {
-            "Foldername": "endmetals",
-            "Fingerprint": 4112346076
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2296146417
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 343915976
-          }
-        ],
-        "PackageFingerprint": 2017720971,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4",
-          "1.9"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:19:58.0979524Z",
-      "dateUpdated": "2016-08-30T02:19:58.0989532Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:19:58.0989532Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 243277,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2306071,
-        "FileName": "NetherMetals_1.9.x-1.1.2",
-        "FileNameOnDisk": "NetherMetals_1.9-1.1.2.jar",
-        "FileDate": "2016-06-08T03:32:50",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2306/71/NetherMetals_1.9-1.1.2.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 240967,
-            "Type": 2
-          },
-          {
-            "AddOnId": 244357,
-            "Type": 2
-          },
-          {
-            "AddOnId": 245445,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1447623030
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 3409763566
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 273037831
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 4186695137
-          }
-        ],
-        "PackageFingerprint": 2060786479,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4",
-          "1.9"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:03.8249061Z",
-      "dateUpdated": "2016-08-30T02:20:03.8249061Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:03.8249061Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 243157,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323106,
-        "FileName": "AdditionalLootTables_1.10.2-1.06",
-        "FileNameOnDisk": "AdditionalLootTables_1.10.2-1.06.jar",
-        "FileDate": "2016-08-14T20:48:43",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/106/AdditionalLootTables_1.10.2-1.06.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2323/186/Chameleon-1.10-2.1.7.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -2656,553 +261,27 @@
         "Modules": [
           {
             "Foldername": "com",
-            "Fingerprint": 1353464343
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 439496073
+            "Fingerprint": 56551857
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 311378976
+            "Fingerprint": 2474172263
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1418866348
           }
         ],
-        "PackageFingerprint": 2821253102,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:20.1903396Z",
-      "dateUpdated": "2016-08-30T02:20:20.1903396Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:20.1903396Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 240967,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323100,
-        "FileName": "BaseMetals_1.10.2-2.4.0.11",
-        "FileNameOnDisk": "BaseMetals_1.10.2-2.4.0.11.jar",
-        "FileDate": "2016-08-14T20:45:04",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/100/BaseMetals_1.10.2-2.4.0.11.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 243157,
-            "Type": 2
-          },
-          {
-            "AddOnId": 243277,
-            "Type": 2
-          },
-          {
-            "AddOnId": 244357,
-            "Type": 2
-          },
-          {
-            "AddOnId": 245445,
-            "Type": 2
-          },
-          {
-            "AddOnId": 245586,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2506874994
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 3335725874
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1335965905
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 221648762
-          }
-        ],
-        "PackageFingerprint": 1798763745,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:35.2720132Z",
-      "dateUpdated": "2016-08-30T02:20:35.2720132Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:35.2720132Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 240982,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323095,
-        "FileName": "PowerAdvantage_1.10.2-2.3.0",
-        "FileNameOnDisk": "PowerAdvantage_1.10.2-2.3.0.jar",
-        "FileDate": "2016-08-14T20:43:08",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/95/PowerAdvantage_1.10.2-2.3.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 240967,
-            "Type": 1
-          },
-          {
-            "AddOnId": 240984,
-            "Type": 2
-          },
-          {
-            "AddOnId": 240985,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 669417604
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 1945488103
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3524243304
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1461253927
-          }
-        ],
-        "PackageFingerprint": 2918081951,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:35.5903239Z",
-      "dateUpdated": "2016-08-30T02:20:35.5903239Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:35.5903239Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 240984,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323093,
-        "FileName": "SteamAdvantage_1.10.2-2.2.0",
-        "FileNameOnDisk": "SteamAdvantage_1.10.2-2.2.0.jar",
-        "FileDate": "2016-08-14T20:42:19",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/93/SteamAdvantage_1.10.2-2.2.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 240967,
-            "Type": 1
-          },
-          {
-            "AddOnId": 240982,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 999642916
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 3465953159
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 830986789
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3793337115
-          }
-        ],
-        "PackageFingerprint": 4291068815,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:47.7443174Z",
-      "dateUpdated": "2016-08-30T02:20:47.7473152Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:47.7473152Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 240985,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323092,
-        "FileName": "ElectricAdvantage_1.10.2-2.2.0",
-        "FileNameOnDisk": "ElectricAdvantage_1.10.2-2.2.0.jar",
-        "FileDate": "2016-08-14T20:41:36",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/92/ElectricAdvantage_1.10.2-2.2.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 240967,
-            "Type": 1
-          },
-          {
-            "AddOnId": 240982,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3719854859
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 625945713
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2820092627
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1363082139
-          }
-        ],
-        "PackageFingerprint": 4060938364,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:20:49.1354729Z",
-      "dateUpdated": "2016-08-30T02:20:49.1624767Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:20:49.1624767Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 240976,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2323107,
-        "FileName": "CyanosWonderfulWands_1.10.2-2.2.0",
-        "FileNameOnDisk": "CyanosWonderfulWands_1.10.2-2.2.0.jar",
-        "FileDate": "2016-08-14T20:49:51",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2323/107/CyanosWonderfulWands_1.10.2-2.2.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1664210879
-          },
-          {
-            "Foldername": "cyano",
-            "Fingerprint": 1344941033
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3874869748
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3997571018
-          }
-        ],
-        "PackageFingerprint": 45071010,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:21:11.7018799Z",
-      "dateUpdated": "2016-08-30T02:21:11.70388Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:21:11.70388Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 244357,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2305634,
-        "FileName": "Modern Metals 0.11.0",
-        "FileNameOnDisk": "ModernMetals-0.11.0.jar",
-        "FileDate": "2016-06-06T01:38:33",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2305/634/ModernMetals-0.11.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 74072,
-            "Type": 2
-          },
-          {
-            "AddOnId": 240967,
-            "Type": 1
-          },
-          {
-            "AddOnId": 243157,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2015677759
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1313983878
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "modernmetals",
-            "Fingerprint": 1440029321
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2642034108
-          }
-        ],
-        "PackageFingerprint": 878187694,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4",
-          "1.9"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:21:29.1052808Z",
-      "dateUpdated": "2016-08-30T02:21:29.1184144Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:21:29.1184144Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238403,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2310296,
-        "FileName": "Better Builder's Wands 0.6.5 [MC1.10; rev 138]",
-        "FileNameOnDisk": "BetterBuildersWands-0.6.5-1.10r138+8595fc7.jar",
-        "FileDate": "2016-06-25T01:18:14",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2310/296/BetterBuildersWands-0.6.5-1.10r138+8595fc7.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1534262080
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1712758285
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "portablejim",
-            "Fingerprint": 2570721369
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 3929314973
-          }
-        ],
-        "PackageFingerprint": 3265806792,
-        "GameVersion": [
-          "1.10.2",
-          "1.10"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:22:29.2940472Z",
-      "dateUpdated": "2016-08-30T02:22:29.2960452Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:22:29.2960452Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 246006,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2310446,
-        "FileName": "BetterAgriculture_(MC-1.10)-(MC-1.9.4)-0.16",
-        "FileNameOnDisk": "BetterAgriculture_(MC-1.10)-0.16.jar",
-        "FileDate": "2016-06-25T15:10:56",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2310/446/BetterAgriculture_(MC-1.10)-0.16.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 59751,
-            "Type": 2
-          },
-          {
-            "AddOnId": 221857,
-            "Type": 2
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3389911595
-          },
-          {
-            "Foldername": "betteragriculture",
-            "Fingerprint": 3244503473
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3382476074
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 647173300
-          }
-        ],
-        "PackageFingerprint": 409984563,
+        "PackageFingerprint": 2716046286,
         "GameVersion": [
           "1.10.2",
           "1.10",
           "1.9.4"
         ]
       },
-      "dateInstalled": "2016-08-30T02:22:33.3783227Z",
-      "dateUpdated": "2016-08-30T02:22:33.3783227Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:22:33.3783227Z",
+      "dateInstalled": "2016-08-29T09:04:14.3869339Z",
+      "dateUpdated": "2016-08-29T09:04:14.4663321Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:14.4663321Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3214,25 +293,21 @@
       "manifestName": null
     },
     {
-      "addonID": 242195,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "addonID": 223852,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
       "installedFile": {
-        "Id": 2318712,
-        "FileName": "DarkUtilities-1.10.2-1.1.3.71.jar",
-        "FileNameOnDisk": "DarkUtilities-1.10.2-1.1.3.71.jar",
-        "FileDate": "2016-07-25T17:12:46",
+        "Id": 2325151,
+        "FileName": "StorageDrawers-1.10.2-3.2.6.jar",
+        "FileNameOnDisk": "StorageDrawers-1.10.2-3.2.6.jar",
+        "FileDate": "2016-08-20T04:36:02",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2318/712/DarkUtilities-1.10.2-1.1.3.71.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2325/151/StorageDrawers-1.10.2-3.2.6.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
           {
-            "AddOnId": 73488,
-            "Type": 2
-          },
-          {
-            "AddOnId": 228525,
+            "AddOnId": 230497,
             "Type": 1
           }
         ],
@@ -3240,15 +315,60 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2779898883
+            "Fingerprint": 534278295
           },
           {
-            "Foldername": "logo.png",
-            "Fingerprint": 2994924733
+            "Foldername": "com",
+            "Fingerprint": 1114251067
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3917354079
+            "Fingerprint": 3663630594
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 3445985842,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:04:15.3969222Z",
+      "dateUpdated": "2016-08-29T09:04:15.4254638Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:15.4254638Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 69118,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2320593,
+        "FileName": "Morpheus-1.10.2-3.1.7.jar",
+        "FileNameOnDisk": "Morpheus-1.10.2-3.1.7.jar",
+        "FileDate": "2016-08-03T09:38:07",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2320/593/Morpheus-1.10.2-3.1.7.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4131946939
           },
           {
             "Foldername": "META-INF",
@@ -3256,21 +376,17 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 1699770302
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 4020992709
+            "Fingerprint": 1340170249
           }
         ],
-        "PackageFingerprint": 817791887,
+        "PackageFingerprint": 1706967642,
         "GameVersion": [
           "1.10.2"
         ]
       },
-      "dateInstalled": "2016-08-30T02:28:23.8775605Z",
-      "dateUpdated": "2016-08-30T02:28:23.8805603Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:28:23.8805603Z",
+      "dateInstalled": "2016-08-29T09:04:21.9704001Z",
+      "dateUpdated": "2016-08-29T09:04:21.9844152Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:21.9844152Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3282,16 +398,16 @@
       "manifestName": null
     },
     {
-      "addonID": 237167,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "addonID": 238222,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
       "installedFile": {
-        "Id": 2325861,
-        "FileName": "FTBLib-1.9.4-2.1.0-pre3.jar",
-        "FileNameOnDisk": "FTBLib-1.9.4-2.1.0-pre3.jar",
-        "FileDate": "2016-08-23T18:17:58",
+        "Id": 2325537,
+        "FileName": "jei_1.10.2-3.9.0.246.jar",
+        "FileNameOnDisk": "jei_1.10.2-3.9.0.246.jar",
+        "FileDate": "2016-08-22T05:54:55",
         "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2325/861/FTBLib-1.9.4-2.1.0-pre3.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2325/537/jei_1.10.2-3.9.0.246.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3299,157 +415,717 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 4147468449
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 3398259240
+            "Fingerprint": 3537727331
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 4106181124
+            "Fingerprint": 224947992
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 2464251221
+            "Fingerprint": 3699777108
+          },
+          {
+            "Foldername": "mezz",
+            "Fingerprint": 2568502585
           }
         ],
-        "PackageFingerprint": 2260738999,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:32:37.4467938Z",
-      "dateUpdated": "2016-08-30T02:32:37.4487943Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:32:37.4487943Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 237102,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2325862,
-        "FileName": "FTBUtilities-1.9.4-2.1.0-pre3.jar",
-        "FileNameOnDisk": "FTBUtilities-1.9.4-2.1.0-pre3.jar",
-        "FileDate": "2016-08-23T18:18:32",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2325/862/FTBUtilities-1.9.4-2.1.0-pre3.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 237167,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 990773297
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 835839781
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3659084810
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 3869369672,
-        "GameVersion": [
-          "1.10.2",
-          "1.10",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-08-30T02:32:37.6247445Z",
-      "dateUpdated": "2016-08-30T02:32:37.6277468Z",
-      "dateLastUpdateAttempted": "2016-08-30T02:32:37.6277468Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 243076,
-      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
-      "installedFile": {
-        "Id": 2326651,
-        "FileName": "Refined Storage 0.9.4",
-        "FileNameOnDisk": "refinedstorage-0.9.4.jar",
-        "FileDate": "2016-08-27T22:53:14",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2326/651/refinedstorage-0.9.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 239431,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2208279043
-          },
-          {
-            "Foldername": "cofh",
-            "Fingerprint": 335474319
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 460131754
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1470616103
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "powercrystals",
-            "Fingerprint": 2030593330
-          },
-          {
-            "Foldername": "refinedstorage",
-            "Fingerprint": 2056142011
-          }
-        ],
-        "PackageFingerprint": 2591648691,
+        "PackageFingerprint": 778816626,
         "GameVersion": [
           "1.10.2"
         ]
       },
-      "dateInstalled": "2016-08-30T03:16:43.5527771Z",
-      "dateUpdated": "2016-08-30T03:16:43.5527771Z",
-      "dateLastUpdateAttempted": "2016-08-30T03:16:43.5527771Z",
+      "dateInstalled": "2016-08-29T09:04:42.4228773Z",
+      "dateUpdated": "2016-08-29T09:04:42.4433915Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:04:42.4433915Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 241160,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2301216,
+        "FileName": "NetherPortalFix v4.0.1",
+        "FileNameOnDisk": "netherportalfix-mc1.9.4-4.0.1.jar",
+        "FileDate": "2016-05-19T17:04:33",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2301/216/netherportalfix-mc1.9.4-4.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2970249589
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1065557811
+          }
+        ],
+        "PackageFingerprint": 1543604915,
+        "GameVersion": [
+          "1.10.2",
+          "1.10.1",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:07:17.2651955Z",
+      "dateUpdated": "2016-08-29T09:07:17.307726Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:07:17.307726Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 238551,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2320057,
+        "FileName": "[1.10.2] Gravestone Mod 1.5.5",
+        "FileNameOnDisk": "GraveStone Mod 1.5.5.jar",
+        "FileDate": "2016-07-31T18:04:37",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2320/57/GraveStone Mod 1.5.5.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1610926712
+          },
+          {
+            "Foldername": "de",
+            "Fingerprint": 2790037452
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4212249628
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 2913936940,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:27:07.5641715Z",
+      "dateUpdated": "2015-08-29T09:27:07.5641715Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 225839,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2301239,
+        "FileName": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
+        "FileNameOnDisk": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
+        "FileDate": "2016-05-19T17:52:01",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2301/239/FastLeaveDecay-MC1.9.4-1.2.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "lumien",
+            "Fingerprint": 4051742211
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2046656335
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 2396360055,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T09:54:42.361273Z",
+      "dateUpdated": "2016-08-29T09:54:42.3849128Z",
+      "dateLastUpdateAttempted": "2016-08-29T09:54:42.3849128Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 244651,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2322397,
+        "FileName": "Tesla-1.10.2-1.2.1.46.jar",
+        "FileNameOnDisk": "Tesla-1.10.2-1.2.1.46.jar",
+        "FileDate": "2016-08-11T17:23:43",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2322/397/Tesla-1.10.2-1.2.1.46.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 999429560
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2283112479
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 394322208
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3098370195
+          }
+        ],
+        "PackageFingerprint": 780267594,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:02:46.4381352Z",
+      "dateUpdated": "2016-08-29T10:02:46.4536543Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:02:46.4536543Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 247634,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2323942,
+        "FileName": "TeslaArsenal-1.4",
+        "FileNameOnDisk": "TeslaArsenal-1.4.jar",
+        "FileDate": "2016-08-19T00:27:18",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2323/942/TeslaArsenal-1.4.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 244651,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 560347571
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 3524612742
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 316019431
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 820568798,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:02:46.9312035Z",
+      "dateUpdated": "2016-08-29T10:02:46.9567644Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:02:46.9567644Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 223094,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2315240,
+        "FileName": "Inventory Tweaks 1.61",
+        "FileNameOnDisk": "InventoryTweaks-1.61-58.jar",
+        "FileDate": "2016-07-11T16:47:48",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2315/240/InventoryTweaks-1.61-58.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1913930105
+          },
+          {
+            "Foldername": "invtweaks",
+            "Fingerprint": 751032293
+          },
+          {
+            "Foldername": "invtweaks.png",
+            "Fingerprint": 1558494413
+          },
+          {
+            "Foldername": "invtweaks_at.cfg",
+            "Fingerprint": 642920526
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 375860339
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1910357026
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 934435428
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 1960312417
+          }
+        ],
+        "PackageFingerprint": 1932858315,
+        "GameVersion": [
+          "1.10.2",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:07:28.2476471Z",
+      "dateUpdated": "2016-08-29T10:07:28.2636576Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:07:28.2636576Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 220318,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2326687,
+        "FileName": "BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
+        "FileNameOnDisk": "BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
+        "FileDate": "2016-08-28T04:24:11",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2326/687/BiomesOPlenty-1.10.2-5.0.0.2080-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 654279265
+          },
+          {
+            "Foldername": "biomesoplenty",
+            "Fingerprint": 3877892197
+          },
+          {
+            "Foldername": "LICENSE.txt",
+            "Fingerprint": 2878218662
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4218044594
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2108986136
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 72953735
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 128068739
+          }
+        ],
+        "PackageFingerprint": 1708191034,
+        "GameVersion": [
+          "1.10.2",
+          "1.10"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:08:03.5342037Z",
+      "dateUpdated": "2016-08-29T10:08:03.6032574Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:08:03.6032574Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 74924,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2319362,
+        "FileName": "Mantle-1.10.2-0.10.4.jar",
+        "FileNameOnDisk": "Mantle-1.10.2-0.10.4.jar",
+        "FileDate": "2016-07-28T18:02:38",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2319/362/Mantle-1.10.2-0.10.4.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4066090275
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 1298318705
+          },
+          {
+            "Foldername": "Mantle.png",
+            "Fingerprint": 3296224890
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3520799305
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1544962130
+          },
+          {
+            "Foldername": "ninja",
+            "Fingerprint": 3265728300
+          },
+          {
+            "Foldername": "slimeknights",
+            "Fingerprint": 3269809685
+          }
+        ],
+        "PackageFingerprint": 4182609833,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:31:39.0811616Z",
+      "dateUpdated": "2016-08-29T10:31:39.3866594Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:31:39.3866594Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 74072,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2323524,
+        "FileName": "TConstruct-1.10.2-2.4.0.jar",
+        "FileNameOnDisk": "TConstruct-1.10.2-2.4.0.jar",
+        "FileDate": "2016-08-16T20:24:52",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2323/524/TConstruct-1.10.2-2.4.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 74924,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3379964569
+          },
+          {
+            "Foldername": "logo.png",
+            "Fingerprint": 3056415901
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 121878420
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 987865041
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 219889385
+          },
+          {
+            "Foldername": "slimeknights",
+            "Fingerprint": 2520120860
+          },
+          {
+            "Foldername": "TinkersConstruct.png",
+            "Fingerprint": 3056415901
+          }
+        ],
+        "PackageFingerprint": 1971048440,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:31:40.5148571Z",
+      "dateUpdated": "2016-08-29T10:31:40.5404004Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:31:40.5404004Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 228756,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2321288,
+        "FileName": "ironchest-1.10.2-7.0.9.796.jar",
+        "FileNameOnDisk": "ironchest-1.10.2-7.0.9.796.jar",
+        "FileDate": "2016-08-06T19:47:57",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2321/288/ironchest-1.10.2-7.0.9.796.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3670766803
+          },
+          {
+            "Foldername": "cpw",
+            "Fingerprint": 1116188118
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4185318710
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 2603180869
+          }
+        ],
+        "PackageFingerprint": 3904181707,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:31:44.6163769Z",
+      "dateUpdated": "2016-08-29T10:31:44.6318888Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:31:44.6318888Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 235279,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2315165,
+        "FileName": "Chisel - MC1.9.4-0.0.6.33",
+        "FileNameOnDisk": "Chisel-MC1.9.4-0.0.6.33.jar",
+        "FileDate": "2016-07-11T10:20:35",
+        "ReleaseType": 3,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2315/165/Chisel-MC1.9.4-0.0.6.33.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1269171613
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2498907585
+          },
+          {
+            "Foldername": "team",
+            "Fingerprint": 4275935205
+          }
+        ],
+        "PackageFingerprint": 3069113692,
+        "GameVersion": [
+          "1.10.2",
+          "1.10",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:32:20.7928704Z",
+      "dateUpdated": "2016-08-29T10:32:20.8424487Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:32:20.8424487Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 231095,
+      "gameInstanceID": "de305782-40b7-46f1-af76-d1536910d88f",
+      "installedFile": {
+        "Id": 2325908,
+        "FileName": "chiselsandbits-12.1.jar",
+        "FileNameOnDisk": "chiselsandbits-12.1.jar",
+        "FileDate": "2016-08-23T23:41:27",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2325/908/chiselsandbits-12.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 238222,
+            "Type": 2
+          },
+          {
+            "AddOnId": 239431,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4225515151
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4272348954
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1952955272
+          },
+          {
+            "Foldername": "mod",
+            "Fingerprint": 670074461
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2325622583
+          }
+        ],
+        "PackageFingerprint": 347556293,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-08-29T10:32:22.7248517Z",
+      "dateUpdated": "2016-08-29T10:32:22.7644148Z",
+      "dateLastUpdateAttempted": "2016-08-29T10:32:22.7644148Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
