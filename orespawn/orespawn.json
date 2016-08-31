@@ -1,0 +1,114 @@
+[
+  {
+    "dimension": -1,
+    "ores": [
+      {
+        "block": "minecraft:quartz_ore",
+        "size": 15,
+        "variation": 4,
+        "frequency": 7,
+        "min_height": 0,
+        "max_height": 128
+      }
+    ]
+  },
+  {
+    "ores": [
+      {
+        "block": "minecraft:coal_ore",
+        "size": 25,
+        "variation": 12,
+        "frequency": 20,
+        "min_height": 0,
+        "max_height": 128
+      },
+      {
+        "block": "minecraft:iron_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 20,
+        "min_height": 0,
+        "max_height": 64
+      },
+      {
+        "block": "minecraft:gold_ore",
+        "size": 8,
+        "variation": 2,
+        "frequency": 2,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "minecraft:diamond_ore",
+        "size": 6,
+        "variation": 3,
+        "frequency": 8,
+        "min_height": 0,
+        "max_height": 16
+      },
+      {
+        "block": "minecraft:lapis_ore",
+        "size": 5,
+        "variation": 2,
+        "frequency": 1,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "minecraft:emerald_ore",
+        "size": 1,
+        "variation": 0,
+        "frequency": 8,
+        "min_height": 4,
+        "max_height": 32,
+        "biomes": [
+          "minecraft:extreme_hills",
+          "minecraft:smaller_extreme_hills"
+        ]
+      },
+      {
+        "block": "minecraft:dirt",
+        "size": 112,
+        "variation": 50,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 255
+      },
+      {
+        "block": "minecraft:gravel",
+        "size": 112,
+        "variation": 50,
+        "frequency": 8,
+        "min_height": 0,
+        "max_height": 255
+      },
+      {
+        "block": "minecraft:stone",
+        "state": "variant=granite",
+        "size": 112,
+        "variation": 50,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 255
+      },
+      {
+        "block": "minecraft:stone",
+        "state": "variant=diorite",
+        "size": 112,
+        "variation": 50,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 255
+      },
+      {
+        "block": "minecraft:stone",
+        "state": "variant=andesite",
+        "size": 112,
+        "variation": 50,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 255
+      }
+    ]
+  }
+]

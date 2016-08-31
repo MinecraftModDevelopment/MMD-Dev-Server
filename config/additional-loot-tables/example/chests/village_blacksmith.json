@@ -1,0 +1,56 @@
+{
+    "__comment_line1":"This example adds a 25% of finding a block or iron in a village blacksmith ",
+    "__comment_line2":"chest and a 100% chance of adding 1 or 2 hoes. Note that these pools ",
+    "__comment_line3":"are added in addition to whatever is specified in the world's loot_tables ",
+    "__comment_line4":"folder (default loot tables are not replaced)",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "empty",
+                    "weight": 75
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_block",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ],
+                    "weight": 25
+                }
+            ]
+        },
+        {
+           "rolls": {
+                "min": 1,
+                "max": 2
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:wooden_hoe",
+                    "weight": 8
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:stone_hoe",
+                    "weight": 4
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_hoe",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:golden_hoe",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

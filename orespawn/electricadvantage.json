@@ -1,0 +1,22 @@
+[
+  {
+    "ores": [
+      {
+        "block": "electricadvantage:li_ore",
+        "size": 8,
+        "variation": 2,
+        "frequency": 0,
+        "min_height": 1,
+        "max_height": 32
+      },
+      {
+        "block": "electricadvantage:sulfur_ore",
+        "size": 16,
+        "variation": 8,
+        "frequency": 1,
+        "min_height": 1,
+        "max_height": 32
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ores": [
+      {
+        "block": "poweradvantage:crude_oil",
+        "size": 64,
+        "variation": 50,
+        "frequency": 0,
+        "min_height": 16,
+        "max_height": 64
+      }
+    ]
+  }
+]

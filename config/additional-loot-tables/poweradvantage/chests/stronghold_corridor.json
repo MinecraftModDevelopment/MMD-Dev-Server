@@ -1,0 +1,72 @@
+{
+    "pools": [
+        {
+            "__comment":"25% chance of a Power Advantage item",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "empty",
+                    "weight": 60
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:sprocket",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:fluid_pipe",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:fluid_storage_tank",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:fluid_drain",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:fluid_discharge",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "poweradvantage:item_conveyor",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 5
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
