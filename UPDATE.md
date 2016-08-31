@@ -8,4 +8,4 @@
 
 **Changelog (can be a link)**:
 
-**Required Updated Dependency JAR Link**:
+**Required Updated Dependency JAR Link(s)**:
