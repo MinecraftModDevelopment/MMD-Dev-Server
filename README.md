@@ -9,7 +9,10 @@ Q: Is this a public server?
 A: No, the server uses whitelisting and anyone may apply to be whitelisted, however, approval is at the discretion of the MMD Staff. You can apply by submitting a new issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues and using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/WHITELIST.md
 
 Q: How do I submit my mod?
-A: You can apply to have your mod added by submitting a new issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues and using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TEMPLATE.md 
+A: You can apply to have your mod added by submitting a new issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues and using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TEMPLATE.md
+
+Q: How do I submit an update for my mod?
+A: Submit a request via an issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/UPDATE.md
 
 Q: Do I have to be the owner/author of a mod to submit it?
 A: As long as the mod you are requesting has a reason behind it, and is helpful to the testing of mods, any mod can be requested. As with whitelist requests, approval is at the discretion of the MMD Staff.
