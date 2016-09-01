@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-09-01T02:21:44.0670817Z",
+  "lastPlayed": "2016-09-01T04:27:38.9104027Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -578,21 +578,6 @@
       "queryTimestamp": "2016-09-01T01:51:35.6795504Z",
       "fileCount": 1,
       "fileSize": 2282845
-    },
-    {
-      "folderName": "MekanismAll-1.10.2-9.2.0.homebaked-mmd-1.0.jar",
-      "fingerprint": 4098923813,
-      "fileDateHash": 2068232760,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4098923813
-      ],
-      "status": 1,
-      "timestamp": "2016-09-01T02:11:45.2309935Z",
-      "lastWriteTimeUtc": "2016-09-01T01:59:02.3069209Z",
-      "queryTimestamp": "2016-09-01T02:11:45.7020194Z",
-      "fileCount": 1,
-      "fileSize": 16150832
     },
     {
       "folderName": "Chameleon-1.10-2.1.7.jar",
@@ -4495,6 +4480,134 @@
       "dateInstalled": "2016-09-01T02:18:36.1653702Z",
       "dateUpdated": "2016-09-01T02:18:36.1763712Z",
       "dateLastUpdateAttempted": "2016-09-01T02:18:36.1763712Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 247921,
+      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "installedFile": {
+        "Id": 2326249,
+        "FileName": "zerocore-1.10.2-0.0.8.0.jar",
+        "FileNameOnDisk": "zerocore-1.10.2-0.0.8.0.jar",
+        "FileDate": "2016-08-25T21:19:35",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2326/249/zerocore-1.10.2-0.0.8.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1106752214
+          },
+          {
+            "Foldername": "cofh",
+            "Fingerprint": 949364619
+          },
+          {
+            "Foldername": "dan200",
+            "Fingerprint": 1185234871
+          },
+          {
+            "Foldername": "it",
+            "Fingerprint": 4070975022
+          },
+          {
+            "Foldername": "li",
+            "Fingerprint": 1177865197
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2463688193
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 4239574766,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-09-01T04:26:09.4244903Z",
+      "dateUpdated": "2016-09-01T04:26:09.4244903Z",
+      "dateLastUpdateAttempted": "2016-09-01T04:26:09.4244903Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 250277,
+      "gameInstanceID": "bcf17e03-5647-488b-966b-dace7a18083f",
+      "installedFile": {
+        "Id": 2327523,
+        "FileName": "ExtremeReactors-1.9.4-0.4.5.10.jar",
+        "FileNameOnDisk": "ExtremeReactors-1.9.4-0.4.5.10.jar",
+        "FileDate": "2016-08-31T16:00:29",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2327/523/ExtremeReactors-1.9.4-0.4.5.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 244651,
+            "Type": 2
+          },
+          {
+            "AddOnId": 247921,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1833813278
+          },
+          {
+            "Foldername": "erogenousbeef",
+            "Fingerprint": 2997217759
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3147796888
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "zero",
+            "Fingerprint": 2214467450
+          }
+        ],
+        "PackageFingerprint": 2708345409,
+        "GameVersion": [
+          "1.10.2",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2016-09-01T04:26:10.0613425Z",
+      "dateUpdated": "2016-09-01T04:26:10.0769689Z",
+      "dateLastUpdateAttempted": "2016-09-01T04:26:10.0769689Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
