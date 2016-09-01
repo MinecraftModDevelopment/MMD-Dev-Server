@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+    <!-- Add your custom recipes for fluid converters here -->
+    <!-- Example: A fluid converter for the fluid group with id 'lava_water' -->
+    <!--
+    <recipe type="shaped">
+        <input>
+            <grid>
+                <gridrow>
+                    <item>minecraft:ender_pearl</item>
+                    <item>minecraft:ender_pearl</item>
+                    <item>minecraft:ender_pearl</item>
+                </gridrow>
+                <gridrow>
+                    <item>minecraft:dirt</item>
+                    <item>minecraft:redstone</item>
+                    <item>minecraft:dirt</item>
+                </gridrow>
+                <gridrow>
+                    <item>minecraft:ender_pearl</item>
+                    <item>minecraft:ender_pearl</item>
+                    <item>minecraft:ender_pearl</item>
+                </gridrow>
+            </grid>
+        </input>
+        <output>
+            <item type="predefined">fluidconverters:fluidconverter_lava_water</item>
+        </output>
+    </recipe>
+    -->
+</recipes>

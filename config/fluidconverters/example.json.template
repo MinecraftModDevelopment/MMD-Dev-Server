@@ -1,0 +1,16 @@
+{
+  "groupId": "lavawater",
+  "groupName": "Lava Water",
+  "fluidElements": [
+    {
+      "fluidName": "lava",
+      "value": 1.0
+    },
+    {
+      "fluidName": "water",
+      "value": 2.0
+    }
+  ],
+  "lossRatio": 0.5,
+  "hasRecipe": true
+}

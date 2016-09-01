@@ -1,0 +1,18 @@
+{
+	"dimensions":[
+		{
+			"dimension":"+",
+			"ores":[
+				{
+					"blockID":"poweradvantage:crude_oil",
+					"size":64,
+					"variation":50,
+					"frequency":0.25,
+					"minHeight":16,
+					"maxHeight":64,
+					"biomes":[]
+				}
+			]
+		}
+	]
+}
