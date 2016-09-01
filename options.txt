@@ -132,6 +132,11 @@ key_Open Exalted Crafter:46
 key_key.integrateddynamics.logicProgrammerFocusSearch:33:ALT
 key_key.integrateddynamics.logicProgrammerOpenRename:19:ALT
 key_invtweaks.key.sort:19
+key_key.modifier:13
+key_key.porterNextDestination:27
+key_key.porterPrevDestination:26
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
