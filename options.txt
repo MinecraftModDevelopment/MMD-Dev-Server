@@ -81,9 +81,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.ftbu.guide:0
-key_key.ftbu.light_values:65
-key_key.ftbu.chunk_border:67
 key_key.OpenBag:46
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:38
