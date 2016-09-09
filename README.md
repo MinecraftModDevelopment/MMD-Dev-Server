@@ -1,5 +1,3 @@
-# We are currently holding off on whitelisting anyone who doesnt have a mod on the server to give devs the opportunity to apply. We will accept more non-dev apps at a later date.
-
 # MMD Dev Server Announcement
 
 We at Minecraft Mod Development (MMD) are proud to announce the official opening of our modded Minecraft server for mod development testing. This server is not unlike ForgeCraft except that you (yes YOU) can submit your mod to be included in the server pack to be playtested! We are offering an active and well-maintained test environment for the community’s use. Your input is needed to help us make this what it should be. We have a well-rounded staff of admins who will try their best to make themselves available as often as possible. We plan on weekly server/pack updates, but may happen more frequently if required in the event of a game/server breaking bug. We look forward to helping keep this community alive and watching it grow.
