@@ -1,0 +1,63 @@
+1. Coal Armor: armorplus:coal_helmet , armorplus:coal_chestplate , armorplus:coal_leggings , armorplus:coal_boots
+
+2. Lapis Armor: armorplus:lapis_helmet , armorplus:lapis_chestplate , armorplus:lapis_leggings , armorplus:lapis_boots
+
+3. Redstone Armor: armorplus:redstone_helmet , armorplus:redstone_chestplate , armorplus:redstone_leggings , armorplus:redstone_boots
+
+4. Emerald Armor: armorplus:emerald_helmet , armorplus:emerald_chestplate , armorplus:emerald_leggings , armorplus:emerald_boots
+
+5. Obsidian Armor: armorplus:obsidian_helmet , armorplus:obsidian_chestplate , armorplus:obsidian_leggings , armorplus:obsidian_boots
+
+6. Lava Armor: armorplus:lava_helmet , armorplus:lava_chestplate , armorplus:lava_leggings , armorplus:lava_boots
+
+7. Guardian Armor: armorplus:guardian_helmet , armorplus:guardian_chestplate , armorplus:guardian_leggings , armorplus:guardian_boots
+
+8. Super Star Armor: armorplus:super_star_helmet , armorplus:super_star_chestplate , armorplus:super_star_leggings , armorplus:super_star_boots
+
+9. Ender Dragon Armor: armorplus:ender_dragon_helmet , armorplus:ender_dragon_chestplate , armorplus:ender_dragon_leggings , armorplus:ender_dragon_boots
+
+10. The Ultimate Armor: armorplus:the_ultimate_helmet_full , armorplus:the_ultimate_chestplate_full , armorplus:the_ultimate_leggings_full , armorplus:the_ultimate_boots_full
+
+11. Cobalt Armor: armorplus:cobalt_helmet , armorplus:cobalt_chestplate , armorplus:cobalt_leggings , armorplus:cobalt_boots
+
+12. Ardite  Armor: armorplus:ardite_helmet , armorplus:ardite_chestplate , armorplus:ardite_leggings , armorplus:ardite_boots
+
+13. Manyullyn Armor: armorplus:manyullyn_helmet , armorplus:manyullyn_chestplate , armorplus:manyullyn_leggings , armorplus:manyullyn_boots
+
+14. Pig Iron Armor: armorplus:pig_iron_helmet , armorplus:pig_iron_chestplate , armorplus:pig_iron_leggings , armorplus:pig_iron_boots
+
+15. Knight Slime Armor: armorplus:knight_slime_helmet , armorplus:knight_slime_chestplate , armorplus:knight_slime_leggings , armorplus:knight_slime_boots
+
+16. Chicken Armor: armorplus:chicken_helmet , armorplus:chicken_chestplate , armorplus:chicken_leggings , armorplus:chicken_boots
+
+17. Slime Armor: armorplus:slime_helmet , armorplus:slime_chestplate , armorplus:slime_leggings , armorplus:slime_boots
+
+18. Steel Armor: armorplus:steel_helmet , armorplus:steel_chestplate , armorplus:steel_leggings , armorplus:steel_boots
+
+19. Electrical Armor: armorplus:electrical_helmet , armorplus:electrical_chestplate , armorplus:electrical_leggings , armorplus:electrical_boots
+
+20. Dev Armor: armorplus:dev_helmet , armorplus:dev_chestplate , armorplus:dev_leggings , armorplus:dev_boots
+
+21. Coal Weapons: armorplus:coal_sword , armorplus:coal_battle_axe , armorplus:coal_bow
+
+22. Lapis Weapons: armorplus:lapis_sword , armorplus:lapis_battle_axe , armorplus:lapis_bow
+
+23. Redstone Weapons: armorplus:redstone_sword , armorplus:redstone_battle_axe , armorplus:redstone_bow
+
+24. Emerald Weapons: armorplus:emerald_sword , armorplus:emerald_battle_axe , armorplus:emerald_bow
+
+25. Obsidian Weapons: armorplus:obsidian_sword , armorplus:obsidian_battle_axe , armorplus:obsidian_bow
+
+26. Lava Weapons: armorplus:lava_sword , armorplus:lava_battle_axe , armorplus:lava_bow
+
+27. Super Star Weapons: armorplus:super_star_sword , armorplus:super_star_battle_axe , armorplus:super_star_bow
+
+28. Guardian Weapons: armorplus:guardian_sword , armorplus:guardian_battle_axe , armorplus:guardian_bow
+
+29. Ender Dragon Weapons: armorplus:ender_dragon_sword , armorplus:ender_dragon_battle_axe , armorplus:ender_dragon_bow
+
+Items: armorplus:chainmail , armorplus:ender_dragon_scale , armorplus:guardian_scale , armorplus:wither_bone , armorplus:the_ultimate_material , armorplus:lava_crystal , armorplus:the_gift_of_the_gods , armorplus:steel_ingot , armorplus:electrical_ingot , armorplus:dev_tool
+
+Blocks: armorplus:compressed_obsidian , armorplus:block_lava_crystal , armorplus:armor_forge ,  , armorplus:steel_block , armorplus:electrical_block , Block{armorplus:advanced_armor_forge} , Block{armorplus:lava_cactus} , Block{armorplus:lava_nether_brick}
+
+The Ultimate Armor Parts: armorplus:the_ultimate_boots_left , armorplus:the_ultimate_boots_middle , armorplus:the_ultimate_boots_right , armorplus:the_ultimate_leggings_left , armorplus:the_ultimate_leggings_middle , armorplus:the_ultimate_leggings_right , armorplus:the_ultimate_chestplate_left , armorplus:the_ultimate_chestplate_middle , armorplus:the_ultimate_chestplate_right , armorplus:the_ultimate_helmet_left , armorplus:the_ultimate_helmet_middle , armorplus:the_ultimate_helmet_right
