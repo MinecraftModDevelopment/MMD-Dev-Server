@@ -158,6 +158,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
+key_BetterFps:88
 soundCategory_master:0.32119206
 soundCategory_music:0.26760563
 soundCategory_record:1.0

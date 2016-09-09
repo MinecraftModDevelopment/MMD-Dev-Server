@@ -1,0 +1,294 @@
+{
+    "images":
+    {
+
+    },
+     
+    "buttons":
+    {
+     
+        "Join Server":
+        {
+            "text" : "Join Server",
+            "posX" : -50,
+            "posY" : 0,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 2,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },		
+        "Website":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 25,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+			"tooltip": "Site",
+			"texture" : "mainmenu:web.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://nfinit-gaming.com"
+            }
+        },
+        "Support":
+        {
+            "text" : "Support",
+            "posX" : -100,
+            "posY" : 75,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://discord.gg/0zDmvoH5AXGBdvnK"
+            }
+        },		
+        "Discord":
+        {
+            "text" : "Discord",
+            "posX" : 2,
+            "posY" : 50,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://discord.gg/0zDmvoH5AXGBdvnK"
+            }
+        },		
+		"Forums":
+        {
+            "text" : "Forums",
+            "posX" : -100,
+            "posY" : 50,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://nfinit-gaming.com"
+            }
+        },		
+        "Report Problems":
+        {
+            "text" : "Report Problems",
+            "posX" : 2,
+            "posY" : 75,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://nfinit-gaming.com"
+            }
+        },		
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 25,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 100,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "shop":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 50,
+			"tooltip": "Shop",
+            "width" : 20,
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shop.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "http://nfinit-gaming.com/shop"
+            }
+        },		
+        "language":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"tooltip": "Language",
+			"alignment" : "center",
+			"imageWidth": "40",
+			"imageHeight": "40",
+			"texture" : "mainmenu:lang.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB",
+            "posX" : -65,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        },
+		"minecraft":{
+			"text" : "Minecraft 1.10.2",
+            "posX" : 3,
+            "posY" : -25,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 3,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsactive":{
+			"text" : "#modsactive# Mods Active",
+            "posX" : 3,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 3,
+            "posY" : -19,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modpack":{
+			"text" : "NFINIT: New Era",
+            "posX" : 3,
+            "posY" : -31,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"newsLine1":{
+			"text" : "",
+            "posX" : -140,
+            "posY" : 100,
+			"fontSize" : 1,
+			"color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "top_center"
+		},
+		"newsLine2":{
+			"text" : "",
+            "posX" : -120,
+            "posY" : 110,
+			"fontSize" : 1,
+            "color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "top_center"
+		},
+		"newsLine3":{
+			"text" : "",
+            "posX" : -140,
+            "posY" : 33,
+			"fontSize" : .8,
+            "color" : -1,
+			"hoverColor" : 13158400,
+            "alignment" : "top_right"
+		}
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}
