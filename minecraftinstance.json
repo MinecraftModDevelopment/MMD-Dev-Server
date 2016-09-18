@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2016-09-17T17:42:08.5306952Z",
+  "lastPlayed": "2016-09-18T00:12:37.7353366Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -49,36 +49,6 @@
       "fileSize": 57196
     },
     {
-      "folderName": "BaseMetals_1.10.2-devtest.jar",
-      "fingerprint": 1942922875,
-      "fileDateHash": 3054912838,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1942922875
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:54.5063232Z",
-      "lastWriteTimeUtc": "2016-09-17T17:08:49.1301784Z",
-      "queryTimestamp": "2016-09-17T17:25:55.7903964Z",
-      "fileCount": 1,
-      "fileSize": 2000324
-    },
-    {
-      "folderName": "SolarVillage-1.10.2-1.1.0.22.jar",
-      "fingerprint": 1897904443,
-      "fileDateHash": 2729097221,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1897904443
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:55.4373761Z",
-      "lastWriteTimeUtc": "2016-09-17T17:08:47.9571641Z",
-      "queryTimestamp": "2016-09-17T17:25:55.8263982Z",
-      "fileCount": 1,
-      "fileSize": 29372
-    },
-    {
       "folderName": "FastLeaveDecay-MC1.9.4-1.2.1.jar",
       "fingerprint": 2396360055,
       "fileDateHash": 2824602840,
@@ -94,6 +64,21 @@
       "fileSize": 7241
     },
     {
+      "folderName": "SolarVillage-1.10.2-1.1.0.22.jar",
+      "fingerprint": 1897904443,
+      "fileDateHash": 1680200081,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1897904443
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T21:20:48.5447313Z",
+      "lastWriteTimeUtc": "2016-09-17T21:19:24.3446956Z",
+      "queryTimestamp": "2016-09-17T21:20:48.9747546Z",
+      "fileCount": 1,
+      "fileSize": 29372
+    },
+    {
       "folderName": "thedragoncore-1.1.0.jar",
       "fingerprint": 730506929,
       "fileDateHash": 4195012935,
@@ -107,6 +92,21 @@
       "queryTimestamp": "2016-09-17T17:25:55.7893961Z",
       "fileCount": 1,
       "fileSize": 94670
+    },
+    {
+      "folderName": "BaseMetals_1.10.2-2.4.0-devtest2.jar",
+      "fingerprint": 3154984810,
+      "fileDateHash": 1524010417,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3154984810
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T22:37:40.9740717Z",
+      "lastWriteTimeUtc": "2016-09-17T22:35:43.2461535Z",
+      "queryTimestamp": "2016-09-17T22:37:41.2125884Z",
+      "fileCount": 1,
+      "fileSize": 2000410
     },
     {
       "folderName": "RecStat-1.10.2-2.2.2.jar",
@@ -349,19 +349,19 @@
       "fileSize": 202884
     },
     {
-      "folderName": "Morpheus-1.10.2-3.1.7.jar",
-      "fingerprint": 1706967642,
-      "fileDateHash": 3307776751,
+      "folderName": "Bookshelf-1.10.2-1.4.0.318.jar",
+      "fingerprint": 1481981156,
+      "fileDateHash": 3715039242,
       "sectionID": 6,
       "individualFingerprints": [
-        1706967642
+        1481981156
       ],
       "status": 1,
-      "timestamp": "2016-09-17T17:25:55.1734073Z",
-      "lastWriteTimeUtc": "2016-09-13T22:29:28.8357268Z",
-      "queryTimestamp": "2016-09-17T17:25:55.818398Z",
+      "timestamp": "2016-09-17T21:28:20.5233018Z",
+      "lastWriteTimeUtc": "2016-09-17T21:27:53.351421Z",
+      "queryTimestamp": "2016-09-17T21:28:20.8833211Z",
       "fileCount": 1,
-      "fileSize": 19601
+      "fileSize": 198194
     },
     {
       "folderName": "forestry_1.10.2-5.2.11.249.jar",
@@ -377,6 +377,21 @@
       "queryTimestamp": "2016-09-17T17:25:55.8163975Z",
       "fileCount": 1,
       "fileSize": 3987084
+    },
+    {
+      "folderName": "Morpheus-1.10.2-3.1.7.jar",
+      "fingerprint": 1706967642,
+      "fileDateHash": 3307776751,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1706967642
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T17:25:55.1734073Z",
+      "lastWriteTimeUtc": "2016-09-13T22:29:28.8357268Z",
+      "queryTimestamp": "2016-09-17T17:25:55.818398Z",
+      "fileCount": 1,
+      "fileSize": 19601
     },
     {
       "folderName": "OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar",
@@ -437,6 +452,21 @@
       "queryTimestamp": "2016-09-17T17:25:55.8093976Z",
       "fileCount": 1,
       "fileSize": 796530
+    },
+    {
+      "folderName": "advantage-core-2.x (1).jar",
+      "fingerprint": 3720369222,
+      "fileDateHash": 2834270927,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3720369222
+      ],
+      "status": 1,
+      "timestamp": "2016-09-18T00:09:58.0429581Z",
+      "lastWriteTimeUtc": "2016-09-18T00:09:57.7460828Z",
+      "queryTimestamp": "2016-09-18T00:09:58.3489997Z",
+      "fileCount": 1,
+      "fileSize": 72471
     },
     {
       "folderName": "BrandonsCore-1.10.2-2.1.0.42-universal.jar",
@@ -529,21 +559,6 @@
       "fileSize": 135957
     },
     {
-      "folderName": "TConstruct-1.10.2-2.5.1.jar",
-      "fingerprint": 3489567850,
-      "fileDateHash": 1404892966,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3489567850
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:55.4453772Z",
-      "lastWriteTimeUtc": "2016-09-13T22:29:29.0776882Z",
-      "queryTimestamp": "2016-09-17T17:25:55.8193978Z",
-      "fileCount": 1,
-      "fileSize": 3001977
-    },
-    {
       "folderName": "BiomesOPlenty-1.10.2-5.0.0.2085-universal.jar",
       "fingerprint": 300952654,
       "fileDateHash": 1005772384,
@@ -559,6 +574,21 @@
       "fileSize": 6150248
     },
     {
+      "folderName": "TConstruct-1.10.2-2.5.1.jar",
+      "fingerprint": 3489567850,
+      "fileDateHash": 1404892966,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3489567850
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T17:25:55.4453772Z",
+      "lastWriteTimeUtc": "2016-09-13T22:29:29.0776882Z",
+      "queryTimestamp": "2016-09-17T17:25:55.8193978Z",
+      "fileCount": 1,
+      "fileSize": 3001977
+    },
+    {
       "folderName": "EnderCore-1.10.2-0.4.1.55-beta.jar",
       "fingerprint": 1021268642,
       "fileDateHash": 2411799250,
@@ -572,6 +602,21 @@
       "queryTimestamp": "2016-09-17T17:25:55.7883964Z",
       "fileCount": 1,
       "fileSize": 460632
+    },
+    {
+      "folderName": "BaseMinerals_1.10.2-devtest2.jar",
+      "fingerprint": 3452086326,
+      "fileDateHash": 2228768339,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3452086326
+      ],
+      "status": 1,
+      "timestamp": "2016-09-18T00:10:13.5805334Z",
+      "lastWriteTimeUtc": "2016-09-18T00:10:13.4399632Z",
+      "queryTimestamp": "2016-09-18T00:10:13.8234501Z",
+      "fileCount": 1,
+      "fileSize": 122004
     },
     {
       "folderName": "rftools-1.10-5.22.jar",
@@ -692,6 +737,21 @@
       "queryTimestamp": "2016-09-17T17:25:55.7994052Z",
       "fileCount": 1,
       "fileSize": 3572206
+    },
+    {
+      "folderName": "Gyth-1.10.2-2.0.0.1.jar",
+      "fingerprint": 3594157877,
+      "fileDateHash": 3335709013,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3594157877
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T21:28:32.4658576Z",
+      "lastWriteTimeUtc": "2016-09-17T21:27:25.8528451Z",
+      "queryTimestamp": "2016-09-17T21:28:32.7728745Z",
+      "fileCount": 1,
+      "fileSize": 29281
     },
     {
       "folderName": "CommonCapabilities-1.9.4-1.1.2.jar",
@@ -917,21 +977,6 @@
       "queryTimestamp": "2016-09-17T17:25:55.7893961Z",
       "fileCount": 1,
       "fileSize": 703503
-    },
-    {
-      "folderName": "Bookshelf-1.10.2-1.4.0.291.jar",
-      "fingerprint": 1972724794,
-      "fileDateHash": 4267193040,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1972724794
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:54.6423302Z",
-      "lastWriteTimeUtc": "2016-09-13T22:29:28.454015Z",
-      "queryTimestamp": "2016-09-17T17:25:55.8173982Z",
-      "fileCount": 1,
-      "fileSize": 171208
     },
     {
       "folderName": "bdlib-1.12.2.8-mc1.10.2.jar",
@@ -1189,21 +1234,6 @@
       "fileSize": 145112
     },
     {
-      "folderName": "ModernMetals_1.10.2-devtest.jar",
-      "fingerprint": 870154104,
-      "fileDateHash": 1168435049,
-      "sectionID": 6,
-      "individualFingerprints": [
-        870154104
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:55.1324052Z",
-      "lastWriteTimeUtc": "2016-09-17T17:08:47.822111Z",
-      "queryTimestamp": "2016-09-17T17:25:55.7903964Z",
-      "fileCount": 1,
-      "fileSize": 4192836
-    },
-    {
       "folderName": "AdditionalLootTables_1.10.2-1.06.jar",
       "fingerprint": 2821253102,
       "fileDateHash": 427432277,
@@ -1232,21 +1262,6 @@
       "queryTimestamp": "2016-09-17T17:25:55.8323993Z",
       "fileCount": 1,
       "fileSize": 251940
-    },
-    {
-      "folderName": "BaseMinerals_1.10.2-devtest.jar",
-      "fingerprint": 662800319,
-      "fileDateHash": 66991154,
-      "sectionID": 6,
-      "individualFingerprints": [
-        662800319
-      ],
-      "status": 1,
-      "timestamp": "2016-09-17T17:25:54.5253268Z",
-      "lastWriteTimeUtc": "2016-09-17T17:08:47.7240966Z",
-      "queryTimestamp": "2016-09-17T17:25:55.7953968Z",
-      "fileCount": 1,
-      "fileSize": 122019
     },
     {
       "folderName": "lawnmower-1.0.1.jar",
@@ -1414,6 +1429,21 @@
       "fileSize": 520173
     },
     {
+      "folderName": "roots-1.10.2-0.202.0.jar",
+      "fingerprint": 751427016,
+      "fileDateHash": 2256878065,
+      "sectionID": 6,
+      "individualFingerprints": [
+        751427016
+      ],
+      "status": 1,
+      "timestamp": "2016-09-17T18:42:53.6177622Z",
+      "lastWriteTimeUtc": "2016-09-17T17:32:20.3869652Z",
+      "queryTimestamp": "2016-09-17T18:42:53.8681153Z",
+      "fileCount": 1,
+      "fileSize": 1433738
+    },
+    {
       "folderName": "refinedstorage-1.0.4.jar",
       "fingerprint": 3995279945,
       "fileDateHash": 1838232505,
@@ -1445,7 +1475,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2016-09-17T18:42:54.1143746Z",
+  "lastPreviousMatchUpdate": "2016-09-17T23:55:11.3829034Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -1935,62 +1965,6 @@
       },
       "dateInstalled": "2016-09-09T02:38:52.1935753Z",
       "dateUpdated": "2015-09-09T02:38:52.1935753Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228525,
-      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
-      "installedFile": {
-        "Id": 2328693,
-        "FileName": "Bookshelf-1.10.2-1.4.0.291.jar",
-        "FileNameOnDisk": "Bookshelf-1.10.2-1.4.0.291.jar",
-        "FileDate": "2016-09-07T00:53:40",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2328/693/Bookshelf-1.10.2-1.4.0.291.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 957293564
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1659694795
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 641172477
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 4166127890
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2428936894
-          }
-        ],
-        "PackageFingerprint": 1972724794,
-        "GameVersion": [
-          "1.10.2",
-          "1.9.4"
-        ]
-      },
-      "dateInstalled": "2016-09-09T02:38:53.359642Z",
-      "dateUpdated": "2015-09-09T02:38:53.359642Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -4774,70 +4748,6 @@
       "manifestName": null
     },
     {
-      "addonID": 245322,
-      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
-      "installedFile": {
-        "Id": 2330504,
-        "FileName": "SolarVillage-1.10.2-1.1.0.22.jar",
-        "FileNameOnDisk": "SolarVillage-1.10.2-1.1.0.22.jar",
-        "FileDate": "2016-09-16T16:02:03",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2330/504/SolarVillage-1.10.2-1.1.0.22.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 244651,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 892805151
-          },
-          {
-            "Foldername": "logo_solar_village.png",
-            "Fingerprint": 2073203192
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2147662952
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 2865193975
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2563852088
-          }
-        ],
-        "PackageFingerprint": 1897904443,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
-      "dateInstalled": "2016-09-09T02:39:05.1263161Z",
-      "dateUpdated": "2016-09-17T13:26:55.0071059Z",
-      "dateLastUpdateAttempted": "2016-09-17T13:26:55.0071059Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 247291,
       "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
       "installedFile": {
@@ -5695,7 +5605,7 @@
       "dateInstalled": "2016-09-17T13:19:27.6722491Z",
       "dateUpdated": "2016-09-17T13:19:27.6811943Z",
       "dateLastUpdateAttempted": "2016-09-17T13:19:27.6811943Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6633,6 +6543,232 @@
       "dateUpdated": "2016-09-17T17:32:20.4149678Z",
       "dateLastUpdateAttempted": "2016-09-17T17:32:20.4149678Z",
       "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 250641,
+      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
+      "installedFile": {
+        "Id": 2330720,
+        "FileName": "AquaRegia-1.10.2-0.1.1-dc36c0e.jar",
+        "FileNameOnDisk": "AquaRegia-1.10.2-0.1.1-dc36c0e.jar",
+        "FileDate": "2016-09-17T17:58:17",
+        "ReleaseType": 2,
+        "FileStatus": 10,
+        "DownloadURL": "https://addons.cursecdn.com/files/2330/720/AquaRegia-1.10.2-0.1.1-dc36c0e.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": false,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1821398322
+          },
+          {
+            "Foldername": "droidicus",
+            "Fingerprint": 1955041173
+          },
+          {
+            "Foldername": "log4j2.xml",
+            "Fingerprint": 647782369
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2394861644
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 594074075,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-09-17T18:42:54.1043724Z",
+      "dateUpdated": "2015-09-17T18:42:54.1043724Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 245322,
+      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
+      "installedFile": {
+        "Id": 2330504,
+        "FileName": "SolarVillage-1.10.2-1.1.0.22.jar",
+        "FileNameOnDisk": "SolarVillage-1.10.2-1.1.0.22.jar",
+        "FileDate": "2016-09-16T16:02:03",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2330/504/SolarVillage-1.10.2-1.1.0.22.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 244651,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 892805151
+          },
+          {
+            "Foldername": "logo_solar_village.png",
+            "Fingerprint": 2073203192
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2147662952
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 2865193975
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2563852088
+          }
+        ],
+        "PackageFingerprint": 1897904443,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-09-17T21:19:24.3446956Z",
+      "dateUpdated": "2016-09-17T21:19:24.3466966Z",
+      "dateLastUpdateAttempted": "2016-09-17T21:19:24.3466966Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 228525,
+      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
+      "installedFile": {
+        "Id": 2330779,
+        "FileName": "Bookshelf-1.10.2-1.4.0.318.jar",
+        "FileNameOnDisk": "Bookshelf-1.10.2-1.4.0.318.jar",
+        "FileDate": "2016-09-17T21:01:39",
+        "ReleaseType": 3,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2330/779/Bookshelf-1.10.2-1.4.0.318.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 957293564
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2891842861
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2841970238
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 4017060521
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2428936894
+          }
+        ],
+        "PackageFingerprint": 1481981156,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-09-17T21:28:33.1749011Z",
+      "dateUpdated": "2015-09-17T21:28:33.1749011Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 226696,
+      "gameInstanceID": "9129f128-8702-43f4-912a-de023d7199ac",
+      "installedFile": {
+        "Id": 2330789,
+        "FileName": "Gyth-1.10.2-2.0.0.1.jar",
+        "FileNameOnDisk": "Gyth-1.10.2-2.0.0.1.jar",
+        "FileDate": "2016-09-17T21:18:24",
+        "ReleaseType": 3,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2330/789/Gyth-1.10.2-2.0.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 228525,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 723610916
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 3970891403
+          }
+        ],
+        "PackageFingerprint": 3594157877,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2016-09-17T21:28:33.1768996Z",
+      "dateUpdated": "2015-09-17T21:28:33.1768996Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
