@@ -21,11 +21,11 @@ https://github.com/MinecraftModDevelopment/MMD-Dev-Server/tree/curse-launcher-de
 #### Advantage Core
 #### roots-1.10.2-0.202.0
 #### AquaRegia-1.10.2-0.1.1-dc36c0e
-#### BaseMinerals_1.10.2-devtest
+#### BaseMinerals_1.10.2-devtest2
 
 ## Updated:
-#### ModernMetals_1.10.2-devtest
-#### BaseMetals_1.10.2-devtest
+#### ModernMetals_1.10.2-devtest2
+#### BaseMetals_1.10.2-devtest2
 #### EndMetals_1.9-1.0.4
 #### NetherMetals_1.9-1.1.2
 #### TeslaArsenal-1.4
