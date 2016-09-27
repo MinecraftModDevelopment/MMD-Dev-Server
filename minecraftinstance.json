@@ -919,21 +919,6 @@
       "fileSize": 64253
     },
     {
-      "folderName": "CodeChickenLib-1.10.2-2.2.3.58-universal.jar",
-      "fingerprint": 3590834191,
-      "fileDateHash": 2913550028,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3590834191
-      ],
-      "status": 1,
-      "timestamp": "2016-09-27T20:59:59.675512Z",
-      "lastWriteTimeUtc": "2016-09-27T20:56:04.1314657Z",
-      "queryTimestamp": "2016-09-27T21:00:00.3701601Z",
-      "fileCount": 1,
-      "fileSize": 432958
-    },
-    {
       "folderName": "environmentaltech-1.10.2-0.10.4d (1).jar",
       "fingerprint": 260806340,
       "fileDateHash": 1710586901,
@@ -4089,13 +4074,13 @@
       "addonID": 238222,
       "gameInstanceID": "722ce0ec-8197-4438-87ab-3a0a0dc7554a",
       "installedFile": {
-        "Id": 2332204,
-        "FileName": "jei_1.10.2-3.10.0.268.jar",
-        "FileNameOnDisk": "jei_1.10.2-3.10.0.268.jar",
-        "FileDate": "2016-09-24T20:39:50",
+        "Id": 2332660,
+        "FileName": "jei_1.10.2-3.11.2.278.jar",
+        "FileNameOnDisk": "jei_1.10.2-3.11.2.278.jar",
+        "FileDate": "2016-09-27T09:10:35",
         "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2332/204/jei_1.10.2-3.10.0.268.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2332/660/jei_1.10.2-3.11.2.278.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -4103,11 +4088,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1563100321
+            "Fingerprint": 1260394973
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 950017940
+            "Fingerprint": 182460893
           },
           {
             "Foldername": "META-INF",
@@ -4115,17 +4100,17 @@
           },
           {
             "Foldername": "mezz",
-            "Fingerprint": 451147188
+            "Fingerprint": 1110628854
           }
         ],
-        "PackageFingerprint": 1233808055,
+        "PackageFingerprint": 2604676448,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2016-09-09T02:39:05.1113155Z",
-      "dateUpdated": "2016-09-27T21:13:54.4198775Z",
-      "dateLastUpdateAttempted": "2016-09-27T21:13:54.4198775Z",
+      "dateUpdated": "2016-09-27T21:34:20.3737204Z",
+      "dateLastUpdateAttempted": "2016-09-27T21:34:20.3737204Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -6690,23 +6675,6 @@
       "dateInstalled": "2016-09-24T01:02:31.5377895Z",
       "dateUpdated": "2016-09-27T20:57:19.9754736Z",
       "dateLastUpdateAttempted": "2016-09-27T20:57:19.9754736Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 242818,
-      "gameInstanceID": "722ce0ec-8197-4438-87ab-3a0a0dc7554a",
-      "installedFile": null,
-      "dateInstalled": "2016-09-27T20:56:04.1314657Z",
-      "dateUpdated": "2016-09-27T20:56:04.136426Z",
-      "dateLastUpdateAttempted": "2016-09-27T20:56:04.136426Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
