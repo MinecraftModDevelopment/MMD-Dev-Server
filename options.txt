@@ -25,8 +25,8 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
-enableVsync:true
+fullscreen:true
+enableVsync:false
 useVbo:false
 hideServerAddress:false
 advancedItemTooltips:false
@@ -161,7 +161,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_BetterFps:88
-soundCategory_master:0.0
+soundCategory_master:0.6721854
 soundCategory_music:0.26760563
 soundCategory_record:1.0
 soundCategory_weather:1.0
