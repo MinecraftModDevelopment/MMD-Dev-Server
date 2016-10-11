@@ -9,7 +9,7 @@
 					"blockID":"basemetals:copper_ore",
 					"size":8,
 					"variation":4,
-					"frequency":10,
+					"frequency":16,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -17,7 +17,7 @@
 					"blockID":"basemetals:silver_ore",
 					"size":8,
 					"variation":4,
-					"frequency":4,
+					"frequency":6,
 					"minHeight":0,
 					"maxHeight":32
 				},
@@ -25,7 +25,7 @@
 					"blockID":"basemetals:tin_ore",
 					"size":8,
 					"variation":4,
-					"frequency":10,
+					"frequency":16,
 					"minHeight":0,
 					"maxHeight":128
 				},
@@ -33,7 +33,7 @@
 					"blockID":"basemetals:lead_ore",
 					"size":8,
 					"variation":4,
-					"frequency":5,
+					"frequency":8,
 					"minHeight":0,
 					"maxHeight":64
 				},
@@ -68,7 +68,14 @@
 					"frequency":0.125,
 					"minHeight":1,
 					"maxHeight":32
-				}
+				},{
+                    "blockID":"magicpab:pyrite_ore",
+                    "size":8,
+                    "variation":4,
+                    "frequency":8,
+                    "minHeight":0,
+                    "maxHeight":96
+                }
 			]
 		},
 		{

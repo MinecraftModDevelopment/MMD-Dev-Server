@@ -51,7 +51,7 @@
 					"variation":4,
 					"frequency":6,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":64
 				},
 				{
 					"blockID":"modernmetals:osmium_ore",
@@ -75,7 +75,7 @@
 					"variation":4,
 					"frequency":6,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":64
 				},
 				{
 					"blockID":"modernmetals:tantalum_ore",
@@ -83,7 +83,7 @@
 					"variation":4,
 					"frequency":6,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":64
 				},
 				{
 					"blockID":"modernmetals:tungsten_ore",
@@ -91,7 +91,7 @@
 					"variation":4,
 					"frequency":6,
 					"minHeight":0,
-					"maxHeight":96
+					"maxHeight":32
 				},
 				{
 					"blockID":"modernmetals:uranium_ore",

@@ -1,0 +1,674 @@
+{
+    "pools": [
+        {
+            "__comment":"25% chance of an uncommon metal tool",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "empty",
+                    "weight": 900
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_axe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_boots",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_chestplate",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_helmet",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_hoe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_leggings",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_pickaxe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_shovel",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_sword",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:iron_crackhammer",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_axe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_boots",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_chestplate",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_helmet",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_hoe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_leggings",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_pickaxe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_shovel",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_sword",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:bronze_crackhammer",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_axe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_boots",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_chestplate",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_helmet",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_hoe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_leggings",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_pickaxe",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_shovel",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_sword",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:steel_crackhammer",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 10,
+                            "treasure": true
+                        }
+                    ]
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_axe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_boots",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_chestplate",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_helmet",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_hoe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_leggings",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_pickaxe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_shovel",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_sword",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:invar_crackhammer",
+                    "weight": 3
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_axe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_boots",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_chestplate",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_helmet",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_hoe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_leggings",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_pickaxe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_shovel",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_sword",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_crackhammer",
+                    "weight": 3
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_axe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_boots",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_chestplate",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_helmet",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_hoe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_leggings",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_pickaxe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_shovel",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_sword",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_crackhammer",
+                    "weight": 3
+                },
+                
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_axe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_boots",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_chestplate",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_helmet",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_hoe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_leggings",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_pickaxe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_shovel",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_sword",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_crackhammer",
+                    "weight": 3
+                }
+            ]
+        },
+        {
+            "__comment":"25% chance of rare metal ingots",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "empty",
+                    "weight": 300
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:coldiron_ingot",
+                    "weight": 40,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:aquarium_ingot",
+                    "weight": 25,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:mithril_ingot",
+                    "weight": 20,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:platinum_ingot",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:adamantine_ingot",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "basemetals:starsteel_ingot",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+  "channels": [
+    {
+      "name": "*",
+      "pattern": "(?:\u003c(?\u003cs\u003e[^\u003e]+)\u003e)?(?\u003cm\u003e.*)",
+      "exclusive": false,
+      "style": "Chat",
+      "format": "$0",
+      "muted": false,
+      "timestamps": true
+    },
+    {
+      "name": "Bed Message",
+      "pattern": "You can only sleep at night",
+      "exclusive": true,
+      "style": "Bottom",
+      "format": "~c$0",
+      "muted": false,
+      "timestamps": false
+    },
+    {
+      "name": "Common Commands",
+      "pattern": "(Set the time to [0-9]+|Toggled downfall|Given \\[.+\\] \\* [0-9]+ to .+)",
+      "exclusive": true,
+      "style": "Side",
+      "format": "$0",
+      "muted": false,
+      "timestamps": false
+    },
+    {
+      "name": "morpheus11011",
+      "pattern": "(?:\u003c(?\u003cs\u003e[^\u003e]+)\u003e)?(?\u003cm\u003e.*)",
+      "exclusive": false,
+      "style": "Chat",
+      "format": "$0",
+      "muted": false,
+      "prefix": "/twitch #morpheus11011 ",
+      "timestamps": false
+    }
+  ]
+}

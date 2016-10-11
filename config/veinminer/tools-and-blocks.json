@@ -149,7 +149,9 @@
         "randomthings:spectreLeaf/0",
         "randomthings:spectreLog/0",
         "roots:logWildwood/0",
-        "tconstruct:slime_leaves"
+        "tconstruct:slime_leaves",
+        "techreborn:rubberLeaves",
+        "techreborn:rubberLog"
       ]
     },
     "hoe": {
@@ -330,6 +332,9 @@
         "biomesoplenty:gem_ore/7",
         "deepresonance:resonating_ore/0",
         "draconicevolution:draconium_ore/0",
+        "embers:oreCopper/0",
+        "embers:oreLead/0",
+        "embers:oreSilver/0",
         "evilcraft:darkOre/0",
         "forestry:resources/0",
         "forestry:resources/1",
@@ -370,7 +375,23 @@
         "modernmetals:uranium_ore/0",
         "modernmetals:zirconium_ore/0",
         "tconstruct:ore/0",
-        "tconstruct:ore/1"
+        "tconstruct:ore/1",
+        "techreborn:techreborn.ore/0",
+        "techreborn:techreborn.ore/1",
+        "techreborn:techreborn.ore/2",
+        "techreborn:techreborn.ore/3",
+        "techreborn:techreborn.ore/4",
+        "techreborn:techreborn.ore/5",
+        "techreborn:techreborn.ore/6",
+        "techreborn:techreborn.ore/7",
+        "techreborn:techreborn.ore/8",
+        "techreborn:techreborn.ore/9",
+        "techreborn:techreborn.ore/10",
+        "techreborn:techreborn.ore/11",
+        "techreborn:techreborn.ore/12",
+        "techreborn:techreborn.ore/13",
+        "techreborn:techreborn.ore2/0",
+        "techreborn:techreborn.ore2/1"
       ]
     },
     "shears": {
@@ -480,7 +501,8 @@
         "minecraft:web",
         "minecraft:wool",
         "randomthings:spectreLeaf/0",
-        "tconstruct:slime_leaves"
+        "tconstruct:slime_leaves",
+        "techreborn:rubberLeaves"
       ]
     },
     "shovel": {

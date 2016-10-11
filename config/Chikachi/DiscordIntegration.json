@@ -1,0 +1,150 @@
+{
+  "discord":{
+    "token":"MTk0MTA0MTU1NTU4NjQxNjY0.CpJNVQ.T0WzQk-TyFnOW7W52E31pDXydNk",
+    "channel":"208710234175307786",
+    "ignoreBots":false,
+    "commands":{
+      "prefix":"!",
+      "online":{
+        "enabled":true,
+        "roles":[
+
+        ],
+        "aliases":[
+
+        ]
+      },
+      "tps":{
+        "enabled":true,
+        "roles":[
+
+        ],
+        "aliases":[
+
+        ],
+        "colored":false
+      },
+      "unstuck":{
+        "enabled":true,
+        "roles":[
+          "MMD Admins",
+          "MMD Dev Server Admins"
+        ],
+        "aliases":[
+
+        ]
+      },
+      "custom":[
+        {
+          "name":"kick",
+          "cmd":"/kick %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"whitelist",
+          "cmd":"/whitelist %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"w",
+          "cmd":"/whitelist %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"unban",
+          "cmd":"/pardon %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"runcmd",
+          "cmd":"/%args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"cmd",
+          "cmd":"/%args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"pardon",
+          "cmd":"/pardon %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        },
+        {
+          "name":"ban",
+          "cmd":"/ban %args%",
+          "roles":[
+            "MMD Admins",
+            "MMD Dev Server Admins"
+          ]
+        }
+      ]
+    }
+  },
+  "messages":{
+    "discord":{
+      "chat":{
+        "enabled":true,
+        "message":"<__%USER%__> %MESSAGE%",
+        "relaySayCommand":true,
+        "useEmotes":true
+      },
+      "death":{
+        "enabled":true,
+        "message":"__%USER%__ %MESSAGE%"
+      },
+      "achievement":{
+        "enabled":true,
+        "message":"Congrats to __%USER%__ for earning the achievement **%ACHIEVEMENT%** (%DESCRIPTION%)"
+      },
+      "join":{
+        "enabled":true,
+        "message":"__%USER%__ has joined the server!"
+      },
+      "leave":{
+        "enabled":true,
+        "message":"__%USER%__ left the server!"
+      },
+      "startup":{
+        "enabled":true,
+        "message":"**Server started**"
+      },
+      "shutdown":{
+        "enabled":true,
+        "message":"**Server shutdown**"
+      }
+    },
+    "minecraft":{
+      "chat":{
+        "enabled":true,
+        "message":"[MMD] <%USER%> %MESSAGE%",
+        "maxLength":-1,
+        "usernameColor":"red"
+      }
+    }
+  },
+  "experimental":{
+    "fakePlayers":false
+  }
+}
