@@ -6,6 +6,8 @@
       "toollist": [
         "BiomesOPlenty:axeAmethyst",
         "BiomesOPlenty:axeMud",
+        "appliedenergistics2:item.ToolCertusQuartzAxe",
+        "appliedenergistics2:item.ToolNetherQuartzAxe",
         "basemetals:aluminum_axe",
         "basemetals:aluminumbrass_axe",
         "basemetals:cadmium_axe",
@@ -65,6 +67,7 @@
         "modernmetals:tungsten_axe",
         "modernmetals:uranium_axe",
         "modernmetals:zirconium_axe",
+        "enderio:darkSteel_axe",
         "tconstruct:hatchet"
       ],
       "blocklist": [
@@ -160,6 +163,8 @@
       "toollist": [
         "BiomesOPlenty:hoeAmethyst",
         "BiomesOPlenty:hoeMud",
+        "appliedenergistics2:item.ToolCertusQuartzHoe",
+        "appliedenergistics2:item.ToolNetherQuartzHoe",
         "basemetals:aluminum_hoe",
         "basemetals:aluminumbrass_hoe",
         "basemetals:cadmium_hoe",
@@ -235,6 +240,8 @@
       "toollist": [
         "BiomesOPlenty:pickaxeAmethyst",
         "BiomesOPlenty:pickaxeMud",
+        "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+        "appliedenergistics2:item.ToolNetherQuartzPickaxe",
         "basemetals:aluminum_pickaxe",
         "basemetals:aluminumbrass_pickaxe",
         "basemetals:cadmium_pickaxe",
@@ -294,10 +301,13 @@
         "modernmetals:tungsten_pickaxe",
         "modernmetals:uranium_pickaxe",
         "modernmetals:zirconium_pickaxe",
+        "enderio:darkSteel_pickaxe",
         "tconstruct:pickaxe"
       ],
       "blocklist": [
         "actuallyadditions:blockMisc/3",
+        "appliedenergistics2:charged_quartz_ore/0",
+        "appliedenergistics2:quartz_ore/0",
         "aquaregia:oreniter/0",
         "aquaregia:oresalt/0",
         "aquaregia:oresulfur/0",
@@ -339,6 +349,12 @@
         "forestry:resources/0",
         "forestry:resources/1",
         "forestry:resources/2",
+        "immersiveengineering:ore/0",
+        "immersiveengineering:ore/1",
+        "immersiveengineering:ore/2",
+        "immersiveengineering:ore/3",
+        "immersiveengineering:ore/4",
+        "immersiveengineering:ore/5",
         "magicpab:copper_ore/0",
         "magicpab:nickel_ore/0",
         "magicpab:pyrite_ore/0",
@@ -511,6 +527,8 @@
       "toollist": [
         "BiomesOPlenty:shovelAmethyst",
         "BiomesOPlenty:shovelMud",
+        "appliedenergistics2:item.ToolCertusQuartzSpade",
+        "appliedenergistics2:item.ToolNetherQuartzSpade",
         "basemetals:aluminum_shovel",
         "basemetals:aluminumbrass_shovel",
         "basemetals:cadmium_shovel",
@@ -571,6 +589,7 @@
         "modernmetals:uranium_shovel",
         "modernmetals:zirconium_shovel",
         "tconstruct:mattock",
+        "enderio:darkSteel_pickaxe",
         "tconstruct:shovel"
       ],
       "blocklist": [
