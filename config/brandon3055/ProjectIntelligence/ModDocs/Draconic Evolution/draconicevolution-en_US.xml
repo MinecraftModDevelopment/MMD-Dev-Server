@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod docRevision="1" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
+    <content index="11" type="textArea">
+Also note i am still in the process of updating this documentation so a lot of it is copied from 1.7.10 and is inacurate.</content>
+    <content index="10" size="8" type="vSpacer"/>
+    <content index="9" type="textArea">
+Althogh Draconic Evolution for 1.10.2 is now in a stable release state the update is still far from finished. So if you find that something which was avalible in 1.7 is nolonger avalible in 1.10 it probably has not been updated yet. I plan to update almost everything that was in 1.7 so dont be concerned if some of your favorite items/blocks dont exist yet.</content>
+    <content alignment="CENTER" index="8" shadow="true" size="1" type="heading">§nImportant!</content>
+    <content index="7" size="8" type="vSpacer"/>
+    <content alignment="LEFT" index="6" type="splitContainer" vAlignment="BOTTOM" width="10">
+        <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§1§a
+-Powerful tools and armor
+
+-Teleportation
+
+-Time and weather control
+
+-Mob Farming
+
+-The most over powered energy storage of any mod currently in existance.
+
+-Extreme(ly Dangerous) power generation
+
+-Fancy Effects! (Because that's an important feature!)
+
+-One of the most powerful bosses in modded minecraft</content>
+    </content>
+    <content index="5" type="textArea">Draconic Evolution is a mod that focuses mainly on extreamely powerful end game tools, weapons an machines.
+
+While at the same time maintaining balance (Althogh this can be tricky) with equally expensive recipes and very difficult bosses which you need to go though in order to get these items.
+
+But this mod started more like an Open Blocks or Extra Utilities type mod so it also has a lot of seemingly random but useful blocs and items.
+
+Some of the key features of this mod are: </content>
+    <content index="4" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="3" shadow="true" size="0" type="heading">Now not quite as OP!!!</content>
+    <content alignment="CENTER" index="2" shadow="false" size="0" type="heading">ABC...LMN§cDraconic Evolution§rQR...WXYZ</content>
+    <content index="1" size="8" type="vSpacer"/>
+    <content alignment="CENTER" index="0" shadow="true" size="1" type="heading">§nDraconic Evolution</content>
+	<entry branchId="draconicevolution:draconium" category="wiki.cat.item" icon="name:draconicevolution:draconium_ingot,size:1,meta:0,nbt:{}" iconType="stack" name="Draconium" sortingWeight="10">
+        <content index="6" type="recipe">name:draconicevolution:nugget,size:1,meta:0,nbt:{}</content>
+        <content index="5" type="recipe">name:draconicevolution:draconium_ingot,size:1,meta:0,nbt:{}</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Draconium is the base material used to craft all tools and machines in Draconic Evolution.</content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content index="0" size="4" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nDraconium</content>
+    <entry branchId="draconicevolution:draconium/ore" category="wiki.cat.block" icon="name:draconicevolution:draconium_ore,size:1,meta:0,nbt:{}" iconType="stack" name="Draconium Ore" sortingWeight="10">
+            <content alignment="LEFT" index="7" type="splitContainer" vAlignment="MIDDLE" width="32">
+                <content index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:2,nbt:{}</content>
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">End
+
+This is the most common valient of draconium ore found on the main island and all other islands in the End
+
+Drops:
+2-4 Draconum Dust (when harvested normally)
+2-12 Draconum Dust (when harvested with fortune 3)
+</content>
+            </content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="5" type="splitContainer" vAlignment="MIDDLE" width="32">
+                <content index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:1,nbt:{}</content>
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">Nether
+
+More common than the overworld varient but still fairly rare and dose not drop quiet as much dust when harvested
+Found in the nether.
+
+Drops:
+3-5 Draconum Dust (when harvested normally)
+3-13 Draconum Dust (when harvested with fortune 3)
+</content>
+            </content>
+            <content index="4" size="8" type="vSpacer"/>
+
+
+            <content alignment="LEFT" index="3" type="splitContainer" vAlignment="MIDDLE" width="32">
+
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">Overworld
+
+The overworld variety of Draconium ore can be found in (you guessed it) the overworld and other stone bassed dimentions.
+This is the rarest of the 3 types with an extreamely low generation rate but it drops the most draconium dust when harvested
+
+Drops:
+4-6 Draconium Dust (when harvested normally)
+4-14 Draconium Dust (when harvested with fortune 3)</content>
+            <content alignment="CENTER" index="0" renderSlot="true" scale="100" splitSide="LEFT" tooltip="true" type="stack">name:draconicevolution:draconium_ore,size:1,meta:0,nbt:{}</content>
+            </content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Draconium ore comes in 3 different types.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/dust" category="wiki.cat.item" icon="name:draconicevolution:draconium_dust,size:1,meta:0,nbt:{}" iconType="stack" name="Draconium Dust" sortingWeight="11">
+            <content index="1" type="textArea">Draconium Dust drops from draconium ore when harvested and 1 dust smelts into 1 draconium ingot</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/block" category="wiki.cat.block" icon="name:draconicevolution:draconium_block,size:1,meta:0,nbt:{}" iconType="stack" name="Draconium Block" sortingWeight="12">
+            <content index="3" type="recipe">name:draconicevolution:draconium_block,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+
+            <content index="1" type="textArea">Draconium in its block form.
+
+This block is resistent to most mobs including the Wither and EnderDragon.
+
+Equivelent to 4 book shelves when used as an enchanting booster.</content>
+            <content index="0" size="8" type="vSpacer"/>
+
+        </entry>
+    <entry branchId="draconicevolution:draconium/blockCharged" category="wiki.cat.block" icon="name:draconicevolution:draconium_block,size:1,meta:1,nbt:{}" iconType="stack" name="Charged Draconium Block" sortingWeight="13">
+            <content index="1" type="textArea">By placing a draconium block in a charging device such as an Energy Infuser and and supplying it with 100 million RF you can make a Charged Draconium Block. Currently in this version of Draconic Evolution this is not used for anything.
+
+Equivelent to 12 book shelves when used as an enchanting booster.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:draconium/nugget" category="wiki.cat.item" icon="name:draconicevolution:nugget,size:1,meta:0,nbt:{}" iconType="stack" name="Draconium Nugget" sortingWeight="14">
+            <content index="0" type="recipe">name:draconicevolution:nugget,size:1,meta:0,nbt:{}</content>
+        </entry>
+    </entry>
+	<entry branchId="draconicevolution:cores" icon="name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Cores" sortingWeight="20">
+        <content index="0" type="textArea">
+Cores come in 4 tiers and are components in almost all Draconic Evolution crafting recipes.</content>
+        <entry branchId="draconicevolution:cores/draconic" category="wiki.cat.item" icon="name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Draconic Core">
+            <content index="3" type="recipe">name:draconicevolution:draconic_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">The lowest tier core. Used in simple crafting recipes</content>
+        </entry>
+    <entry branchId="draconicevolution:cores/wyvern" category="wiki.cat.item" icon="name:draconicevolution:wyvern_core,size:1,meta:0,nbt:{}" iconType="stack" name="Wyvern Core" sortingWeight="1">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Tier 2 core.
+Used in more advanced recipes </content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/awakened" category="wiki.cat.item" icon="name:draconicevolution:awakened_core,size:1,meta:0,nbt:{}" iconType="stack" name="Awakened Core" sortingWeight="2">
+            <content index="3" type="recipe">name:draconicevolution:awakened_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Tier 3 core.
+Used in high tier crafting recipes such as those for draconic tools and weapons.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/chaotic" category="wiki.cat.item" icon="name:draconicevolution:chaotic_core,size:1,meta:0,nbt:{}" iconType="stack" name="Chaotic Core" sortingWeight="3">
+            <content index="1" type="textArea">Tier 4 core.
+</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/wyvernEnergy" category="wiki.cat.item" icon="name:draconicevolution:wyvern_energy_core,size:1,meta:0,nbt:{}" iconType="stack" name="Wyvern Energy Core" sortingWeight="4">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_energy_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">A Crafting component in all wyvern items that use energy.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:cores/draconicEnergy" category="wiki.cat.item" icon="name:draconicevolution:draconic_energy_core,size:1,meta:0,nbt:{}" iconType="stack" name="Draconic Energy Core" sortingWeight="5">
+            <content index="3" type="recipe">name:draconicevolution:draconic_energy_core,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">A Crafting component in all Draconic items that use energy</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+	<entry branchId="draconicevolution:wyvernTools" icon="name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Tools" sortingWeight="50">
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="3" type="textArea">§7//ToDo Add stuff here</content>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nWyvern Tools</content>
+        <content index="0" size="8" type="vSpacer"/>
+		<entry branchId="draconicevolution:wyvernTools/pick" category="wiki.cat.item" icon="name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Pickaxe">
+            <content index="3" type="recipe">name:draconicevolution:wyvern_pick,size:1,meta:0,nbt:{Energy:4000000,Profile_0:{digAOE:0,aoeSafeMode:0b,digSpeed:100,showDigAOE:0b}}</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Tired of your slow, old diamond pick? Maybe it's time to upgrade! Wyvern tools run on RF and never break.
+All mining tools have an option to adjust mining speed, Dig AoE and AoE safe mode.
+
+§6Dig AoE:§r Allows you to adjust the mining AoE of the tool. Wyvern AoE: 1x1 and 3x3 (Upgradable)
+
+§6AoE Safe mode:§r If enabled the tool will check for any tile entities in the AoE and if it finds any the tool will not mine.</content>
+            <content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//TODO Update</content>
+        </entry>
+		<entry branchId="draconicevolution:wyvernTools/axe" category="wiki.cat.item" icon="name:draconicevolution:wyvern_axe,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Axe" sortingWeight="1">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_axe,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Chopping:
+-1x1x1 to 5x5x1 Base AoE with depth independently adjustable (Upgradable)
+-§mTree Mode§r (Hold right click on a tree)
+-AoE safe mode to ensure you don't accidentally mine your entire base</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//TODO Update</content>
+        </entry>
+		<entry branchId="draconicevolution:wyvernTools/shovel" category="wiki.cat.item" icon="name:draconicevolution:wyvern_shovel,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Shovel" sortingWeight="2">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_shovel,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Tired of your slow, old diamond shovel? Maybe it's time to upgrade! Wyvern tools run on RF and never break.
+
+All mining tools have an option to adjust mining speed, Dig AoE and AoE safe mode.
+
+Dig AoE: Allows you to adjust the digging area of the tool. Wyvern AoE: 1x1 and 3x3 (Upgradable)
+
+AoE Safe mode: If enabled the shovel will check for any tile entities in the AoE and if it finds any it will not dig.</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//TODO Update</content>
+        </entry>
+		<entry branchId="draconicevolution:wyvernTools/sword" category="wiki.cat.item" icon="name:draconicevolution:wyvern_sword,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Sword" sortingWeight="3">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_sword,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Ordinary weaponry not good enough anymore? Using draconic knowledge you have found a way to imbue an ordinary diamond sword with the power of Draconium.
+
++20 Attack damage (Upgradable)
++10% Mob Health (Adds 10% of the mob's own health to the attack damage)
+3x3 AoE Attack (Upgradable)</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//TODO Update</content>
+        </entry>
+		<entry branchId="draconicevolution:wyvernTools/bow" category="wiki.cat.item" icon="name:draconicevolution:wyvern_bow,size:1,meta:0,nbt:{Energy:4000000}" iconType="stack" name="Wyvern Bow" sortingWeight="4">
+            <content index="4" type="recipe">name:draconicevolution:wyvern_bow,size:1,meta:0,nbt:{Energy:4000000}</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="2" type="textArea">Looking for a more powerful bow with some fancy features? This is the one for you.
+
+Adjustable Settings:
+-[Base Damage] This multiplied by the arrows velocity on impact determines the inflicted damage
+-[Arrow Velocity Modifier] +0 is equivalent to a vanilla bow.
+-[Auto Fire] The bow will automatically fire when it reaches full draw.
+-[Explosive Power] Exactly what it sounds like!
+-[Magnification] Allows you to zoom in on your target for better accuracy.
+
+The RF cost per shot if determined by multiplying the settings for Damage Velocity and Explosion power. This means that simply setting everything to Max requires exponentially more power then setting say damage to maximum.
+
+Energy Capacity, Draw Speed, Arrow Velocity and Base Damage can all be upgraded
+
+This bow is 10X more accurate then a vanilla bow. Meaning the arrow will land closer to where you were actually aiming and wont drift as much in flight</content>
+            <content index="1" size="8" type="vSpacer"/>
+            <content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//TODO Update</content>
+        </entry>
+    </entry>
+	<entry branchId="draconicevolution:draconicTools" icon="name:draconicevolution:draconic_pick,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Tools" sortingWeight="60">
+        <content alignment="LEFT" index="3" shadow="true" size="0" type="heading">//TODO Add Stuff Here</content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="3" type="heading">§nDraconic Tools</content>
+        <content index="0" size="8" type="vSpacer"/>
+        <entry branchId="draconicevolution:draconicTools/pickaxe" category="wiki.cat.item" icon="name:draconicevolution:draconic_pick,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Pickaxe">
+			<content index="4" type="recipe">name:draconicevolution:draconic_pick,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Further Draconic research has shown you ways to even greater power...
+
+Mining:
+-1x1x1 to 5x5x1 Base AoE with depth independently adjustable (Upgradable)
+-§mJunk filter§r (Will be back)
+-AoE safe mode to ensure you don't accidentally mine your entire base</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/axe" category="wiki.cat.item" icon="name:draconicevolution:draconic_axe,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Axe" sortingWeight="1">
+			<content index="4" type="recipe">name:draconicevolution:draconic_axe,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Further Draconic research has shown you ways to even greater power...
+
+Chopping:
+-1x1x1 to 5x5x1 Base AoE with depth independently adjustable (Upgradable)
+-§mTree Mode§r (Hold right click on a tree)
+-AoE safe mode to ensure you don't accidentally mine your entire base</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/shovel" category="wiki.cat.item" icon="name:draconicevolution:draconic_shovel,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Shovel" sortingWeight="2">
+			<content index="4" type="recipe">name:draconicevolution:draconic_shovel,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Further Draconic research has shown you ways to even greater power...
+
+Mining:
+-1x1x1 to 5x5x1 Base AoE with depth independently adjustable (Upgradable)
+-§mJunk filter§r (Will be back)
+-AoE safe mode to ensure you don't accidentally mine your entire base</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/hoe" category="wiki.cat.item" icon="name:draconicevolution:draconic_hoe,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Hoe" sortingWeight="3">
+			<content index="4" type="recipe">name:draconicevolution:draconic_hoe,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Further Draconic research has shown you ways to even greater power...
+
+Tilling:
+-1x1 to 7x7 Base AoE (Upgradable)
+-will dig or replace dirt (if you have dirt in your inventory).</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/sword" category="wiki.cat.item" icon="name:draconicevolution:draconic_sword,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Sword" sortingWeight="4">
+			<content index="4" type="recipe">name:draconicevolution:draconic_sword,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+Seeking an even more powerful weapon you combine your Wyvern sword with Awakened Draconium to make the ultimate sword.
+
++40 Attack damage (Upgradable)
++20% Mob Health (Adds 20% of the mob's own health to the attack damage)
+5x5 AoE Attack (Upgradable)</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/bow" category="wiki.cat.item" icon="name:draconicevolution:draconic_bow,size:1,meta:0,nbt:{Energy:16000000}" iconType="stack" name="Draconic Bow" sortingWeight="5">
+			<content index="4" type="recipe">name:draconicevolution:draconic_bow,size:1,meta:0,nbt:{Energy:16000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Further Draconic research has shown you ways to even greater power...
+
+Adjustable Settings:
+-[Base Damage] This multiplied by the arrows velocity on impact determines the inflicted damage
+-[Arrow Velocity Modifier] +0 is equivalent to a vanilla bow.
+-[Auto Fire] The bow will automatically fire when it reaches full draw.
+-[Explosive Power] Exactly what it sounds like!
+-[Shock Wave Power] The arrow will generate an extremely powerful shock wave on impact that will deal a large amount of damage to entities within the blast radius. This will not destroy blocks and is only possible with Arrow Of Draconic Fire enabled.
+-[Arrow of Draconic Fire] Similar to Infinity this allows you to fire without needing arrows in your inventory. But it also increases inflicted damage by 10% allows you to use the Shock Wave effect and is 50% lighter meaning it is less effected by gravity in flight.
+-[Magnification] Allows you to zoom in on your target for better accuracy.
+
+The RF cost per shot if determined by multiplying the settings for Damage Velocity and Explosion power. This means that simply setting everything to Max requires exponentially more power then setting say damage to maximum.
+
+Energy Capacity, Draw Speed, Arrow Velocity and Base Damage can all be upgraded
+
+This bow is 10X more accurate then a vanilla bow. Meaning the arrow will land closer to where you were actually aiming and wont drift as much in flight
+</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+		<entry branchId="draconicevolution:draconicTools/staff" category="wiki.cat.item" icon="name:draconicevolution:draconic_staff_of_power,size:1,meta:0,nbt:{Energy:48000000}" iconType="stack" name="Draconic Staff Of Power" sortingWeight="6">
+			<content index="4" type="recipe">name:draconicevolution:draconic_staff_of_power,size:1,meta:0,nbt:{Energy:48000000}</content>
+			<content index="3" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="2" type="textArea">Note: Most of this info is out of date
+
+After great pains you have mastered the powers of the Draconic and created the ultimate weapon and destructive tool!
+Mining:
+-Extreme mining speed
+-1x1x1 to 7x7x7 Base AoE with depth independently adjustable (Upgradable)
+-§mJunk filter§r (Will be back)
+-AoE safe mode to ensure you don't accidentally mine your entire base
+-Attack:
++60 Attack damage (Upgradable)
++30% Mob Health (Adds 30% of the mob's own health to the attack damage)
+-1x1 to 7x7 AOE Attack (Upgradable)</content>
+			<content index="1" size="8" type="vSpacer"/>
+			<content alignment="LEFT" index="0" shadow="true" size="0" type="heading">//ToDo Update</content>
+        </entry>
+    </entry>
+	<entry branchId="draconicevolution:fusionCrafting" category="wiki.cat.block" icon="name:draconicevolution:fusion_crafting_core,size:1,meta:0,nbt:{}" iconType="stack" name="Fusion Crafting" sortingWeight="100">
+        <content index="10" size="8" type="vSpacer"/>
+        <content index="9" type="recipe">name:draconicevolution:fusion_crafting_core,size:1,meta:0,nbt:{}</content>
+        <content index="8" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="7" link="draconicevolution:fusionCrafting/setup" shadow="true" size="0" targetLocation="branch" type="link">§l§nClick here to see setup guide</content>
+        <content index="6" size="8" type="vSpacer"/>
+        <content index="5" type="textArea">Fusion crafting is a process that uses large amounts of energy to combine of "fuse" items together at an atomic level.
+
+How It Works:
+
+§6§n Recipes §r
+
+Each Recipe requires 3 things
+
+A Catalyst
+Fusion Ingredients
+And power
+
+The catalyst is placed in the core and each ingredient is placed in a separate Fusion Crafting Injector. If the recipe is valid you will see the output displayed in the core's GUI as well as an option to start crafting.
+
+Different recipes also require different tiers crafter tiers. There are currently 4 different Fusion Crafting Tiers. Basic, Wyvern, Draconic and Chaotic.
+The tier of your setup is determined by its crafting injectors.
+
+§6§n Crafting §r
+§o(Just sit back and enjoy the show!)§r
+There are 2 different crafting stages Charging and Crafting
+
+During the charging stage all active injectors need power to charge. Once charging is complete the crafting process starts.
+The crafting stage will run for a few seconds after which the result of the crafting will be deposited in the output slot of the core.</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="0" size="8" type="vSpacer"/>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nFusion Crafting</content>
+        <content alignment="CENTER" imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg" index="3" scale="100" type="image"/>
+        <entry branchId="draconicevolution:fusionCrafting/basicInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_pedestal,size:1,meta:0,nbt:{}" iconType="stack" name="Basic Fusion Crafting Injector">
+            <content index="3" type="recipe">name:draconicevolution:crafting_pedestal,size:1,meta:0,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">This is the lowest tier Crafting Injector. Used for simple fusion recipes.</content>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/wyvernInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_pedestal,size:1,meta:1,nbt:{}" iconType="stack" name="Wyvern Fusion Crafting Injector" sortingWeight="1">
+            <content index="3" type="recipe">name:draconicevolution:crafting_pedestal,size:1,meta:1,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">The tier 2 (Wyvern) injector is used for more advance recipes such as Wyvern Tools and Armor  </content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/draconicInjector" category="wiki.cat.block" icon="name:draconicevolution:crafting_pedestal,size:1,meta:2,nbt:{}" iconType="stack" name="Draconic Fusion Crafting Injector" sortingWeight="2">
+            <content index="3" type="recipe">name:draconicevolution:crafting_pedestal,size:1,meta:2,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Tier 3 (Draconic) Fusion injector is used for most of the more expensive recipes such as Draconic Tools and Armor.</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/chaotic Injector" category="wiki.cat.block" icon="name:draconicevolution:crafting_pedestal,size:1,meta:3,nbt:{}" iconType="stack" name="Chaotic Fusion Crafting Injector" sortingWeight="3">
+            <content index="3" type="recipe">name:draconicevolution:crafting_pedestal,size:1,meta:3,nbt:{}</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="1" type="textArea">Not currently required by any recipes.
+Perhaps a hint of things to come...</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    <entry branchId="draconicevolution:fusionCrafting/setup" iconType="off" name="Fusion Crafting Setup" sortingWeight="4">
+            <content index="10" size="8" type="vSpacer"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg" index="9" scale="100" type="image"/>
+            <content index="8" size="8" type="vSpacer"/>
+            <content index="7" type="textArea">So as you can see from that injectors can be placed up to 16 blocks away and as long as they are withing the area shown and pointing at the core with no obstructions they will work.
+
+Something to note about fusion crafting is it dose not matter how many injectors you have as long as you have enough for your recipe.
+You can also mix and match injector tiers. Meaning if you have a mix of Basic and Wyvern injectors you can still do Wyvern crafting as long as you only use the Wyvern injectors for those recipes.
+
+The last thing you will need to do is supply power to the crafting injectors.
+The amount of power required will depend on the current recipe but all Injectors used by a recipe require power.</content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="4" size="8" type="vSpacer"/>
+            <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Layout.jpg" index="5" scale="100" type="image"/>
+            <content index="3" type="textArea">The setup process is actually fairly simple.
+Just place a fusion crafting core. Then place fusion crafting injectors anywear you like to the north, south, east, west, above or bellow the core.
+All injectors need to be atleast 1 block away from the core snd can be offset in any direction on their axiz by 1 block.
+
+That may sound a little confusing so take a look at the image bellow.
+Each glass block reprisents a valid location for an injector.</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">§nGetting started with fusion crafting</content>
+            <content index="0" size="8" type="vSpacer"/>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:energyCore" icon="name:draconicevolution:energy_storage_core,size:1,meta:0,nbt:{}" iconType="stack" name="Energy Storage Core" sortingWeight="150">
+        <content index="15" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="14" link="draconicevolution:energyCore/setup" shadow="true" size="0" targetLocation="branch" type="link">§nClick here for the setup guide</content>
+        <content index="13" size="8" type="vSpacer"/>
+        <content index="12" type="recipe">name:draconicevolution:energy_storage_core,size:1,meta:0,nbt:{}</content>
+        <content index="11" size="8" type="vSpacer"/>
+        <content alignment="LEFT" hoverColour="0000FF" index="10" link="https://en.wikipedia.org/wiki/9223372036854775807" shadow="true" size="0" targetLocation="web" type="link">§nLink to a big number</content>
+        <content alignment="LEFT" index="9" type="splitContainer" vAlignment="MIDDLE" width="32">
+            <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">§6§lTier 1:§r §b45.5 Million RF
+§6§lTier 2:§r §b273 Million RF
+§6§lTier 3:§r §b1.64 Billion RF
+§6§lTier 4:§r §b9.88 Billion RF
+§6§lTier 5:§r §b59.3 Billion RF
+§6§lTier 6:§r §b356 Billion RF
+§6§lTier 7:§r §b2.14 Trillion RF
+§6§lTier 8:§r §b...§r
+
+Ok so about the tier 8... Im not going to lie to you and tell you that its "Infinite" But its as close as your going to get. 
+
+Unless someone makes a mod that has even more storage but considering that the amount of starage this thing has is already just stupid well... 
+I would have to question that persons sanity... Almost as much as i question my own.
+
+As for Tier 8's capacity. If you want an exact number click the link bellow.</content>
+        </content>
+        <content index="8" size="8" type="vSpacer"/>
+        <content index="7" type="textArea">If you like energy storage your going to love this!
+If you dont... You should probably just stop reading here...
+
+I give you the Draconic Energy core. Currently the largest energy storage device in modded minecraft.
+
+Alright so lest skip to the point how much done it hold?
+Well there are 8 Tiers and each holds substantially more than the last.
+</content>
+        <content index="6" size="8" type="vSpacer"/>
+        <content index="2" size="4" type="vSpacer"/>
+        <content alignment="CENTER" index="3" shadow="true" size="0" type="heading">The ultimate energy storage device.</content>
+        <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T8.jpg" index="5" scale="100" type="image"/>
+        <content index="4" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">§nDraconic Energy Core</content>
+        <content index="0" size="8" type="vSpacer"/>
+        
+    <entry branchId="draconicevolution:energyCore/setup" iconType="off" name="Energy Core Setup" sortingWeight="0">
+            <content index="15" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="14" link="draconicevolution:energyCore/pylon" shadow="true" size="0" targetLocation="branch" type="link">§nThen Energy Pylons. Click here to skip ahead.</content>
+            <content index="13" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="12" link="draconicevolution:energyCore/stabilizer" shadow="true" size="0" targetLocation="branch" type="link">§nNext Stabilizers. Click here to continue.</content>
+            <content index="11" size="8" type="vSpacer"/>
+            <content index="10" type="splitContainer" vAlignment="MIDDLE">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Built%20Guide.jpg" index="0" scale="100" splitSide="LEFT" type="image"/>
+                <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading"> Build Guide</content>
+            </content>
+            <content index="8" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="7" type="splitContainer" vAlignment="TOP" width="30">
+                <content alignment="LEFT" index="0" splitSide="RIGHT" type="textArea">Tier 2:
+1x Energy Core
+4x Energy Core Stabilizer
+6x Draconium Block
+
+Tier 4:
+1x Energy Core
+4x Energy Core Stabilizer
+54x Draconium Block
+26x Redstone Block
+
+Tier 6:
+1x Energy Core
+36x Energy Core Stabilizer
+150x Draconium Block
+178x Redstone Block
+
+Tier 8:
+Ok... So remember when i said this core is stupidly powerful?
+Well it has a price tag to match...
+1x Energy Core
+36x Energy Core Stabilizer
+1,164x Awakened Draconium Block</content>
+            <content alignment="LEFT" index="0" splitSide="LEFT" type="textArea">Tier 1:
+1x Energy Core
+4x Energy Core Stabilizer
+
+Tier 3:
+1x Energy Core
+4x Energy Core Stabilizer
+26x Draconium Block
+
+Tier 5:
+1x Energy Core
+36x Energy Core Stabilizer
+90x Draconium Block
+80x Redstone Block
+
+Tier 7:
+1x Energy Core
+36x Energy Core Stabilizer
+210x Draconium Block
+328x Redstone Block</content>
+            </content>
+            
+            
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="4" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="3" shadow="true" size="1" type="heading">The Core</content>
+            <content alignment="CENTER" index="5" type="textArea">Ok so remember the good old days of 1.7 when this was as simple as Reading the tablet,
+Watching some tutorials, Placing a tone of blocks then breaking a tone of blocks to find what you did wrong. then placing the blocks again and shift clicking a stalilizer?
+
+Well now its not so simple... Infact its even simpler! (With some exceptions)
+The first thing you need to do is place an energy core block at the center of the area you want the core
+
+Next right click the core to open its gui and set the tier.
+If your building a tier 1 core you can skip ahead to the section on stabilizers.
+Otherwize continue reading.
+
+Now that you have selected a tier you will need to build a structure around the core from Redstone and Draconoim blocks.
+
+To help you get it rite there is a "Build Guide" button in the energy core gui. This activates a holographic progection of the blocks that need to be placed.
+Now just use the build guide to build the core.
+
+The following is a list of indredients required for each tier.
+</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nEnergy Core Setup Guide</content>
+        </entry>
+    <entry branchId="draconicevolution:energyCore/pylon" category="wiki.cat.block" icon="name:draconicevolution:energy_pylon,size:1,meta:0,nbt:{}" iconType="stack" name="Energy Pylon" sortingWeight="2">
+            <content index="9" type="recipe">name:draconicevolution:energy_pylon,size:1,meta:0,nbt:{}</content>
+            <content index="8" size="8" type="vSpacer"/>
+            <content index="7" type="textArea">The max energy though put of a pylon is 2,147,483,647RF/t per side</content>
+            <content index="6" size="8" type="vSpacer"/>
+            <content index="5" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/EP%20Structure.jpg" index="0" scale="40" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/EP%20Active.jpg" index="0" scale="38" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" type="textArea">Energy Pylons are used to insert and extract energy from a core.
+
+To set one up simple place one within 16 blocks of a core and place a block of glass ether above or bellow it depending oon its y position relative to the core.
+If the pylon is above the center of the core the glass needs to be on the bottom. Else if the pulon is bellow the center of the core the glass needs to be on the top.
+
+To check that the pulon is connected to the core simply shift right click the pylon block. It will reate a line of particles that indicates which core it is connected to.
+If there is more than 1 core nearby this will make the pylon cycle between the cores in range.
+
+To toggle the pylon between input and output mode simple right click the sphere.</content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="1" type="heading">Energy Pylons</content>
+            <content alignment="LEFT" hoverColour="0000FF" index="0" link="draconicevolution:energyCore/stabilizer" shadow="true" size="0" targetLocation="branch" type="link">§nBack To Stabilizers</content>
+        </entry>
+    <entry branchId="draconicevolution:energyCore/stabilizer" category="wiki.cat.block" icon="name:draconicevolution:particle_generator,size:1,meta:2,nbt:{}" iconType="stack" name="Energy Core Stabilizer" sortingWeight="1">
+            <content index="13" type="recipe">name:draconicevolution:particle_generator,size:1,meta:2,nbt:{}</content>
+            <content index="9" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T4.jpg" index="0" scale="100" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T5%202.jpg" index="0" scale="20" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="12" size="8" type="vSpacer"/>
+            <content alignment="CENTER" hoverColour="0000FF" index="11" link="draconicevolution:energyCore/pylon" shadow="true" size="0" targetLocation="branch" type="link">§nNext Energy Pylons. Click here to continue.</content>
+            <content index="10" size="8" type="vSpacer"/>
+            <content alignment="LEFT" hoverColour="0000FF" index="1" link="draconicevolution:energyCore/setup" shadow="true" size="0" targetLocation="branch" type="link">§nBack to Core Setup Guide</content>
+            <content index="8" type="textArea">Once you have atleast 1 stabilizers setup correctly you can right click it to once again open the ernergy core GUI. At this point you will want to turn off the build guide
+
+You can now also see the status of the core. If you have built the structure correctly the core statis should say "Valid".
+Once you have also completed the stabilizers you should be able to activate the core.
+
+Note that the stabilizers can be placed ether on the horizontal or vertical plane.
+</content>
+            <content index="7" size="8" type="vSpacer"/>
+            <content index="6" type="splitContainer" vAlignment="TOP">
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Advanced%20Stabilizer%201.jpg" index="0" scale="30" splitSide="LEFT" type="image"/>
+                <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Advanced%20Stabilizer%202.jpg" index="0" scale="28" splitSide="RIGHT" type="image"/>
+            </content>
+            <content index="5" size="8" type="vSpacer"/>
+            <content index="4" type="textArea">Stabilizers are an essential part of the core. They well... stabilize it...
+If your building a tier 1-4 core this is as simple as placing w stabilizers around the core within 16 blocks.
+However if your building a higher tier core you will need advanced stabilizers.
+These are simply 9 regular stabilizers in the configureation shown bellow</content>
+            <content index="3" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="2" shadow="true" size="1" type="heading">Stabilizers</content>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:awakenedDraconium" category="wiki.cat.item" icon="name:draconicevolution:draconic_ingot,size:1,meta:0,nbt:{}" iconType="stack" name="Awakened Draconium" sortingWeight="11">
+        <content index="5" type="splitContainer" vAlignment="TOP">
+            <content index="0" splitSide="LEFT" type="recipe">name:draconicevolution:draconic_ingot,size:1,meta:0,nbt:{}</content>
+            <content index="0" splitSide="RIGHT" type="recipe">name:draconicevolution:draconic_block,size:1,meta:0,nbt:{}</content>
+        </content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Awakened Draconium is what comes next after regular draconium.
+It is the base crafting ingredient for all Draconic Tier tools and machines</content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nAwakened Draconium</content>
+        <content index="0" size="8" type="vSpacer"/>
+    <entry branchId="draconicevolution:awakenedDraconium/heart" category="wiki.cat.item" icon="name:draconicevolution:dragon_heart,size:1,meta:0,nbt:{}" iconType="stack" name="Dragon Heart">
+            <content index="4" size="8" type="vSpacer"/>
+            <content index="3" renderSlot="false" scale="300" tooltip="false" type="stack">name:draconicevolution:dragon_heart,size:1,meta:0,nbt:{}</content>
+            <content index="5" type="textArea">Dropped by the Ender Dragon and Chaos Guardian on death.
+This powerful item is used to craft Awakened Draconium. </content>
+            <content index="2" size="8" type="vSpacer"/>
+            <content index="0" size="8" type="vSpacer"/>
+            <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nThe Dragon Heart</content>
+        </entry>
+    <entry branchId="draconicevolution:awakenedDraconium/nugget" category="wiki.cat.item" icon="name:draconicevolution:nugget,size:1,meta:1,nbt:{}" iconType="stack" name="Awakened Draconium Nugget">
+            <content index="0" type="recipe">name:draconicevolution:nugget,size:1,meta:1,nbt:{}</content>
+        </entry>
+    </entry>
+<entry branchId="draconicevolution:upgradeSystem" category="wiki.cat.item" icon="name:draconicevolution:tool_upgrade,size:1,meta:0,nbt:{}" iconType="stack" name="Upgrade System" sortingWeight="160">
+        <content index="21" size="8" type="vSpacer"/>
+        <content alignment="CENTER" hoverColour="0000FF" index="20" link="draconicevolution:fusionCrafting" shadow="true" size="0" targetLocation="branch" type="link">§nClick here to lean about fusion crafting!</content>
+        <content index="19" size="8" type="vSpacer"/>
+        <content index="18" type="textArea">Note these upgrades are only applicable to Draconic Evolution items or other mods items if they support the upgrade API.</content>
+        <content index="17" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="16" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases jump power when applied to boots.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:11,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="15" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases movement speed when applied to boots.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:10,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="14" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Reduces armor shield recovery time.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:9,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="13" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases armor shield capacity.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:8,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="12" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the arrow speed of bows.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:7,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="11" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the draw speed of bows.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:6,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="10" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the max arrow damage of bows.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:5,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="9" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the attack AOE (Area of effect) of weapons.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:4,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="8" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the attack damage of weapons.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:3,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="7" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the AOE (Area Of Effect) of tools.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:2,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="6" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the dig speed of tools its applied to.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:1,nbt:{}</content>
+        </content>
+		<content alignment="CENTER" index="5" type="splitContainer" vAlignment="MIDDLE" width="100">
+            <content alignment="LEFT" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">Increases the RF capacity of irems its applied to.</content>
+			<content alignment="RIGHT" index="0" splitSide="LEFT" type="recipe">name:draconicevolution:tool_upgrade,size:1,meta:0,nbt:{}</content>
+        </content>
+		
+
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Using the fusion crafting system it is possible to upgrade your tools and weapons.
+To do this you will need an upgrade key for the upgrade you want.
+And the required ingredient s for the upgrade level you want to apply.
+
+Mos upgrades have 4 tiers. Basic, Wyvern, Draconic and Chaotic (Note chaotic can not yet b applied to any items)
+And you must have the previouse tier before you can apply a higher tier upgrade.
+
+Each upgrade tier required different ingredients and its respective tier fusion crafter.
+To find the ingredients required for an upgrade key simply hover over the key in your inventory and hold shift.
+You will see a list of all ingredients required. And it will cycle though the tiers every 5 seconds.
+To pause the display simple hold CTRL aswell. Try it on some of the keys bellow. </content>
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" index="1" shadow="true" size="2" type="heading">§nFusion Upgrades</content>
+        <content index="0" size="8" type="vSpacer"/>
+    </entry>
+</mod>

@@ -9,7 +9,7 @@
 					"blockID":"modernmetals:aluminum_ore",
 					"size":8,
 					"variation":4,
-					"frequency":8,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -17,7 +17,7 @@
 					"blockID":"modernmetals:cadmium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":8,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -25,15 +25,15 @@
 					"blockID":"modernmetals:chromium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":3,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":32
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:iridium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":5,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -41,7 +41,7 @@
 					"blockID":"modernmetals:magnesium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":8,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -49,15 +49,15 @@
 					"blockID":"modernmetals:manganese_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":64
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:osmium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				},
@@ -65,47 +65,47 @@
 					"blockID":"modernmetals:plutonium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":4,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":32
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:rutile_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":64
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:tantalum_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":64
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:tungsten_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":32
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:uranium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
-					"maxHeight":32
+					"maxHeight":96
 				},
 				{
 					"blockID":"modernmetals:zirconium_ore",
 					"size":8,
 					"variation":4,
-					"frequency":6,
+					"frequency":10,
 					"minHeight":0,
 					"maxHeight":96
 				}
