@@ -13,7 +13,7 @@
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "tconstruct:hatchet"
+        "tconstruct:hatchet",
 		"tconstruct:mattock"
       ],
       "blocklist": [
