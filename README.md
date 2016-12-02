@@ -21,3 +21,5 @@ Everyone is welcome to apply to join, regardless of their skill set. Keep in min
 
 **Is recording allowed on the dev server?**
 Please refer to the [Terms of Play]() for more information on this. If you are unsure you can ask an admin for clarification.
+
+[![Save 15% on Nodecraft with code MMD](http://mcmoddev.com/img/nodecraft.jpg)](http://mcmoddev.com/img/nodecraft.jpg)
