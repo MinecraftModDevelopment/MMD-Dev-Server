@@ -8,7 +8,7 @@ Make sure you are part of the [Discord Server](http://discord.mcmoddev.com/). On
 No, the server has a whitelist. Anyone may apply to be whitelisted, however you can apply by submitting a new issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). Please keep in mind that we have a template which you can find [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/WHITELIST.md). If you don't use the template, you wont be accepted. 
 
 **How do I request my mod be added?**
-You can create a new request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TEMPLATE.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
+You can create a new request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/MOD_REQUEST.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
 
 **How do I get an updated version of my mod on the server?**
 You can create an update request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/UPDATE.md).
@@ -20,6 +20,6 @@ As long as there is a good reason to add the mod, you are free to request it. Do
 Everyone is welcome to apply to join, regardless of their skill set. Keep in mind that there is a review process which takes a variety of factors into account. 
 
 **Is recording allowed on the dev server?**
-Please refer to the [Terms of Play]() for more information on this. If you are unsure you can ask an admin for clarification.
+Please refer to the [Terms of Play](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TERMS.md) for more information on this. If you are unsure you can ask an admin for clarification.
 
 [![Save 15% on Nodecraft with code MMD](http://mcmoddev.com/img/nodecraft.jpg)](https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com)
