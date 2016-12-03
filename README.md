@@ -1,32 +1,25 @@
-# MMD Dev Server Announcement
+# MMD Dev Server
+Welcome to the GitHub repo for the official Minecraft Mod Development Dev Server. This is a server dedicated to testing mods made by members of the MMD community, while also providing a fun server to play on. While the server is whitelisted and locked down, anyone is allowed to submit a request to join the server, or to have their mods added to the pack. If you have any questions you can also reach out to any of the Dev Server Admins (DSA). 
 
-We at Minecraft Mod Development (MMD) are proud to announce the official opening of our modded Minecraft server for mod development testing. This server is not unlike ForgeCraft except that you (yes YOU) can submit your mod to be included in the server pack to be playtested! We are offering an active and well-maintained test environment for the community’s use. Your input is needed to help us make this what it should be. We have a well-rounded staff of admins who will try their best to make themselves available as often as possible. We plan on weekly server/pack updates, but may happen more frequently if required in the event of a game/server breaking bug. We look forward to helping keep this community alive and watching it grow.
+Make sure you are part of the [Discord Server](http://discord.mcmoddev.com/). Only members of the MMD Discord Community are allowed to play on this server!
 
 ## FAQ
-Q: Is this a public server?
+**Is this server public?**    
+No, the server has a whitelist. Anyone may apply to be whitelisted, however you can apply by submitting a new issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). Please keep in mind that we have a template which you can find [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/WHITELIST.md). If you don't use the template, you wont be accepted. 
 
-A: No, the server uses whitelisting and anyone may apply to be whitelisted, however, approval is at the discretion of the MMD Staff. You can apply by submitting a new issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues and using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/WHITELIST.md
+**How do I request my mod be added?**
+You can create a new request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TEMPLATE.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
 
-Q: How do I submit my mod?
+**How do I get an updated version of my mod on the server?**
+You can create an update request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/UPDATE.md).
 
-A: You can apply to have your mod added by submitting a new issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues and using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TEMPLATE.md
+**Do I have to be the author of a mod to submit it?**
+As long as there is a good reason to add the mod, you are free to request it. Do keep in mind that this server is aimed towards testing mods made by those who are part of the community. 
 
-Q: How do I submit an update for my mod?
+**I am not a developer, am I still allowed to join?**
+Everyone is welcome to apply to join, regardless of their skill set. Keep in mind that there is a review process which takes a variety of factors into account. 
 
-A: Submit a request via an issue at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues using the template at https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/UPDATE.md
+**Is recording allowed on the dev server?**
+Please refer to the [Terms of Play]() for more information on this. If you are unsure you can ask an admin for clarification.
 
-Q: Do I have to be the owner/author of a mod to submit it?
-
-A: As long as the mod you are requesting has a reason behind it, and is helpful to the testing of mods, any mod can be requested. As with whitelist requests, approval is at the discretion of the MMD Staff.
-
-Q: I do not code, can I please play with you guys?
-
-A: This is circumstantial. Currently we are accepting requests from mature individuals who wish to aid in the testing of the mods. We do require that you be well-versed in playing modded minecraft. We don’t have time to teach the basics of modded Minecraft.
-
-Q: I’m a streamer/YouTuber, am I allowed to record playtesting?
-
-A: We do welcome this, but as with the previous question, we don’t want to bloat the server with too many people playing just to play. You must keep in mind that the purpose of this server is solely for mod testing.
-
-Join Us on Discord at [here](https://discord.gg/whuNhhS)
-
-We look forward to helping you playtest your Minecraft creations!
+[![Save 15% on Nodecraft with code MMD](http://mcmoddev.com/img/nodecraft.jpg)](https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com)
