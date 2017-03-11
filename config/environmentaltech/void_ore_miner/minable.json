@@ -194,32 +194,167 @@
     {
       "oreName": "oreRuby",
       "focusColor": "red",
-      "weight": 10
+      "weight": 8
     },
     {
       "oreName": "orePeridot",
       "focusColor": "green",
-      "weight": 8
+      "weight": 6
     },
     {
       "oreName": "oreTopaz",
       "focusColor": "orange",
-      "weight": 8
+      "weight": 6
     },
     {
       "oreName": "oreTanzanite",
       "focusColor": "purple",
-      "weight": 8
+      "weight": 6
     },
     {
       "oreName": "oreMalachite",
       "focusColor": "cyan",
-      "weight": 8
+      "weight": 6
     },
     {
       "oreName": "oreSapphire",
       "focusColor": "blue",
-      "weight": 8
+      "weight": 6
+    },
+    {
+      "oreName": "oreGarnet",
+      "focusColor": "orange",
+      "weight": 6
+    },
+    {
+      "oreName": "oreHeliodore",
+      "focusColor": "yellow",
+      "weight": 6
+    },
+    {
+      "oreName": "oreBeryl",
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "oreName": "oreIndicolite",
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "oreName": "oreAquamarine",
+      "focusColor": "blue",
+      "weight": 6
+    },
+    {
+      "oreName": "oreIolite",
+      "focusColor": "purple",
+      "weight": 6
+    },
+    {
+      "oreName": "oreAmethyst",
+      "focusColor": "purple",
+      "weight": 6
+    },
+    {
+      "oreName": "oreAgate",
+      "focusColor": "pink",
+      "weight": 6
+    },
+    {
+      "oreName": "oreMorganite",
+      "focusColor": "pink",
+      "weight": 6
+    },
+    {
+      "oreName": "oreOnyx",
+      "focusColor": "black",
+      "weight": 6
+    },
+    {
+      "oreName": "oreOpal",
+      "focusColor": "white",
+      "weight": 6
+    },
+    {
+      "oreName": "oreCarnelian",
+      "focusColor": "red",
+      "weight": 6
+    },
+    {
+      "oreName": "oreSpinel",
+      "focusColor": "brown",
+      "weight": 6
+    },
+    {
+      "oreName": "oreCitrine",
+      "focusColor": "brown",
+      "weight": 6
+    },
+    {
+      "oreName": "oreJasper",
+      "focusColor": "yellow",
+      "weight": 6
+    },
+    {
+      "oreName": "oreGoldenBeryl",
+      "focusColor": "yellow",
+      "weight": 6
+    },
+    {
+      "oreName": "oreMoldavite",
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "oreName": "oreTurquoise",
+      "focusColor": "cyan",
+      "weight": 6
+    },
+    {
+      "oreName": "oreMoonstone",
+      "focusColor": "cyan",
+      "weight": 6
+    },
+    {
+      "oreName": "oreBlueTopaz",
+      "focusColor": "blue",
+      "weight": 6
+    },
+    {
+      "oreName": "oreVioletSapphire",
+      "focusColor": "purple",
+      "weight": 6
+    },
+    {
+      "oreName": "oreLepidolite",
+      "focusColor": "purple",
+      "weight": 6
+    },
+    {
+      "oreName": "oreAmetrine",
+      "focusColor": "purple",
+      "weight": 6
+    },
+    {
+      "oreName": "oreBlackDiamond",
+      "focusColor": "black",
+      "weight": 6
+    },
+    {
+      "oreName": "oreAlexandrite",
+      "focusColor": "white",
+      "weight": 6
+    },
+    {
+      "oreName": "oreChaos",
+      "focusColor": "white",
+      "weight": 6
+    },
+    {
+      "oreName": "oreEnderEssence",
+      "focusColor": "green",
+      "weight": 6
     },
     {
       "oreName": "oreResonating",

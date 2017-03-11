@@ -1,0 +1,26 @@
+{
+	"dimensions":[
+		{
+			"dimension":"+",
+			"ores":[
+				{
+					"blockID":"electricadvantage:li_ore",
+					"size":8,
+					"variation":2,
+					"frequency":0.125,
+					"minHeight":1,
+					"maxHeight":32,
+					"biomes":[]
+				},{
+					"blockID":"electricadvantage:sulfur_ore",
+					"size":16,
+					"variation":8,
+					"frequency":1,
+					"minHeight":1,
+					"maxHeight":32,
+					"biomes":[]
+				}
+			]
+		}
+	]
+}

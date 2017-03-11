@@ -109,7 +109,6 @@ XML editor will display that as tooltips when editing this file.
   </recipe>
 
   <recipe name="Reservoir" required="true">
-    <config section="Item Enabling" name="reservoirEnabled" value="true" />
     <crafting>
       <level maxlevel="1" />
       <grid size="3x3">
@@ -117,7 +116,7 @@ XML editor will display that as tooltips when editing this file.
         <item name="blockGlass" /><item name="item:minecraft:cauldron" /><item name="blockGlass" />
         <item name="blockGlass" /><item name="FUSED_QUARTZ" /><item name="blockGlass" />
       </grid>
-      <output name="enderio:blockReservoir" amount="2" />
+      <output name="enderio:blockReservoir" amount="4" />
     </crafting>
     <crafting>
       <level minlevel="2" />
@@ -126,7 +125,7 @@ XML editor will display that as tooltips when editing this file.
         <item name="blockGlassHardened" /><item name="item:minecraft:cauldron" /><item name="blockGlassHardened" />
         <item name="blockGlassHardened" /><item name="FUSED_QUARTZ" /><item name="blockGlassHardened" />
       </grid>
-      <output name="enderio:blockReservoir" amount="2" />
+      <output name="enderio:blockReservoir" amount="4" />
     </crafting>
   </recipe>
 
@@ -271,7 +270,6 @@ XML editor will display that as tooltips when editing this file.
   </recipe>
 
   <recipe name="Transceiver" required="true">
-    <config section="Item Enabling" name="transceiverEnabled" value="true" />
     <crafting>
       <level maxlevel="1" />
       <grid size="3x3">
@@ -730,33 +728,19 @@ XML editor will display that as tooltips when editing this file.
       <output name="enderio:blockInventoryPanel" />
     </crafting>
   </recipe>
-  
+
   <recipe name="Inventory Panel Sensor" required="true">
     <crafting>
       <grid size="3x3">
         <item name="ELECTRICAL_STEEL" /><item name="enderio:itemFunctionUpgrade:0" /><item name="ELECTRICAL_STEEL" />
         <item name="REDSTONE_ALLOY" /><item name="CHASSIS" /><item name="REDSTONE_ALLOY" />
-        <item name="ELECTRICAL_STEEL" /><item name="item:minecraft:comparator"/><item name="ELECTRICAL_STEEL" />               
+        <item name="ELECTRICAL_STEEL" /><item name="item:minecraft:comparator"/><item name="ELECTRICAL_STEEL" />
       </grid>
       <output name="enderio:blockInventoryPanelSensor" />
     </crafting>
   </recipe>
 
-<!-- Disabled until we fix the block
-  <recipe name="Ender IO" required="true">
-    <crafting>
-      <grid size="3x3">
-        <item name="ELECTRICAL_STEEL" /><item name="FUSED_QUARTZ" /><item name="ELECTRICAL_STEEL" />
-        <item name="FUSED_QUARTZ" /><item name="pearlEnderEye" /><item name="FUSED_QUARTZ" />
-        <item name="ELECTRICAL_STEEL" /><item name="FUSED_QUARTZ" /><item name="ELECTRICAL_STEEL" />
-      </grid>
-      <output name="enderio:blockEnderIo" />
-    </crafting>
-  </recipe>
--->
-
   <recipe name="Travel Anchor" required="true">
-    <config section="Item Enabling" name="travelAnchorEnabled" value="true" />
     <crafting>
       <grid size="3x3">
         <item name="ingotIron" /><item name="CONDUIT_BINDER" /><item name="ingotIron" />
@@ -767,8 +751,8 @@ XML editor will display that as tooltips when editing this file.
     </crafting>
   </recipe>
 
-  <recipe name="TelePad" required="true" disabled="false">    
-    <crafting>    
+  <recipe name="TelePad" required="true" disabled="false">
+    <crafting>
       <grid size="3x3">
         <item name="FUSED_QUARTZ" /><item name="ENDER_CRYSTAL" /><item name="FUSED_QUARTZ" />
         <item name="DARK_STEEL" /><item name="enderio:blockTravelAnchor" /><item name="DARK_STEEL" />
@@ -778,16 +762,16 @@ XML editor will display that as tooltips when editing this file.
     </crafting>
   </recipe>
   
-  <recipe name="DialingDevice" required="true" disabled="false">    
-    <crafting>    
+  <recipe name="DialingDevice" required="true" disabled="false">
+    <crafting>
       <grid size="3x3">
-        <item/>                  <item name="ELECTRICAL_STEEL" /><item/>
-        <item/>                  <item name="ENDER_RESONATOR" /><item/>
+        <item/><item name="ELECTRICAL_STEEL" /><item/>
+        <item/><item name="ENDER_RESONATOR" /><item/>
         <item name="DARK_STEEL" /><item name="CAPACITOR3" /><item name="DARK_STEEL" />
       </grid>
       <output name="enderio:blockDialingDevice" />
     </crafting>
-  </recipe>  
+  </recipe>
 
   <recipe name="Painted Pressure Plate, Dark Steel" required="true">
     <crafting>
@@ -847,6 +831,76 @@ XML editor will display that as tooltips when editing this file.
     </crafting>
   </recipe>
 
+  <recipe name="Painted Pressure Plate, Wood, Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_WOOD" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_WOOD_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Stone, Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_STONE" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_STONE_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Iron Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_IRON" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_IRON_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Gold Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_GOLD" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_GOLD_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Dark Steel Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_DARK_STEEL" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_DARK_STEEL_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Soularium Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_SOULARIUM" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_SOULARIUM_SILENT" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Painted Pressure Plate, Tuned Silent, Upgrade" required="true">
+    <crafting upgrade="true">
+      <grid size="1x2">
+        <item name="PPP_TUNED" />
+        <item name="minecraft:wool" />
+      </grid>
+      <output name="PPP_TUNED_SILENT" />
+    </crafting>
+  </recipe>
+
   <recipe name="Exit Rail" required="true">
     <crafting>
       <grid size="3x3">
@@ -855,6 +909,105 @@ XML editor will display that as tooltips when editing this file.
         <item name="ingotIron" /><item name="dustRedstone" /><item name="ingotIron" />
       </grid>
       <output name="enderio:blockExitRail" amount="6" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 1" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item name="itemChassiParts" /><item name="enderio:itemFunctionUpgrade:0" /><item name="itemChassiParts" />
+        <item name="chestWood" /><item name="CHASSIS" /><item name="chestWood" />
+        <item name="enderio:blockDarkIronBars" /><item name="chestWood" /><item name="enderio:blockDarkIronBars" />
+      </grid>
+      <output name="enderio:blockInventoryChest:0" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 2" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:0" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:1" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 3" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:1" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:2" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 4" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:2" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:3" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 5" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:3" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:4" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 6" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:4" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:5" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 7" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:5" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:6" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 8" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:6" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:7" />
+    </crafting>
+  </recipe>
+
+  <recipe name="Inventory Chest 9" required="true">
+    <crafting upgrade="true">
+      <grid size="3x3">
+        <item /><item name="enderio:blockDarkIronBars" /><item />
+        <item name="itemChassiParts" /><item name="chestWood" /><item name="itemChassiParts" />
+        <item /><item name="enderio:blockInventoryChest:7" /><item />
+      </grid>
+      <output name="enderio:blockInventoryChest:8" />
     </crafting>
   </recipe>
 

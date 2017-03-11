@@ -1,0 +1,255 @@
+[
+  {
+    "dimension": -1,
+    "ores": [
+      {
+        "block": "nethermetals:nether_coal_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_diamond_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_emerald_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_gold_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_iron_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_lapis_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_redstone_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_antimony_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "nethermetals:nether_bismuth_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "nethermetals:nether_copper_ore",
+        "size": 8,
+        "variation": 12,
+        "frequency": 20,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_lead_ore",
+        "size": 8,
+        "variation": 12,
+        "frequency": 20,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_mercury_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "nethermetals:nether_nickel_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_platinum_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "nethermetals:nether_silver_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 32
+      },
+      {
+        "block": "nethermetals:nether_tin_ore",
+        "size": 8,
+        "variation": 12,
+        "frequency": 20,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_zinc_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 12,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_aluminum_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_cadmium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_chromium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_iridium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_magnesium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_manganese_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_osmium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_plutonium_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_rutile_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_tantalum_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_titanium_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_tungsten_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_uranium_ore",
+        "size": 8,
+        "variation": 4,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      },
+      {
+        "block": "nethermetals:nether_zirconium_ore",
+        "size": 8,
+        "variation": 8,
+        "frequency": 10,
+        "min_height": 0,
+        "max_height": 96
+      }
+    ]
+  }
+]

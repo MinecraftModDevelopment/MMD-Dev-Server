@@ -777,6 +777,20 @@
   },
   {
     "filter": {
+      "name": "default",
+      "type": "mob"
+    },
+    "settings": {
+      "rarity": 0,
+      "create": 100,
+      "maintain": 1,
+      "ticks": 100,
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
       "mod": "biomesoplenty",
       "type": "mob"
     },

@@ -330,7 +330,7 @@
     <recipe name="Enderium" energyCost="50000" >
       <input>
         <itemStack oreDictionary="ingotEnderiumBase" number="2" />
-        <itemStack modID="ThermalFoundation" itemName="material" itemMeta="512" />
+        <itemStack oreDictionary="dustPyrotheum" number="1" />
         <itemStack modID="minecraft" itemName="ender_pearl" number="2" />
       </input>
       <output>
@@ -341,7 +341,7 @@
       <input>
         <itemStack oreDictionary="ingotElectrum" number="2" />
         <itemStack modID="minecraft" itemName="redstone" number="4" />
-        <itemStack modID="ThermalFoundation" itemName="material" itemMeta="512" />
+        <itemStack oreDictionary="dustPyrotheum" number="1" />
       </input>
       <output>
         <itemStack oreDictionary="ingotElectrumFlux" number="2" />
@@ -378,6 +378,75 @@
       </output>
     </recipe>
   </recipeGroup>
+
+  <recipeGroup name="Vanilla Plants" >
+    <recipe name="Green Dye" energyCost="2000" >
+      <input>
+        <itemStack oreDictionary="itemPlantgreen" number="12" />
+        <itemStack oreDictionary="slimeball" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dyeGreen" number="2" exp="0.25" />
+      </output>
+    </recipe>
+    <recipe name="Green Dye 2" energyCost="1500" >
+      <input>
+        <itemStack oreDictionary="itemPlantgreen" number="6" />
+        <itemStack oreDictionary="egg" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dyeGreen" number="1" exp="0.125" />
+      </output>
+    </recipe>
+    <recipe name="Brown Dye" energyCost="2000" >
+      <input>
+        <itemStack oreDictionary="itemPlantbrown" number="12" />
+        <itemStack oreDictionary="slimeball" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dyeBrown" number="2" exp="0.25" />
+      </output>
+    </recipe>
+    <recipe name="Brown Dye 2" energyCost="1500" >
+      <input>
+        <itemStack oreDictionary="itemPlantbrown" number="6" />
+        <itemStack modID="minecraft" itemName="mushroom_stew" number="1" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dyeBrown" number="1" exp="0.125" />
+      </output>
+    </recipe>
+    <recipe name="Red Dye" energyCost="15000" >
+      <input>
+        <itemStack modID="minecraft" itemName="beetroot" number="1" />
+        <itemStack oreDictionary="itemClay" number="3" />
+        <itemStack oreDictionary="egg" number="6" />
+      </input>
+      <output>
+        <itemStack oreDictionary="dyeRed" number="12" exp="1.0" />
+      </output>
+    </recipe>
+    <recipe name="Dead Tree" energyCost="2000" >
+      <input>
+        <itemStack oreDictionary="treeSapling" number="1" />
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="deadbush" number="1" exp="0.05" />
+      </output>
+    </recipe>
+  </recipeGroup>
+
+  <recipeGroup name="Tinkers" >
+    <recipe name="Manyullyn Ingot" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="ingotArdite" />
+        <itemStack oreDictionary="ingotCobalt" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotManyullyn" number="1" exp="0.25" />
+      </output>
+    </recipe>
+</recipeGroup>
 
   <vanillaFurnaceRecipes enabled="true" />
 
