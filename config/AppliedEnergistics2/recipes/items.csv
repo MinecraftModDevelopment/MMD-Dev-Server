@@ -1235,18 +1235,18 @@ basemetals:coal, Liquifacted Coal
 basemetals:coldiron, Molten Cold-Iron
 basemetals:copper, Molten Copper
 basemetals:cupronickel, Molten Cupronickel
-basemetals:diamond, Molten Diamond
+basemetals:diamond, tile.basemetals.diamond.name
 basemetals:electrum, Molten Electrum
-basemetals:emerald, Molten Emerald
+basemetals:emerald, tile.basemetals.emerald.name
 basemetals:ender, Molten Ender
-basemetals:gold, Molten Gold
+basemetals:gold, tile.basemetals.gold.name
 basemetals:invar, Molten Invar
-basemetals:iron, Molten Iron
+basemetals:iron, tile.basemetals.iron.name
 basemetals:lead, Molten Lead
 basemetals:mercury, Liquid Mercury
 basemetals:mithril, Molten Mithril
 basemetals:nickel, Molten Nickel
-basemetals:obsidian, Molten Obsidian
+basemetals:obsidian, tile.basemetals.obsidian.name
 basemetals:pewter, Molten Pewter
 basemetals:platinum, Molten Platinum
 basemetals:prismarine, Molten Prismarine
@@ -10583,11 +10583,11 @@ chiselsandbits:block_bit:0, Chiseled Bit - Nitrofuel Source
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Cadmium
 chiselsandbits:block_bit:0, Chiseled Bit - Liquifacted Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Cold-Iron
-chiselsandbits:block_bit:0, Chiseled Bit - Molten Diamond
+chiselsandbits:block_bit:0, Chiseled Bit - tile.basemetals.diamond.name
 chiselsandbits:block_bit:0, Chiseled Bit - Crystallized Oil
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Calcium Source
-chiselsandbits:block_bit:0, Chiseled Bit - Molten Emerald
+chiselsandbits:block_bit:0, Chiseled Bit - tile.basemetals.emerald.name
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Clay
 chiselsandbits:block_bit:0, Chiseled Bit - Calciumcarbonate Source
 chiselsandbits:block_bit:0, Chiseled Bit - Liquid Dirt
@@ -10617,7 +10617,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Methane Source
 chiselsandbits:block_bit:0, Chiseled Bit - Hydrogen
 chiselsandbits:block_bit:0, Chiseled Bit - tile.techreborn.nitrocarbon.name
 chiselsandbits:block_bit:0, Chiseled Bit - Rocket Fuel
-chiselsandbits:block_bit:0, Chiseled Bit - Molten Obsidian
+chiselsandbits:block_bit:0, Chiseled Bit - tile.basemetals.obsidian.name
 chiselsandbits:block_bit:0, Chiseled Bit - oxygen
 chiselsandbits:block_bit:0, Chiseled Bit - Molten Ender
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -11521,10 +11521,22 @@ enderutilities:pickupmanager, Item Pickup Manager
 enderutilities:quickstacker:0, Quick Stacker P: §a1§r§f
 enderutilities:portalscaler, Portal Scaler
 enderutilities:ruler, Ruler
-enderutilities:syringe:0, Syringe (empty)
-enderutilities:syringe:1, Paralyzer Syringe
-enderutilities:syringe:2, Stimulant Syringe
 enderutilities:enderelevator:0, Ender Elevator (White)
+enderutilities:enderelevator:1, Ender Elevator (Orange)
+enderutilities:enderelevator:2, Ender Elevator (Magenta)
+enderutilities:enderelevator:3, Ender Elevator (Light Blue)
+enderutilities:enderelevator:4, Ender Elevator (Yellow)
+enderutilities:enderelevator:5, Ender Elevator (Lime)
+enderutilities:enderelevator:6, Ender Elevator (Pink)
+enderutilities:enderelevator:7, Ender Elevator (Gray)
+enderutilities:enderelevator:8, Ender Elevator (Light Gray)
+enderutilities:enderelevator:9, Ender Elevator (Cyan)
+enderutilities:enderelevator:10, Ender Elevator (Purple)
+enderutilities:enderelevator:11, Ender Elevator (Blue)
+enderutilities:enderelevator:12, Ender Elevator (Brown)
+enderutilities:enderelevator:13, Ender Elevator (Green)
+enderutilities:enderelevator:14, Ender Elevator (Red)
+enderutilities:enderelevator:15, Ender Elevator (Black)
 enderutilities:energybridge:0, Energy Bridge Resonator
 enderutilities:energybridge:1, Energy Bridge Receiver
 enderutilities:energybridge:2, Energy Bridge Transmitter
@@ -11533,8 +11545,8 @@ enderutilities:machine_1:0, Ender Infuser
 enderutilities:machine_1:1, Tool Workstation
 enderutilities:machine_1:2, Creation Station
 enderutilities:machine_1:3, Advanced Quick Stacker
-enderutilities:frame, tile.null.name
-enderutilities:portal_panel, tile.null.name
+enderutilities:frame:0, Portal Frame
+enderutilities:portal_panel:0, Portal Control Panel
 enderutilities:storage_0:0, Small Memory Chest
 enderutilities:storage_0:1, Memory Chest
 enderutilities:storage_0:2, Large Memory Chest
@@ -12947,6 +12959,69 @@ mekanism:BasicBlock2:6, Pressure Disperser
 mekanism:BasicBlock2:7, Boiler Casing
 mekanism:BasicBlock2:8, Boiler Valve
 mekanism:BasicBlock2:9, Security Desk
+mekanism:MachineBlock:0, Enrichment Chamber
+mekanism:MachineBlock:1, Osmium Compressor
+mekanism:MachineBlock:2, Combiner
+mekanism:MachineBlock:3, Crusher
+mekanism:MachineBlock:4, Digital Miner
+mekanism:MachineBlock:5, Basic Smelting Factory
+mekanism:MachineBlock:5, Basic Enriching Factory
+mekanism:MachineBlock:5, Basic Crushing Factory
+mekanism:MachineBlock:5, Basic Compressing Factory
+mekanism:MachineBlock:5, Basic Combining Factory
+mekanism:MachineBlock:5, Basic Purifying Factory
+mekanism:MachineBlock:5, Basic Injecting Factory
+mekanism:MachineBlock:5, Basic Infusing Factory
+mekanism:MachineBlock:6, Advanced Smelting Factory
+mekanism:MachineBlock:6, Advanced Enriching Factory
+mekanism:MachineBlock:6, Advanced Crushing Factory
+mekanism:MachineBlock:6, Advanced Compressing Factory
+mekanism:MachineBlock:6, Advanced Combining Factory
+mekanism:MachineBlock:6, Advanced Purifying Factory
+mekanism:MachineBlock:6, Advanced Injecting Factory
+mekanism:MachineBlock:6, Advanced Infusing Factory
+mekanism:MachineBlock:7, Elite Smelting Factory
+mekanism:MachineBlock:7, Elite Enriching Factory
+mekanism:MachineBlock:7, Elite Crushing Factory
+mekanism:MachineBlock:7, Elite Compressing Factory
+mekanism:MachineBlock:7, Elite Combining Factory
+mekanism:MachineBlock:7, Elite Purifying Factory
+mekanism:MachineBlock:7, Elite Injecting Factory
+mekanism:MachineBlock:7, Elite Infusing Factory
+mekanism:MachineBlock:8, Metallurgic Infuser
+mekanism:MachineBlock:9, Purification Chamber
+mekanism:MachineBlock:10, Energized Smelter
+mekanism:MachineBlock:11, Teleporter
+mekanism:MachineBlock:12, Electric Pump
+mekanism:MachineBlock:13, Personal Chest
+mekanism:MachineBlock:14, Chargepad
+mekanism:MachineBlock:15, Logistical Sorter
+mekanism:MachineBlock2:0, Rotary Condensentrator
+mekanism:MachineBlock2:1, Chemical Oxidizer
+mekanism:MachineBlock2:2, Chemical Infuser
+mekanism:MachineBlock2:3, Chemical Injection Chamber
+mekanism:MachineBlock2:4, Electrolytic Separator
+mekanism:MachineBlock2:5, Precision Sawmill
+mekanism:MachineBlock2:6, Chemical Dissolution Chamber
+mekanism:MachineBlock2:7, Chemical Washer
+mekanism:MachineBlock2:8, Chemical Crystallizer
+mekanism:MachineBlock2:9, Seismic Vibrator
+mekanism:MachineBlock2:10, Pressurized Reaction Chamber
+mekanism:MachineBlock2:11, Basic Fluid Tank
+mekanism:MachineBlock2:11, Advanced Fluid Tank
+mekanism:MachineBlock2:11, Elite Fluid Tank
+mekanism:MachineBlock2:11, Ultimate Fluid Tank
+mekanism:MachineBlock2:11, Creative Fluid Tank
+mekanism:MachineBlock2:12, Fluidic Plenisher
+mekanism:MachineBlock2:13, Laser
+mekanism:MachineBlock2:14, Laser Amplifier
+mekanism:MachineBlock2:15, Laser Tractor Beam
+mekanism:MachineBlock3:0, Quantum Entangloporter
+mekanism:MachineBlock3:1, Solar Neutron Activator
+mekanism:MachineBlock3:3, Oredictionificator
+mekanism:MachineBlock3:4, Resistive Heater
+mekanism:MachineBlock3:5, Formulaic Assemblicator
+mekanism:MachineBlock3:6, Fuelwood Heater
 mekanism:OreBlock:0, Osmium Ore
 mekanism:OreBlock:1, Copper Ore
 mekanism:OreBlock:2, Tin Ore
@@ -12966,6 +13041,21 @@ mekanism:GasTank:0, Basic Gas Tank
 mekanism:GasTank:0, Advanced Gas Tank
 mekanism:GasTank:0, Elite Gas Tank
 mekanism:GasTank:0, Ultimate Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
 mekanism:GasTank:0, Creative Gas Tank
 mekanism:CardboardBox, Cardboard Box
 mekanism:PlasticBlock:0, §8Black Plastic Block
@@ -13951,16 +14041,10 @@ mysticalagriculture:silver_crop, Silver Crop
 mysticalagriculture:lead_crop, Lead Crop
 mysticalagriculture:steel_crop, Steel Crop
 mysticalagriculture:nickel_crop, Nickel Crop
-mysticalagriculture:constantan_crop, Constantan Crop
 mysticalagriculture:electrum_crop, Electrum Crop
-mysticalagriculture:invar_crop, Invar Crop
-mysticalagriculture:platinum_crop, Platinum Crop
 mysticalagriculture:ruby_crop, Ruby Crop
 mysticalagriculture:sapphire_crop, Sapphire Crop
 mysticalagriculture:peridot_crop, Peridot Crop
-mysticalagriculture:signalum_crop, Signalum Crop
-mysticalagriculture:lumium_crop, Lumium Crop
-mysticalagriculture:enderium_crop, Enderium Crop
 mysticalagriculture:aluminum_brass_crop, Aluminum Brass Crop
 mysticalagriculture:knightslime_crop, Knightslime Crop
 mysticalagriculture:ardite_crop, Ardite Crop
@@ -13996,7 +14080,6 @@ mysticalagriculture:mystical_fertilizer, §dMystical Fertilizer
 mysticalagriculture:nature_cluster, Nature Cluster
 mysticalagriculture:dye_cluster, Dye Cluster
 mysticalagriculture:nether_cluster, Nether Cluster
-mysticalagriculture:blank_record, Blank Record
 mysticalagriculture:inferium_apple, §eInferium Apple
 mysticalagriculture:prudentium_apple, §aPrudentium Apple
 mysticalagriculture:intermedium_apple, §6Intermedium Apple
@@ -14084,16 +14167,10 @@ mysticalagriculture:silver_essence, Silver Essence
 mysticalagriculture:lead_essence, Lead Essence
 mysticalagriculture:steel_essence, Steel Essence
 mysticalagriculture:nickel_essence, Nickel Essence
-mysticalagriculture:constantan_essence, Constantan Essence
 mysticalagriculture:electrum_essence, Electrum Essence
-mysticalagriculture:invar_essence, Invar Essence
-mysticalagriculture:platinum_essence, Platinum Essence
 mysticalagriculture:ruby_essence, Ruby Essence
 mysticalagriculture:sapphire_essence, Sapphire Essence
 mysticalagriculture:peridot_essence, Peridot Essence
-mysticalagriculture:signalum_essence, Signalum Essence
-mysticalagriculture:lumium_essence, Lumium Essence
-mysticalagriculture:enderium_essence, Enderium Essence
 mysticalagriculture:aluminum_brass_essence, Aluminum Brass Essence
 mysticalagriculture:knightslime_essence, Knightslime Essence
 mysticalagriculture:ardite_essence, Ardite Essence
@@ -14165,16 +14242,10 @@ mysticalagriculture:silver_seeds, Silver Seeds
 mysticalagriculture:lead_seeds, Lead Seeds
 mysticalagriculture:steel_seeds, Steel Seeds
 mysticalagriculture:nickel_seeds, Nickel Seeds
-mysticalagriculture:constantan_seeds, Constantan Seeds
 mysticalagriculture:electrum_seeds, Electrum Seeds
-mysticalagriculture:invar_seeds, Invar Seeds
-mysticalagriculture:platinum_seeds, Platinum Seeds
 mysticalagriculture:ruby_seeds, Ruby Seeds
 mysticalagriculture:sapphire_seeds, Sapphire Seeds
 mysticalagriculture:peridot_seeds, Peridot Seeds
-mysticalagriculture:signalum_seeds, Signalum Seeds
-mysticalagriculture:lumium_seeds, Lumium Seeds
-mysticalagriculture:enderium_seeds, Enderium Seeds
 mysticalagriculture:aluminum_brass_seeds, Aluminum Brass Seeds
 mysticalagriculture:knightslime_seeds, Knightslime Seeds
 mysticalagriculture:ardite_seeds, Ardite Seeds
@@ -14715,38 +14786,6 @@ projectred-illumination:lamp:28, Inverted Brown Lamp
 projectred-illumination:lamp:29, Inverted Green Lamp
 projectred-illumination:lamp:30, Inverted Red Lamp
 projectred-illumination:lamp:31, Inverted Black Lamp
-projectred-illumination:light_button:0, White Illumar Button
-projectred-illumination:light_button:1, Orange Illumar Button
-projectred-illumination:light_button:2, Magenta Illumar Button
-projectred-illumination:light_button:3, Light Blue Illumar Button
-projectred-illumination:light_button:4, Yellow Illumar Button
-projectred-illumination:light_button:5, Lime Illumar Button
-projectred-illumination:light_button:6, Pink Illumar Button
-projectred-illumination:light_button:7, Grey Illumar Button
-projectred-illumination:light_button:8, Light Grey Illumar Button
-projectred-illumination:light_button:9, Cyan Illumar Button
-projectred-illumination:light_button:10, Purple Illumar Button
-projectred-illumination:light_button:11, Blue Illumar Button
-projectred-illumination:light_button:12, Brown Illumar Button
-projectred-illumination:light_button:13, Green Illumar Button
-projectred-illumination:light_button:14, Red Illumar Button
-projectred-illumination:light_button:15, Black Illumar Button
-projectred-illumination:feedback_light_button:0, White Illumar Feedback Button
-projectred-illumination:feedback_light_button:1, Orange Illumar Feedback Button
-projectred-illumination:feedback_light_button:2, Magenta Illumar Feedback Button
-projectred-illumination:feedback_light_button:3, Light Blue Illumar Feedback Button
-projectred-illumination:feedback_light_button:4, Yellow Illumar Feedback Button
-projectred-illumination:feedback_light_button:5, Lime Illumar Feedback Button
-projectred-illumination:feedback_light_button:6, Pink Illumar Feedback Button
-projectred-illumination:feedback_light_button:7, Grey Illumar Feedback Button
-projectred-illumination:feedback_light_button:8, Light Grey Illumar Feedback Button
-projectred-illumination:feedback_light_button:9, Cyan Illumar Feedback Button
-projectred-illumination:feedback_light_button:10, Purple Illumar Feedback Button
-projectred-illumination:feedback_light_button:11, Blue Illumar Feedback Button
-projectred-illumination:feedback_light_button:12, Brown Illumar Feedback Button
-projectred-illumination:feedback_light_button:13, Green Illumar Feedback Button
-projectred-illumination:feedback_light_button:14, Red Illumar Feedback Button
-projectred-illumination:feedback_light_button:15, Black Illumar Feedback Button
 projectred-illumination:lantern:0, White Lantern
 projectred-illumination:lantern:1, Orange Lantern
 projectred-illumination:lantern:2, Magenta Lantern
@@ -14886,7 +14925,6 @@ projectred-expansion:machine1:0, Inductive Furnace
 projectred-expansion:machine1:1, Electrotine Generator
 projectred-expansion:machine2:0, Block Breaker
 projectred-expansion:machine2:1, Item Importer
-projectred-expansion:machine2:2, Block Placer
 projectred-expansion:machine2:3, Filtered Importer
 projectred-expansion:machine2:4, Fire Starter
 projectred-expansion:machine2:5, Battery Box
@@ -14989,7 +15027,7 @@ projectred-exploration:golden_sickle, Golden Sickle
 projectred-exploration:ruby_sickle, Ruby Sickle
 projectred-exploration:sapphire_sickle, Sapphire Sickle
 projectred-exploration:peridot_sickle, Peridot Sickle
-projectred-exploration:diamond_sickle, Diamond Sickle
+projectred-exploration:diamond_sickle, item.projectred.exploration.sickleDiamond.name
 projectred-exploration:ruby_helmet, Ruby Helmet
 projectred-exploration:ruby_chestplate, Ruby Chestplate
 projectred-exploration:ruby_leggings, Ruby Leggings
@@ -15564,14 +15602,14 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
+ropebridge:bridge_builder, Bridge Building Gun
+ropebridge:bridge_builder_hook, Bridge Building Gun Hook
+ropebridge:bridge_builder_barrel, Bridge Building Gun Barrel
+ropebridge:bridge_builder_handle, Bridge Building Gun Stock
 ropebridge:bridge_block_1, Bridge Board 1
 ropebridge:bridge_block_2, Bridge Board 2
 ropebridge:bridge_block_3, Bridge Board 3
 ropebridge:bridge_block_4, Bridge Board 4
-ropebridge:bridge_builder, Bridge Building Gun
-ropebridge:bridge_builder_material:0, Bridge Building Gun Hook
-ropebridge:bridge_builder_material:1, Bridge Building Gun Barrel
-ropebridge:bridge_builder_material:2, Bridge Building Gun Stock
 simplyjetpacks:itemJetpack:11, Iron Jetpack
 simplyjetpacks:itemJetpack:12, Gold Jetpack
 simplyjetpacks:itemJetpack:13, Diamond Jetpack
@@ -16903,66 +16941,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Fletching Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
