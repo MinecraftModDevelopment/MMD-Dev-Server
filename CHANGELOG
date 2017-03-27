@@ -1,26 +1,34 @@
-MMD-Dev-Server-v4.5.7 & 4.5.7.1
-
+MMD-Dev-Server-v4.5.7 & 4.5.8
 Updated:
+AstrolSorcery 1.2.3
+BetterBuildersWands 0.11.1.220
+Chisel 0.0.8.13
+CCL 2.5.7.241
+COFHCore 4.1.1.156
+compatlayer 0.2.5
+CyclopsCore 0.10.0
+mcjtylib 1.1x-2.3.11
+M.E.T.A 1.2.0
+Modtweaker 2.0.11
+MTLib 1.0.2
+MysticalAgriculture 1.4.5
+Plants 0.8.5
+RebornCore 2.13.5.136
+RedstoneArsenal 2.0.3.29
+rftools 1.1x-5.90
+ropebrdige 2.0.1
+SimplyJetpacks2 2.1.0.39
+StorageDrawers 3.6.2
+TechReborn 2.1.10.207
+ThermalExpansion 5.0.4.90
+ThermalFoundation 2.0.5.81
+Tinkers Addons 1.0.5
+UpAndDownAndAllAround 2.7
+*Metals
 
-ActuallyAdditions 1.10.2-r105
-AE2stuff 0.6.0.9
-Astrolsorcery 1.2.2
-bdlib 1.12.4.24
-craftTweaker 1.10.2-3.0.24
-cyclic 1.10.2-1.10.15
-EnderIO 1.10.2-3.1.179
-EXU2 1.10.2-1.3.3
-HWYLA 1.8.11-B25_1.10.2
-mcjtylib 1.1x-2.3.10
-modtweaker 2.0.10
-MysticalAgriculture 1.4.4a
-RebornCore 1.10.2-2.13.5.134
-rftools 1.1x-5.88
-robebridge 1.10.2-2.0.0
-TechReborn 1.10.2-2.1.10.21
-*metals
-IC2 2.6.173-ex110 (4.5.7.1)
+Added:
+Metallic Crops (by Knockhack)
+BetterFPS (Portablejim)
 
-Removed:
-
-Advanced Rocketry
+Config Change:
+Added ProjectRed Tools to Veinminer
