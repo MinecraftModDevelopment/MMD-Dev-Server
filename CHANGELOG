@@ -1,34 +1,30 @@
-MMD-Dev-Server-v4.5.7 & 4.5.8
-Updated:
-AstrolSorcery 1.2.3
-BetterBuildersWands 0.11.1.220
-Chisel 0.0.8.13
-CCL 2.5.7.241
-COFHCore 4.1.1.156
-compatlayer 0.2.5
-CyclopsCore 0.10.0
-mcjtylib 1.1x-2.3.11
-M.E.T.A 1.2.0
-Modtweaker 2.0.11
-MTLib 1.0.2
-MysticalAgriculture 1.4.5
-Plants 0.8.5
-RebornCore 2.13.5.136
-RedstoneArsenal 2.0.3.29
-rftools 1.1x-5.90
-ropebrdige 2.0.1
-SimplyJetpacks2 2.1.0.39
-StorageDrawers 3.6.2
-TechReborn 2.1.10.207
-ThermalExpansion 5.0.4.90
-ThermalFoundation 2.0.5.81
-Tinkers Addons 1.0.5
-UpAndDownAndAllAround 2.7
-*Metals
+MMD-Dev-Server-v4.5.9
 
-Added:
-Metallic Crops (by Knockhack)
-BetterFPS (Portablejim)
+Aroma1997Core 1.9.4-1.1.1.2
+Arsmagica2 1.10.2-1.5.0-18
+Bedbugs 1.10.2-1.1.6
+BetterFPS 1.4.3
+Bookshelf 1.10.2-1.4.4.347
+BrandonsCore 1.10.2-2.1.5.97
+Chisel 1.10.2-0.0.9.15
+CodeChickenCore 1.10.2-2.4.1.102
+Cyclic 1.10.2-1.10.18
+DarkUtilities 1.10.2-1.1.7.120
+DraconicEvolution 1.10.2-2.0.9.192
+GYBH 1.10.2-0.0.0.17
+GYTH 1.10.2-2.0.0.27
+Hwyla 1.8.12-B26
+JEI 1.10.2-3.14.7.417
+LibVulpes 1.10.2-0.2.1
+M.E.T.A 1.2.1
+MysticalAgriculture 1.10.2-1.5.0a
+NEI 1.10.2-2.1.3.206
+rftools 1.1x-5.91
+ropebridge 1.10.2-2.1.0
+StorageDrawers 1.10.2-3.7.0
+Wawla 1.10.2-2.3.2.215
+*metals
 
-Config Change:
-Added ProjectRed Tools to Veinminer
+*** NOTE TO SELF ***
+DO NOT UPDATE SURGE or FORGELIN
+Vitality 3 Alpha0 + is a Complete re-write of the mod to be a Thaumcraft type clone and has no items from prev versions of mod
