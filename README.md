@@ -17,7 +17,7 @@ You can create an update request by opening an issue [here](https://github.com/M
 As long as there is a good reason to add the mod, you are free to request it. Do keep in mind that this server is aimed towards testing mods made by those who are part of the community. 
 
 **I am not a developer, am I still allowed to join?**    
-Everyone is welcome to apply to join, regardless of their skill set. Keep in mind that there is a review process which takes a variety of factors into account. 
+Everyone is welcome to apply to join, however we are looking for those well experienced in mods and reporting errors and crashes. Keep in mind that there is a review process which takes a variety of other factors into account. 
 
 **Is recording allowed on the dev server?**    
 Please refer to the [Terms of Play](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TERMS.md) for more information on this. If you are unsure you can ask an admin for clarification.
