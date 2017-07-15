@@ -1,0 +1,19 @@
+{
+  "tier": {
+    "item": {
+      "wood": 64,
+      "iron": 256,
+      "diamond": 4096,
+      "gold": 1024
+    }
+  },
+  "allowed_ore_prefixes": [
+    "ingot",
+    "block",
+    "nugget",
+    "ore",
+    "dust",
+    "gem"
+  ],
+  "sneak_left_click_extracts_stack": true
+}

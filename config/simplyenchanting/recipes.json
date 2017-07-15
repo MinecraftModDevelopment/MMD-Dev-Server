@@ -1,0 +1,142 @@
+[
+  {
+    "eName": "minecraft:protection",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:obsidian"
+  },
+  {
+    "eName": "minecraft:fire_protection",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:magma_cream"
+  },
+  {
+    "eName": "minecraft:feather_falling",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:feather"
+  },
+  {
+    "eName": "minecraft:blast_protection",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:gunpowder"
+  },
+  {
+    "eName": "minecraft:projectile_protection",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:arrow"
+  },
+  {
+    "eName": "minecraft:respiration",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:glass_bottle"
+  },
+  {
+    "eName": "minecraft:aqua_affinity",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:waterlily"
+  },
+  {
+    "eName": "minecraft:thorns",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:cactus"
+  },
+  {
+    "eName": "minecraft:depth_strider",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:iron_ingot"
+  },
+  {
+    "eName": "minecraft:frost_walker",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:ice"
+  },
+  {
+    "eName": "minecraft:sharpness",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:quartz"
+  },
+  {
+    "eName": "minecraft:smite",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:rotten_flesh"
+  },
+  {
+    "eName": "minecraft:bane_of_arthropods",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:spider_eye"
+  },
+  {
+    "eName": "minecraft:knockback",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:piston"
+  },
+  {
+    "eName": "minecraft:fire_aspect",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:blaze_powder"
+  },
+  {
+    "eName": "minecraft:looting",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:skull"
+  },
+  {
+    "eName": "minecraft:sweeping",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:tnt"
+  },
+  {
+    "eName": "minecraft:efficiency",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:emerald"
+  },
+  {
+    "eName": "minecraft:silk_touch",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:diamond"
+  },
+  {
+    "eName": "minecraft:unbreaking",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:slime_ball"
+  },
+  {
+    "eName": "minecraft:fortune",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:gold_ingot"
+  },
+  {
+    "eName": "minecraft:power",
+    "eMaxLevel": 5,
+    "eItem": "minecraft:flint"
+  },
+  {
+    "eName": "minecraft:punch",
+    "eMaxLevel": 2,
+    "eItem": "minecraft:ender_eye"
+  },
+  {
+    "eName": "minecraft:flame",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:flint_and_steel"
+  },
+  {
+    "eName": "minecraft:infinity",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:ender_pearl"
+  },
+  {
+    "eName": "minecraft:luck_of_the_sea",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:dye:0"
+  },
+  {
+    "eName": "minecraft:lure",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:fish"
+  },
+  {
+    "eName": "minecraft:mending",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:end_stone"
+  }
+]

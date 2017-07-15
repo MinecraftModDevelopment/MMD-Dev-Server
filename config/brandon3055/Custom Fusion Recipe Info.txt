@@ -1,3 +1,5 @@
+//The recipe format has recently been updated! Old recipes will still work but may be disabled in a future MC version.
+
 It is now possible to add custom fusion recipes and/or remove existing ones.
 This feature is intended for Mod pack creators.
 
@@ -9,58 +11,57 @@ The following is an example of what the json file should look like (See further 
 [
     {
         "mode": "ADD",
-        "result": "[minecraft:beacon]",
-        "catalyst": "[minecraft:nether_star]",
+        "result": "minecraft:beacon",
+        "catalyst": "minecraft:nether_star",
         "energy": 1000,
         "tier": 1,
         "ingredients": [
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:obsidian]"
+            "minecraft:glass",
+            "minecraft:glass",
+            "minecraft:glass",
+            "minecraft:glass",
+            "minecraft:glass",
+            "minecraft:obsidian"
         ]
     },
     {
         "mode": "ADD",
-        "result": "2x[minecraft:golden_apple]:1",
-        "catalyst": "2x[minecraft:golden_apple]",
+        "result": "minecraft:diamond_sword,1,0,{ench:[0:{lvl:5s,id:21s},1:{lvl:5s,id:20s},2:{lvl:5s,id:19s}]}",
+        "catalyst": "minecraft:golden_apple,1,1",
         "energy": 1000,
         "tier": 1,
         "ingredients": [
-            "[oreGold]",
-            "[blockGold]",
-            "[ingotGold]",
-            "[nuggetGold]"
+            "ore:oreGold",
+            "ore:blockGold",
+            "ore:ingotGold",
+            "minecraft:stone,1,0,{ench:[0:{lvl:5s,id:21s},1:{lvl:5s,id:20s},2:{lvl:5s,id:19s}]}"
         ]
     },
     {
         "mode": "REMOVE",
-        "result": "[draconicevolution:draconic_staff_of_power]",
-        "catalyst": "[draconicevolution:draconic_pick],"
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick",
         "ingredients": [
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_shovel]",
-            "[draconicevolution:draconic_sword]",
-            "[draconicevolution:awakened_core]"
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_shovel",
+            "draconicevolution:draconic_sword",
+            "draconicevolution:awakened_core"
         ]
     },
     {
         "mode": "REMOVE",
-        "result": "[draconicevolution:draconic_shovel]",
-        "catalyst": "[draconicevolution:wyvern_shovel]"
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel"
     }    
 ]
 
 
 The above json adds 2 recipes for vanilla items and removes 2 recipes from Draconic Evolution. It should be fairly clear how those examples work
 The following explains the recipes in more detail
-
 
 # Adding Recipes #
 
@@ -99,19 +100,20 @@ Optionally if you leave out the ingredients it will remove any recipe matching t
 
 ## Item Stack Strings ##
 
-Example:      16x[minecraft:wool]:14     - This is 16 red wool
-Ore Example:  3x[ingotCopper]            - This is 3 copper ingots using the ore dictionary
+Example:      minecraft:wool,16,14     - This is 16 red wool
+Ore Example:  ore:ingotCopper          - This is 1 copper ingots using the ore dictionary
+Note: Ore entries do not support more that 1 stack size, Item damage or nbt
 More on the ore dictionary http://www.minecraftuniversity.com/forge/ore_dictionary_list/
 
 The name used in the item/block registry name or an ore dictionary name. Both the number of items and the damage value are optional
 
-Examples: (The square brackets[] are required)
-
-[draconicevolution:draconic_ingot]  - 1 Awakened Draconium Ingot
-[ingotDraconiumAwakened]            - 1 Awakened Draconium Ingot ising its ore dictionary name
-4x[minecraft:stone]                 - 4 Stone 
-4x[minecraft:stone]:3               - 4 Diorite 
-[minecraft:stone]:4                 - 1 Polished Diorite
+Examples:
+name, stack size, meta, NBT
+ore:stone
+minecraft:stone         
+minecraft:stone,64       
+minecraft:stone,64,3 
+minecraft:stone,64,3,{NBT}
 
 
 ### Notes ###

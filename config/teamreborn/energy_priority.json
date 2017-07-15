@@ -1,3 +1,5 @@
 {
-  "energySystem": "FE"
+  "euPriority": 0,
+  "teslaPriority": 2,
+  "forgePriority": 1
 }
