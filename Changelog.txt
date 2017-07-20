@@ -1,19 +1,32 @@
-MMD-Dev v1.3
+MMD-Dev v1.5
 
 Updated:
 
-Actuallyadditions (from Mod maintainer) fixes Farmer not re-planting directly after harvesting crops
-Astralsorcery 1.12-1.6.1
-Bookshelf 1.12-2.0.0.415
-Crafttweaker2 1.12-4.0.1
-ImmersiveEngineering 1.12-0.12-67
-JER 1.12-0.8.2.18
-Mantle 1.12-1.3.0.15
-mcjtylib 1.12-2.4.4
-spectritemod 1.12-1.3.2
+Forge *.2415
 
+BuildCraft
+BrandonsCore
+CodeChickenLib
+COFHCore
+DraconicEvolution
+GotWood
+RebornCore
+RedstoneArsenal
+rftools
+SpectriteMod
+TechReborn
+ThermalDynamics
+ThermalExpansion
+ThermalFoundation
 
-Removed:
-spectrite Configuration to reset to new one as per Mod Author request.
-TheOneProbe (For Real This Time)
+Added:
 
+SimpleCorn
+ToastControl
+Dissolution
+Simply Conveyors & More
+Villager Market
+
+Config Changes:
+Added Nether & End Draconium to veinmine list
+Added Drills from AA to vein mine tools list
