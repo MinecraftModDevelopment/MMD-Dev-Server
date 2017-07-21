@@ -1,32 +1,31 @@
-MMD-Dev v1.5
+MMD-Dev v1.6
 
 Updated:
 
-Forge *.2415
+FORGE v*.2420
 
+AppliedEnergistics
+Biomes'o'Plenty
+Bookshelf
 BuildCraft
-BrandonsCore
-CodeChickenLib
-COFHCore
-DraconicEvolution
-GotWood
-RebornCore
+CoFHCore
+ExtraUtilities2
+Extremereactors
+Quark
 RedstoneArsenal
-rftools
-SpectriteMod
-TechReborn
-ThermalDynamics
+Forgelin
+tesla-core-lib
+teslathingies
 ThermalExpansion
 ThermalFoundation
 
+
+
 Added:
 
-SimpleCorn
-ToastControl
-Dissolution
-Simply Conveyors & More
-Villager Market
+Tinkers
+
 
 Config Changes:
-Added Nether & End Draconium to veinmine list
-Added Drills from AA to vein mine tools list
+
+None

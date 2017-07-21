@@ -120,6 +120,7 @@
         "rustic:leaves_apple/0",
         "rustic:log/0",
         "rustic:log/1",
+        "tconstruct:slime_leaves",
         "techreborn:rubber_leaves",
         "techreborn:rubber_log",
         "traverse:fir_leaves/0",
@@ -273,6 +274,8 @@
         "silentgems:gemoredark/13",
         "silentgems:gemoredark/14",
         "silentgems:gemoredark/15",
+        "tconstruct:ore/0",
+        "tconstruct:ore/1",
         "techreborn:ore/0",
         "techreborn:ore/1",
         "techreborn:ore/2",
@@ -377,6 +380,7 @@
         "rustic:leaves/8",
         "rustic:leaves/9",
         "rustic:leaves_apple/0",
+        "tconstruct:slime_leaves",
         "techreborn:rubber_leaves",
         "traverse:fir_leaves/0"
       ]
