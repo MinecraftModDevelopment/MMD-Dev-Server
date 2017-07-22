@@ -1,4 +1,4 @@
-#MMD Dev Server Mod Request Template
+# MMD Dev Server Mod Request Template
 
 **Mod Name**:
 

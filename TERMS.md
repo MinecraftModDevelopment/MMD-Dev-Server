@@ -1,4 +1,4 @@
-#Terms Of Play
+# Terms Of Play
 
 This document contains the terms for playing on the Minecraft Mod Development Dev Server. Players must agree to all terms if they want to play on the dev server.
 
