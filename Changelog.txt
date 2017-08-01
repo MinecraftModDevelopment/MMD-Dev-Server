@@ -1,31 +1,5 @@
-MMD-Dev v1.6
+Updated Forestry to v5.5.0.154
 
-Updated:
+NOTE
 
-FORGE v*.2420
-
-AppliedEnergistics
-Biomes'o'Plenty
-Bookshelf
-BuildCraft
-CoFHCore
-ExtraUtilities2
-Extremereactors
-Quark
-RedstoneArsenal
-Forgelin
-tesla-core-lib
-teslathingies
-ThermalExpansion
-ThermalFoundation
-
-
-
-Added:
-
-Tinkers
-
-
-Config Changes:
-
-None
+The Full Update in 24hrs time will reset the Nether & Mining Dimension, please remove any and all machines you may have in either of those dimensions.
