@@ -1,5 +1,49 @@
-Updated Forestry to v5.5.0.154
+MMD-Dev v1.7
 
-NOTE
+Updated:
 
-The Full Update in 24hrs time will reset the Nether & Mining Dimension, please remove any and all machines you may have in either of those dimensions.
+FORGE v*.2428
+
+Bibliocraft 2.4.3
+Bookshelf 2.0.0.418
+BrandonsCore 2.3.1.125
+BuildCraft 
+ChestTransporter 2.8.6
+ColossalChests 1.6.5
+ConnectedTexturesMod 0.2.1.5
+CrfatTweaker 4.0.2
+Cyclic 1.7.2
+CyclopsCore 0.10.11
+DiscordChat(Server Only)
+DraconicEvolution 2.3.2.258
+ElecCore 1.8.429
+EverLastingAbilities 1.3.2
+Forestry 5.5.0.154
+GotWood(Hopefully fixing a crash issue)
+ImmersiveEngineering 0.12.70
+JEI 4.7.4.80
+Mantle 1.3.1.18
+mysticalAgriculture 1.6.2
+Quark r1.2-104
+rustic 0.4.1
+silentlib 2.2.7-85
+silentsgems 2.4.3b-209
+TechReborn 2.6.10.170
+tsla-core-lib 1.0.6
+tesla-powered-thingies 1.0.6
+TConstruct 2.7.2.15
+Veinminer 0.38.1.639
+Waystones 4.0.12
+
+Config Changes:
+
+Deleted the Veinminer Config and re-generated
+Added Support for Spectrite to veinminer
+Added IC2 intergration with TechReborn
+
+Added:
+
+IC2
+Pams HarvestCraft
+/dank/null
+fencejumper
