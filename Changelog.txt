@@ -1,23 +1,9 @@
-MMD-Dev v1.8
+MMD-Dev v1.9
 
 Updated:
 
-Aromacore
-AppliedEnergistics
-BC
-cyclic
-silentgems
-Advancebase
-bookshelf
-chesttransporter
-chisel
-cyclopscore
-hwyla
-JEI
-teslacorelib
-teslapoweredthingies
-torchmaster
-
+Aroma1997Dimensional
+Crafttweaker
 
 Config Changes:
 
@@ -26,10 +12,3 @@ NONE
 
 Added:
 
-DiscordChat(Server Side ONLY)
-Actually Baubles
-AngelicRing to Baubles
-Capability Proxy
-Catwalks
-Ceramics
-EvilCraft
