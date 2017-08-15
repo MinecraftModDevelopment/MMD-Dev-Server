@@ -1,9 +1,20 @@
 MMD-Dev v1.9
 
+MC 1.12.1
+Forge 14.22.0.2452
+
 Updated:
 
-Aroma1997Dimensional
-Crafttweaker
+Bookshelf
+cyclic
+EXU2
+Forestry
+Natura
+TConstruct
+waystones
+xnet
+
+
 
 Config Changes:
 
@@ -12,3 +23,11 @@ NONE
 
 Added:
 
+rftools control
+rftools dimension
+EnvironMentaltech
+ropebridge
+chococraft
+thebomplugin
+
+DISABLED:

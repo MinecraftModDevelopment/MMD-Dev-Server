@@ -64,8 +64,6 @@
         "mysticalagriculture:supremium_axe",
         "redstonearsenal:tool.axe_flux",
         "silentgems:axe",
-        "spectritemod:spectrite_axe",
-        "spectritemod:spectrite_axe_special",
         "tconstruct:hatchet",
         "techreborn:bronzeaxe",
         "techreborn:peridotaxe",
@@ -382,8 +380,6 @@
         "roots:stone_hammer",
         "roots:wood_hammer",
         "silentgems:pickaxe",
-        "spectritemod:spectrite_pickaxe",
-        "spectritemod:spectrite_pickaxe_special",
         "tconstruct:pickaxe",
         "techreborn:advanceddrill",
         "techreborn:bronzepickaxe",
@@ -734,8 +730,6 @@
         "mysticalagriculture:supremium_shovel",
         "redstonearsenal:tool.shovel_flux",
         "silentgems:shovel",
-        "spectritemod:spectrite_shovel",
-        "spectritemod:spectrite_shovel_special",
         "tconstruct:mattock",
         "tconstruct:shovel",
         "techreborn:advanceddrill",
@@ -756,8 +750,7 @@
       ],
       "blocklist": [
         "minecraft:clay",
-        "minecraft:gravel",
-        "minecraft:sand"
+        "minecraft:gravel"
       ]
     }
   }
