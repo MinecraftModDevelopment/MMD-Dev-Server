@@ -1,33 +1,27 @@
-MMD-Dev v1.9
-
-MC 1.12.1
-Forge 14.22.0.2452
+MMD-Dev v1.9.1
 
 Updated:
 
-Bookshelf
+BuildCraft(fixing issue with Builder & HeatExchange)
+badwithernocookie
+bookshelf
+Chisel
+ConnectedTexturesMod
 cyclic
-EXU2
-Forestry
-Natura
-TConstruct
-waystones
-xnet
+Environmentaltech
+rftools
+spectrite
+valkyrielib
 
 
 
 Config Changes:
 
-NONE
+Added IC2 rubber Trees to list
+Increased Veinmine block limit to allow for 2x2 tree's
 
 
 Added:
 
-rftools control
-rftools dimension
-EnvironMentaltech
-ropebridge
-chococraft
-thebomplugin
 
 DISABLED:
