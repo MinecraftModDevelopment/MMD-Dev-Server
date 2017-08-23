@@ -57,41 +57,41 @@
       "blockName": "tile.techreborn:ore",
       "blockNiceName": "Lead",
       "meta": 12,
-      "veinSize": 0,
+      "veinSize": 6,
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": false
+      "shouldSpawn": true
     },
     {
       "blockName": "tile.techreborn:ore",
       "blockNiceName": "Silver",
       "meta": 13,
-      "veinSize": 0,
+      "veinSize": 6,
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": false
+      "shouldSpawn": true
     },
     {
       "blockName": "tile.techreborn:ore2",
       "blockNiceName": "Copper",
       "meta": 0,
-      "veinSize": 0,
+      "veinSize": 8,
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": false
+      "shouldSpawn": true
     },
     {
       "blockName": "tile.techreborn:ore2",
       "blockNiceName": "Tin",
       "meta": 1,
-      "veinSize": 0,
+      "veinSize": 8,
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": false
+      "shouldSpawn": true
     }
   ],
   "neatherOres": [

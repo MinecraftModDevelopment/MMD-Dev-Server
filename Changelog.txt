@@ -1,27 +1,16 @@
-MMD-Dev v1.9.1
+MMD-Dev V2.0
 
 Updated:
 
-BuildCraft(fixing issue with Builder & HeatExchange)
-badwithernocookie
-bookshelf
-Chisel
-ConnectedTexturesMod
-cyclic
-Environmentaltech
-rftools
-spectrite
-valkyrielib
+MC 1.12.1
+Forge 14.22.0.2460
 
+Other Mods i dont recall.
 
 
 Config Changes:
 
-Added IC2 rubber Trees to list
-Increased Veinmine block limit to allow for 2x2 tree's
-
-
-Added:
-
-
-DISABLED:
+Removed:
+Rftools Dimension
+ExtraUtilities2
+Harvestables
