@@ -2,15 +2,38 @@ MMD-Dev V2.0
 
 Updated:
 
-MC 1.12.1
-Forge 14.22.0.2460
+ActuallyAdditions
+AromaCore
+AromaDimension
+Bookshelf
+COFHcore
+Cyclic
+CyclopsCore
+DarkUtils
+EnvironmentalTech
+Forestry
+Immersive Engineering
+InGameInfo
+LunatricsCore
+Pam's HarvestCraft
+Quick Leaf Decay
+RedstoneArseonal
+Spectrite
+StorageDrawers
+TechReborn
+Thermal*
+Valkyrie Lib
+Wawla
 
-Other Mods i dont recall.
 
+Added:
+
+ET Lunar
+Elemewntal Dimesnions
 
 Config Changes:
 
 Removed:
-Rftools Dimension
-ExtraUtilities2
-Harvestables
+
+Wawla
+WorldEdit
