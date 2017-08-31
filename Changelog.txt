@@ -1,39 +1,25 @@
-MMD-Dev V2.0
+MMD-Dev V2.03
 
 Updated:
 
-ActuallyAdditions
-AromaCore
-AromaDimension
-Bookshelf
-COFHcore
-Cyclic
-CyclopsCore
-DarkUtils
-EnvironmentalTech
-Forestry
-Immersive Engineering
-InGameInfo
-LunatricsCore
-Pam's HarvestCraft
-Quick Leaf Decay
-RedstoneArseonal
-Spectrite
-StorageDrawers
-TechReborn
-Thermal*
-Valkyrie Lib
-Wawla
+FORGE Z*.2467
 
+Aroma1997Core
+Forestry
+Natura
+RebornCore
+TechReborn
 
 Added:
 
 ET Lunar
-Elemewntal Dimesnions
+Elemental Dimesnions
 
 Config Changes:
 
 Removed:
 
-Wawla
-WorldEdit
+Pams HarvestCraft
+AngelRing to Bauble
+
+

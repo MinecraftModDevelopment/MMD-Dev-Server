@@ -51,7 +51,6 @@
         "embers:axe_nickel",
         "embers:axe_silver",
         "embers:axe_tin",
-        "extrautils2:fireaxe",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
@@ -232,11 +231,6 @@
         "embers:hoe_nickel",
         "embers:hoe_silver",
         "embers:hoe_tin",
-        "extrautils2:sickle_diamond",
-        "extrautils2:sickle_gold",
-        "extrautils2:sickle_iron",
-        "extrautils2:sickle_stone",
-        "extrautils2:sickle_wood",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -423,10 +417,13 @@
       ],
       "blocklist": [
         "actuallyadditions:block_misc/3",
+        "advancebase:advancium_ore",
+        "anima:anima_ore",
         "appliedenergistics2:charged_quartz_ore/0",
         "appliedenergistics2:quartz_ore/0",
         "astralsorcery:blockcustomore/1",
         "astralsorcery:blockcustomsandore/0",
+        "astralsorcery:blockmarble",
         "bigreactors:brore/0",
         "biomesoplenty:gem_ore/0",
         "biomesoplenty:gem_ore/1",
@@ -436,6 +433,8 @@
         "biomesoplenty:gem_ore/5",
         "biomesoplenty:gem_ore/6",
         "biomesoplenty:gem_ore/7",
+        "chisel:limestone2",
+        "chisel:marble2",
         "cyclicmagic:end_coal_ore/0",
         "cyclicmagic:end_diamond_ore/0",
         "cyclicmagic:end_emerald_ore/0",
@@ -492,6 +491,11 @@
         "mysticalagriculture:nether_inferium_ore/0",
         "mysticalagriculture:nether_prosperity_ore/0",
         "mysticalagriculture:prosperity_ore/0",
+        "quark:biome_cobblestone",
+        "quark:biome_cobblestone/1",
+        "quark:limestone",
+        "quark:marble",
+        "rustic:slate",
         "silentgems:essenceore/0",
         "silentgems:essenceore/1",
         "silentgems:gemore/0",
@@ -526,6 +530,7 @@
         "silentgems:gemoredark/13",
         "silentgems:gemoredark/14",
         "silentgems:gemoredark/15",
+        "spectrite:spectrite_ore",
         "tconstruct:ore/0",
         "tconstruct:ore/1",
         "techreborn:ore/0",
@@ -557,7 +562,8 @@
         "thermalfoundation:ore_fluid/1",
         "thermalfoundation:ore_fluid/2",
         "thermalfoundation:ore_fluid/3",
-        "thermalfoundation:ore_fluid/4"
+        "thermalfoundation:ore_fluid/4",
+        "vigilant_eureka:bismuth_ore"
       ]
     },
     "shears": {
@@ -750,7 +756,8 @@
       ],
       "blocklist": [
         "minecraft:clay",
-        "minecraft:gravel"
+        "minecraft:gravel",
+        "minecraft:sand"
       ]
     }
   }
