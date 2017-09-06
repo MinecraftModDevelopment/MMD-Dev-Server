@@ -2,24 +2,22 @@ MMD-Dev V2.03
 
 Updated:
 
-FORGE Z*.2467
-
-Aroma1997Core
+Cyclopscore
+EvilCraft
 Forestry
-Natura
+JEI
+Mantle
 RebornCore
+SilentsGems
+Spectrite
 TechReborn
+tesla-core-lib
+tesla-powered-thingies
+wither skeleton tweaks
+JEI
 
 Added:
-
-ET Lunar
-Elemental Dimesnions
+Industrial Forgoing
 
 Config Changes:
-
-Removed:
-
-Pams HarvestCraft
-AngelRing to Bauble
-
 

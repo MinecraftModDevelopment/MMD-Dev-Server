@@ -11,9 +11,9 @@ WARNING: coremods are present:
   CoreMod (Aroma1997Core-1.12.1-1.3.0.0.b121.jar)
 Contact their authors BEFORE contacting forge
 
-// Don't be sad, have a hug! <3
+// Everything's going to plan. No, really, that was supposed to happen.
 
-Time: 9/1/17 2:38 AM
+Time: 9/1/17 4:57 AM
 Description: Ticking entity
 
 net.minecraftforge.fml.relauncher.ReflectionHelper$UnableToFindFieldException: java.lang.NoSuchFieldException: field_70532_c
@@ -56,11 +56,11 @@ Stacktrace:
 -- Entity being ticked --
 Details:
 	Entity Type: minecraft:item (net.minecraft.entity.item.EntityItem)
-	Entity ID: 773
+	Entity ID: 565
 	Entity Name: item.item.spectrite_boots
-	Entity's Exact location: -1604.13, 20.48, 1212.52
+	Entity's Exact location: -1604.47, 20.81, 1212.73
 	Entity's Block location: World: (-1605,20,1212), Chunk: (at 11,1,12 in -101,75; contains blocks -1616,0,1200 to -1601,255,1215), Region: (-4,2; contains chunks -128,64 to -97,95, blocks -2048,0,1024 to -1537,255,1535)
-	Entity's Momentum: 0.06, 0.27, -0.03
+	Entity's Momentum: -0.03, 0.26, 0.04
 	Entity's Passengers: []
 	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
 Stacktrace:
@@ -70,16 +70,16 @@ Stacktrace:
 -- Affected level --
 Details:
 	Level name: world
-	All players: 1 total; [EntityPlayerMP['Morpheus1101'/214, l='world', x=-1728.45, y=67.00, z=1265.65]]
-	Chunk stats: ServerChunkCache: 698 Drop: 0
+	All players: 1 total; [EntityPlayerMP['Morpheus1101'/222, l='world', x=-1727.75, y=67.00, z=1265.17]]
+	Chunk stats: ServerChunkCache: 700 Drop: 0
 	Level seed: 3193507198413687733
 	Level generator: ID 06 - BIOMESOP, ver 0. Features enabled: true
 	Level generator options: 
 	Level spawn location: World: (-129,68,320), Chunk: (at 15,4,0 in -9,20; contains blocks -144,0,320 to -129,255,335), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
-	Level time: 808501 game time, 798740 day time
+	Level time: 958844 game time, 949083 day time
 	Level dimension: 0
 	Level storage version: 0x04ABD - Anvil
-	Level weather: Rain time: 107801 (now: false), thunder time: 15025 (now: false)
+	Level weather: Rain time: 72207 (now: false), thunder time: 1834 (now: false)
 	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
 Stacktrace:
 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:765)
@@ -94,9 +94,9 @@ Details:
 	Operating System: Linux (amd64) version 2.6.32-696.3.2.el6.x86_64
 	Java Version: 1.8.0_45, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 485110776 bytes (462 MB) / 1048309760 bytes (999 MB) up to 8520204288 bytes (8125 MB)
+	Memory: 364183368 bytes (347 MB) / 978817024 bytes (933 MB) up to 8520204288 bytes (8125 MB)
 	JVM Flags: 4 total; -Xmx8192M -Xms128M -XX:MaxMetaspaceSize=256M -XX:+UseConcMarkSweepGC
-	IntCache: cache: 1, tcache: 0, allocated: 3, tallocated: 106
+	IntCache: cache: 2, tcache: 0, allocated: 3, tallocated: 106
 	FML: MCP 9.41 Powered by Forge 14.22.0.2467 133 mods loaded, 133 mods active
 	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
 
@@ -288,6 +288,6 @@ CoreMod (Aroma1997Core-1.12.1-1.3.0.0.b121.jar)
 		Runtime Debofucsation 1
 	AE2 Integration: IC2:ON, RC:OFF, MFR:OFF, Waila:ON, Mekanism:OFF, OpenComputers:OFF, THE_ONE_PROBE:OFF, TESLA:ON
 	Profiler Position: N/A (disabled)
-	Player Count: 1 / 15; [EntityPlayerMP['Morpheus1101'/214, l='world', x=-1728.45, y=67.00, z=1265.65]]
+	Player Count: 1 / 15; [EntityPlayerMP['Morpheus1101'/222, l='world', x=-1727.75, y=67.00, z=1265.17]]
 	Is Modded: Definitely; Server brand changed to 'fml,forge'
 	Type: Dedicated Server (map_server.txt)
