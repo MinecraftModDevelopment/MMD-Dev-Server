@@ -2,27 +2,27 @@
   "outputs": [
     {
       "target": "litherite",
-      "weight": 10,
+      "weight": 20,
       "id": "environmentaltech:litherite_crystal"
     },
     {
       "target": "erodium",
-      "weight": 8,
+      "weight": 16,
       "id": "environmentaltech:erodium_crystal"
     },
     {
       "target": "kyronite",
-      "weight": 6,
+      "weight": 12,
       "id": "environmentaltech:kyronite_crystal"
     },
     {
       "target": "pladium",
-      "weight": 4,
+      "weight": 8,
       "id": "environmentaltech:pladium_crystal"
     },
     {
       "target": "ionite",
-      "weight": 2,
+      "weight": 4,
       "id": "environmentaltech:ionite_crystal"
     },
     {
@@ -37,27 +37,27 @@
     },
     {
       "target": "white",
-      "weight": 32,
+      "weight": 33,
       "id": "OD:oreQuartz"
     },
     {
       "target": "red",
-      "weight": 32,
+      "weight": 33,
       "id": "OD:oreRedstone"
     },
     {
       "target": "blue",
-      "weight": 20,
+      "weight": 22,
       "id": "OD:oreLapis"
     },
     {
       "target": "yellow",
-      "weight": 19,
+      "weight": 20,
       "id": "OD:oreGold"
     },
     {
       "target": "cyan",
-      "weight": 13,
+      "weight": 14,
       "id": "OD:oreDiamond"
     },
     {
@@ -67,32 +67,32 @@
     },
     {
       "target": "yellow",
-      "weight": 12,
+      "weight": 14,
       "id": "OD:glowstone"
     },
     {
       "target": "orange",
-      "weight": 36,
+      "weight": 38,
       "id": "OD:oreCopper"
     },
     {
       "target": "gray",
-      "weight": 36,
+      "weight": 38,
       "id": "OD:oreTin"
     },
     {
       "target": "silver",
-      "weight": 22,
+      "weight": 24,
       "id": "OD:oreSilver"
     },
     {
       "target": "purple",
-      "weight": 30,
+      "weight": 32,
       "id": "OD:oreLead"
     },
     {
       "target": "white",
-      "weight": 26,
+      "weight": 27,
       "id": "OD:oreAluminum"
     },
     {
@@ -127,18 +127,48 @@
     },
     {
       "target": "gray",
-      "weight": 13,
+      "weight": 14,
       "id": "OD:oreNickel"
     },
     {
       "target": "light_blue",
-      "weight": 9,
+      "weight": 10,
       "id": "OD:orePlatinum"
     },
     {
       "target": "light_blue",
-      "weight": 9,
+      "weight": 10,
       "id": "OD:oreMithril"
+    },
+    {
+      "target": "light_blue",
+      "weight": 11,
+      "id": "OD:oreOsmium"
+    },
+    {
+      "target": "black",
+      "weight": 4,
+      "id": "OD:oreFluidCrudeOilSand"
+    },
+    {
+      "target": "black",
+      "weight": 4,
+      "id": "OD:oreFluidCrudeOilShale"
+    },
+    {
+      "target": "green",
+      "weight": 3,
+      "id": "OD:oreFluidEnder"
+    },
+    {
+      "target": "yellow",
+      "weight": 6,
+      "id": "OD:oreFluidGlowstone"
+    },
+    {
+      "target": "red",
+      "weight": 5,
+      "id": "OD:oreFluidRedstone"
     },
     {
       "target": "yellow",
@@ -223,12 +253,17 @@
     {
       "target": "green",
       "weight": 12,
-      "id": "mysticalagriculture:inferium_ore"
+      "id": "OD:oreInferium"
     },
     {
       "target": "silver",
       "weight": 7,
-      "id": "mysticalagriculture:prosperity_ore"
+      "id": "OD:oreProsperity"
+    },
+    {
+      "target": "lime",
+      "weight": 14,
+      "id": "OD:oreBrainstone"
     }
   ]
 }

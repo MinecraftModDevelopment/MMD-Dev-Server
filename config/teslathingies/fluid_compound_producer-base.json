@@ -1,0 +1,8 @@
+[
+  {
+    "_comment": "Molten Tesla + Fluid Redstone => More Molten Tesla",
+    "input_a": { "name": "tf-molten_tesla", "quantity": 100 },
+    "input_b": { "name": "redstone", "quantity": 100 },
+    "output": { "name": "tf-molten_tesla", "quantity": 150 }
+  }
+]

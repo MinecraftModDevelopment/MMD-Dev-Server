@@ -1,0 +1,7 @@
+[
+  {
+    "_comment": "Cooked Porkchop => Ash",
+    "input_stack": { "name": "cooked_porkchop" },
+    "output_stack": { "ore": "ash" }
+  }
+]

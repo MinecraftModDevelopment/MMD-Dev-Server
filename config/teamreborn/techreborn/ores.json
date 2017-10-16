@@ -67,7 +67,7 @@
       "blockName": "tile.techreborn:ore",
       "blockNiceName": "Silver",
       "meta": 13,
-      "veinSize": 6,
+      "veinSize": 0,
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,

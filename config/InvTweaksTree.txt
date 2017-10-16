@@ -20,7 +20,7 @@
 # Thanks to Larandar & Lunaqua for their contributions.
 -->
 <!-- Note: 'stuff' matches everything, even items that don't appear here -->
-<stuff treeVersion="1.12.0">
+<stuff treeVersion="1.12.2">
     <equipment>
         <weapon>
             <sword>
@@ -335,8 +335,46 @@
                     <redStainedClay id="stained_hardened_clay" damage="14"/>
                     <blackStainedClay id="stained_hardened_clay" damage="15"/>
                 </stainedClay>
-                <concrete id="concrete"/>
-                <concretePowder id="concrete_powder"/>
+                <concrete>
+                    <whiteConcrete id="concrete" damage="0"/>
+                    <orangeConcrete id="concrete" damage="1"/>
+                    <magentaConcrete id="concrete" damage="2"/>
+                    <lightBlueConcrete id="concrete" damage="3"/>
+                    <yellowConcrete id="concrete" damage="4"/>
+                    <lightGreenConcrete id="concrete" damage="5"/>
+                    <limeConcrete id="concrete" damage="5"/>
+                    <pinkConcrete id="concrete" damage="6"/>
+                    <grayConcrete id="concrete" damage="7"/>
+                    <lightGrayConcrete id="concrete" damage="8"/>
+                    <cyanConcrete id="concrete" damage="9"/>
+                    <purpleConcrete id="concrete" damage="10"/>
+                    <blueConcrete id="concrete" damage="11"/>
+                    <brownConcrete id="concrete" damage="12"/>
+                    <greenConcrete id="concrete" damage="13"/>
+                    <darkGreenConcrete id="concrete" damage="13"/>
+                    <redConcrete id="concrete" damage="14"/>
+                    <blackConcrete id="concrete" damage="15"/>
+                </concrete>
+                <concretePowder>
+                    <whiteConcretePowder id="concrete_powder" damage="0"/>
+                    <orangeConcretePowder id="concrete_powder" damage="1"/>
+                    <magentaConcretePowder id="concrete_powder" damage="2"/>
+                    <lightBlueConcretePowder id="concrete_powder" damage="3"/>
+                    <yellowConcretePowder id="concrete_powder" damage="4"/>
+                    <lightGreenConcretePowder id="concrete_powder" damage="5"/>
+                    <limeConcretePowder id="concrete_powder" damage="5"/>
+                    <pinkConcretePowder id="concrete_powder" damage="6"/>
+                    <grayConcretePowder id="concrete_powder" damage="7"/>
+                    <lightGrayConcretePowder id="concrete_powder" damage="8"/>
+                    <cyanConcretePowder id="concrete_powder" damage="9"/>
+                    <purpleConcretePowder id="concrete_powder" damage="10"/>
+                    <blueConcretePowder id="concrete_powder" damage="11"/>
+                    <brownConcretePowder id="concrete_powder" damage="12"/>
+                    <greenConcretePowder id="concrete_powder" damage="13"/>
+                    <darkGreenConcretePowder id="concrete_powder" damage="13"/>
+                    <redConcretePowder id="concrete_powder" damage="14"/>
+                    <blackConcretePowder id="concrete_powder" damage="15"/>
+                </concretePowder>
                 <glazedTerracotta>
                     <whiteGlazedTerracotta id="white_glazed_terracotta"/>
                     <blackGlazedTerracotta id="black_glazed_terracotta"/>

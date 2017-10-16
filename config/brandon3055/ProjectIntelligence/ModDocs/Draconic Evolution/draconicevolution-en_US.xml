@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mod docRevision="11" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
+<mod docRevision="13" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
     <content index="30" type="textArea">§6Robert W
 §r(Since 08/06/2015)§r
 
@@ -1476,7 +1476,7 @@ Max Wireless Links: 64</content>
 <entry branchId="draconicevolution:enderEnergyManipulator" category="wiki.cat.item" icon="draconicevolution:ender_energy_manipulator" iconType="stack" name="Ender Energy Manipulator" sortingWeight="260">
         <content index="4" type="recipe">draconicevolution:ender_energy_manipulator,5</content>
         <content index="3" size="8" type="vSpacer"/>
-        <content index="2" type="textArea">§bDont want to risk don't want to risk incurring the wrath of the Enderman by killing the Ender Dragon? 
+        <content index="2" type="textArea">§bDont want to risk incurring the wrath of the Enderman by killing the Ender Dragon? 
 But you still want to get your hands on a dragon egg?
 No problem! 
 This mystical device allows you to extract an egg from the Ender Dragon without killing her!
@@ -1521,7 +1521,7 @@ and mobs §cwill only spawn if their spawn requirements are met§r e.g. grass fo
 
 Note: If you have EnderIO installed you can create stalilized spawners by crafting a core with an enderIO broken spawner,
 
-Creative Note: If you wish to set the type for a spawner in creative mode you can do so using a soawn egg.</content>
+Creative Note: If you wish to set the type for a spawner in creative mode you can do so using a spawn egg.</content>
         <content alignment="CENTER" colour="f0c0" hoverColour="0000FF" index="10" link="draconicevolution:mobSoul" shadow="true" size="0" targetLocation="branch" type="link">§nYou can learn more about mob souls by clicking here</content>
         <content index="9" size="8" type="vSpacer"/>
         <content index="5" type="splitContainer" vAlignment="TOP">
@@ -1544,9 +1544,9 @@ Creative Note: If you wish to set the type for a spawner in creative mode you ca
         <content index="8" type="textArea">Stabilizing a spawner turns it into a very useful tool for spawning all sorts of mobs. 
 To get one all you have to do is right click a vanilla spawner with any of the 4 DE Cores. 
 The spawner will consume the core and convert the spawner to the equivelent tier Stabilized Spawner which will be dropped as an item in world.
-This of course means there are 4 soawner tiers as there are 4 core tiers.
+This of course means there are 4 spawner tiers as there are 4 core tiers.
 
-It should be noted that when the spawner droppes it will be set to spawn the same entity as the original spawner.
+It should be noted that when the spawner drops it will be set to spawn the same entity as the original spawner.
 It should also be noted that once placed you can not pick up a spawner without destroying the mob soul it contains.
 In order to reset the spawner to the same or a different mob type you need to apply a new mob soul. </content>
         <content index="7" size="8" type="vSpacer"/>
@@ -1558,15 +1558,15 @@ In order to reset the spawner to the same or a different mob type you need to ap
         <content index="4" size="8" type="vSpacer"/>
         <content index="3" type="textArea">Mob souls are occasionally dropped my mobs when killed by a player using a weapon with the Reaper modifier.
 
-The drop chance is extramely low. 
+The drop chance is extremely low.
 1 in 1000 for hostile mobs and 1 in 800 for passive mobs (configurable) for unenchanted wyvern weapons.
-But the chances of getting a soul can be impruved using the reaper enchant.
+But the chances of getting a soul can be improved using the reaper enchant.
 
 DE tools essentially have a built in reaper modifier equivelent to reaper lvl 1 for Wyvern, lvl 2 for Draconic and lvl 3 for the Staff of Power.
-The calculation to figure out your drop chance is the base drop chance divided by the the weapons built in reaper modifier plus the reper enchant lvl.
+The calculation to figure out your drop chance is the base drop chance divided by the weapons built in reaper modifier plus the reaper enchant lvl.
 
 So the calculation for say.. A Draconic sword with reaper 5 would be as follows,
-built in modifer = 2,
+built in modifier = 2,
 reaper lvl = 5,
 drop chance = 1000 / (2 + 5)
 
@@ -1574,7 +1574,7 @@ Result: Drop chance is 1 in 142
 
 If the reaper modifer is 0 (so a non-DE weapon without the reaper enchant) there is 0 chance of getting a soul.
 
-Some mods may implement the reaper modifier on their weapons but as of the time of writing this i do not know of any that do.
+Some mods may implement the reaper modifier on their weapons but as of the time of writing this I do not know of any that do.
 
 
 §bThe main use for a mob soul is setting the spawn type for a Stabilized spawner but they can also be used to spawn their respective entity by shift right clicking on a block with a soul.
@@ -1603,7 +1603,7 @@ in the furnace upgrade slot you can make it even faster!
 And if that still wasn't enough as long as there is a wyvern core or better in the upgrade slot the furnace will double ores!
 
 But it should be noted that while increasing the speed this also increases the energy consumption
-a lot more that it decreases the process time.
+a lot more than it decreases the process time.
 
 It should also be noted that when upgraded the core is not actually consumed and can be removed at any time.
 
@@ -1657,7 +1657,7 @@ Also when you have the region editor open you can simply click on existing regio
 
 The uses for this are endless but 1 simple example...
 You create 2 regions. 
-Region 1 only accepts items from the left side of the chest and the furnace can onlu pull from region 1.
+Region 1 only accepts items from the left side of the chest and the furnace can only pull from region 1.
 Region 2 only allows items to be extracted from the right side of the chest and the furnace can only output to region 2.
 
 Now when you pump items into the left side on the chest they will go to region 1, get smelted and then output to region 2 ready to be extracted from the right side of the chest.

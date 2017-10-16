@@ -111,7 +111,7 @@
       "id": "minecraft:stained_hardened_clay:2"
     },
     {
-      "target": "lightBlue",
+      "target": "light_blue",
       "weight": 2,
       "id": "minecraft:stained_hardened_clay:3"
     },
@@ -179,6 +179,101 @@
       "target": "3",
       "weight": 28,
       "id": "minecraft:sponge"
+    },
+    {
+      "target": "white",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:0"
+    },
+    {
+      "target": "orange",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:1"
+    },
+    {
+      "target": "magenta",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:2"
+    },
+    {
+      "target": "light_blue",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:3"
+    },
+    {
+      "target": "yellow",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:4"
+    },
+    {
+      "target": "lime",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:5"
+    },
+    {
+      "target": "pink",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:6"
+    },
+    {
+      "target": "gray",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:7"
+    },
+    {
+      "target": "silver",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:8"
+    },
+    {
+      "target": "cyan",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:9"
+    },
+    {
+      "target": "purple",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:10"
+    },
+    {
+      "target": "blue",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:11"
+    },
+    {
+      "target": "brown",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:12"
+    },
+    {
+      "target": "green",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:13"
+    },
+    {
+      "target": "red",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:14"
+    },
+    {
+      "target": "black",
+      "weight": 4,
+      "id": "environmentalmaterials:alabaster:15"
+    },
+    {
+      "target": "yellow",
+      "weight": 30,
+      "id": "OD:stoneLimestone"
+    },
+    {
+      "target": "white",
+      "weight": 30,
+      "id": "OD:stoneMarble"
+    },
+    {
+      "target": "brown",
+      "weight": 20,
+      "id": "chisel:brownstone"
     },
     {
       "target": "white",
