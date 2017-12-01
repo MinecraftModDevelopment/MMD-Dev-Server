@@ -1,0 +1,52 @@
+{
+  "views": [
+    {
+      "name": "*",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "main",
+        "interaction",
+        "system",
+        "death"
+      ]
+    },
+    {
+      "name": "system",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Side",
+      "isExclusive": true,
+      "isMuted": false,
+      "channels": [
+        "system"
+      ]
+    },
+    {
+      "name": "interaction",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Bottom",
+      "isExclusive": true,
+      "isMuted": false,
+      "channels": [
+        "interaction"
+      ]
+    },
+    {
+      "name": "morpheus11011",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "outgoingPrefix": "/twitch #morpheus11011 ",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "morpheus11011"
+      ]
+    }
+  ]
+}
