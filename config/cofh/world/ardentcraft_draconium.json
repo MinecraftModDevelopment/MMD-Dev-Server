@@ -1,0 +1,26 @@
+{
+	"dependencies": "thermalfoundation",
+	"populate": {
+		"draconiium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "draconicevolution:draconium_ore",
+					"metadata": 1
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 5,
+			"min-height": 5,
+			"max-height": 35,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [1
+				]
+			}
+		}
+	}
+}
