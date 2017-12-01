@@ -1,0 +1,228 @@
+{
+  "version": "1.2",
+  "dimensions": [
+    {
+      "dimension": "-1",
+      "ores": [
+        {
+          "blocks": [
+            {
+              "block": "basemetals:coldiron_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 5.0,
+            "minHeight": 0,
+            "maxHeight": 128
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:adamantine_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 2.0,
+            "minHeight": 0,
+            "maxHeight": 128
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        }
+      ]
+    },
+    {
+      "dimension": "1",
+      "ores": [
+        {
+          "blocks": [
+            {
+              "block": "basemetals:starsteel_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 5.0,
+            "minHeight": 0,
+            "maxHeight": 255
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        }
+      ]
+    },
+    {
+      "ores": [
+        {
+          "blocks": [
+            {
+              "block": "basemetals:copper_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 10.0,
+            "minHeight": 0,
+            "maxHeight": 96
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:silver_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 4.0,
+            "minHeight": 0,
+            "maxHeight": 32
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:tin_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 10.0,
+            "minHeight": 0,
+            "maxHeight": 128
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:lead_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 5.0,
+            "minHeight": 0,
+            "maxHeight": 64
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:zinc_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 5.0,
+            "minHeight": 0,
+            "maxHeight": 96
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:mercury_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 3.0,
+            "minHeight": 0,
+            "maxHeight": 32
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:nickel_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 1.0,
+            "minHeight": 32,
+            "maxHeight": 96
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        },
+        {
+          "blocks": [
+            {
+              "block": "basemetals:platinum_ore",
+              "state": "normal",
+              "chance": 100
+            }
+          ],
+          "parameters": {
+            "size": 8,
+            "variation": 4,
+            "frequency": 0.125,
+            "minHeight": 1,
+            "maxHeight": 32
+          },
+          "feature": "default",
+          "replace_block": "default",
+          "biomes": []
+        }
+      ]
+    }
+  ]
+}

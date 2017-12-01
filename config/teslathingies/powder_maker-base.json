@@ -1,0 +1,18 @@
+[
+  {
+    "_comment": "Gravel -> 75% Sand",
+    "input_stack": { "ore": "gravel" },
+    "outputs": [
+      { "name": "sand", "chance": 0.75 }
+    ]
+  },
+  {
+    "_comment": "Sand Stone -> Sand + 50% Sand + 50% Sand",
+    "input_stack": { "ore": "sandstone" },
+    "outputs": [
+      { "name": "sand" },
+      { "name": "sand", "chance": 0.50 },
+      { "name": "sand", "chance": 0.50 }
+    ]
+  }
+]
