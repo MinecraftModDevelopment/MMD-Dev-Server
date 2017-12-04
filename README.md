@@ -11,7 +11,7 @@ No, the server has a whitelist. Anyone may apply to be whitelisted, however you 
 You can create a new request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/MOD_REQUEST.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
 
 **How do I get an updated version of my pack on the server?**    
-You can create an update request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/UPDATE.md).
+You can create an update request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). Otherwise sending a discord message to Boqzo1 or Morpheus1101 will also surfice.
 
 **Do I have to be the author of a mod pack to submit it?**     
 We prefer you be the Mod Pack Author or Apart of the team devaloping it and have permission to sumit the pack for testing.
