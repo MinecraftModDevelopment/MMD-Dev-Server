@@ -47,6 +47,12 @@ recipes.addShaped(<thermalfoundation:upgrade:3>,
 #Induction Smelter ink sack
 mods.thermalexpansion.InductionSmelter.addRecipe(<minecraft:dye> *8, <thermalfoundation:material:768> *4, <minecraft:water_bucket>, 800, <minecraft:dye>, 5);
 
+#Adjust Sawmill Recipe
+recipes.remove(<thermalexpansion:machine:2>);
+recipes.addShaped(<thermalexpansion:machine:2>,
+[[null, <thermalfoundation:material:24>, null], 
+[<advancedrocketry:sawbladeiron>, <thermalexpansion:frame>, <advancedrocketry:sawbladeiron>], 
+[<thermalfoundation:material:256>, <thermalfoundation:material:513>, <thermalfoundation:material:256>]]);
 
 
 print("Initialized 'ThermalExpansion.zs'");

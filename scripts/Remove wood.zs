@@ -1,0 +1,4 @@
+recipes.remove(<ore:plankWood>);
+
+
+

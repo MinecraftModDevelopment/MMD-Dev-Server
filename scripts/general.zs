@@ -61,5 +61,4 @@ recipes.addShaped(<draconicevolution:celestial_manipulator>,
 [<minecraft:iron_ingot>, <draconicevolution:awakened_core>, <minecraft:iron_ingot>]]);
 
 
-
 print("Finished Initializing 'General.zs'");
