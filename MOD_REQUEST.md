@@ -1,13 +1,11 @@
-# MMD Dev Server Mod Request Template
+# MMD Dev Server ModPack Request Template
 
-**Mod Name**:
+**ModPack Name**:
 
-**Mod Version**:
+**ModPack MC Version**:
 
 **Link To Download**:
 
-**Dependant Mods**:
+**If you're not the author of the modpack, do you have permission to test it form the Author**:
 
-**If you're not the author of the mod you are requesting, why should this mod be added**:
-
-**If the mod is not currently hosted anywhere, please give a brief decription of the mod**:
+**please give a brief decription of the modpack**:
