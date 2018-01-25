@@ -1,3 +1,5 @@
+# THIS IS ARCHIVED CONTENT, THE MMD DEV SERVER IS NO LONGER ACTIVE
+
 # MMD Dev Server
 Welcome to the GitHub repo for the official Minecraft Mod Development Dev Server. This is a server dedicated to testing mod packs made by members of the community, while also providing a fun server to play on. While the server is whitelisted and locked down, anyone is allowed to submit a request to join the server, or to have their mod packs added. If you have any questions you can also reach out to any of the Dev Server Admins (DSA). 
 
