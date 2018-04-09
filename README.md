@@ -8,7 +8,7 @@ Make sure you are part of the [Discord Server](http://discord.mcmoddev.com/). On
 No, the server has a whitelist. Anyone may apply to be whitelisted, however you can apply by submitting a new issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). Please keep in mind that we have a template which you can find [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/WHITELIST.md). If you don't use the template, you wont be accepted. 
 
 **How do I get the modpack?**
-The Official MMD Dev Server Modpack can be found at:
+The Official MMD Dev Server Modpack can be found at: 
 https://github.com/knoxhack/MMD-Dev-Server-Modpack/releases
 Or you can get the link to download the modpack under the #mmd-dev-server-info channel under the >MMD-SERVERS Category on Discord.     
 
