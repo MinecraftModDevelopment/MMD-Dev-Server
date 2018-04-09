@@ -9,3 +9,6 @@
 **How did you hear about MMD** (*i.e existing user, facebook etc.*):
 
 - [ ] I agree to the terms set forth in the MMD Dev Server's [Terms of Play](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/TERMS.md)
+
+- [ ] I have read the Readme file at: [Readme](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/README.md)
+
