@@ -12,8 +12,11 @@ The Official MMD Dev Server Modpack can be found at:
 https://github.com/knoxhack/MMD-Dev-Server-Modpack/releases
 Or you can get the link to download the modpack under the #mmd-dev-server-info channel under the >MMD-SERVERS Category on Discord.     
 
+**Where do I report an issue?**    
+Issues to be reported under the Modpack repository at: [here](https://github.com/knoxhack/MMD-Dev-Server-Modpack/issues).
+
 **How do I request my mod be added?**    
-You can create a new request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/MOD_REQUEST.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
+You can create a new request by opening an issue [here](https://github.com/knoxhack/MMD-Dev-Server-Modpack/issues). We have a template for mod requests which can be found [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/blob/master/MOD_REQUEST.md). If you don't use the template your request wont be accepted. If your mod is private or not released yet you can contact a DSA. 
 
 **How do I get an updated version of my mod on the server?**    
 You can create an update request by opening an issue [here](https://github.com/MinecraftModDevelopment/MMD-Dev-Server/issues). Otherwise sending a discord message to Knoxhack will also surfice.
